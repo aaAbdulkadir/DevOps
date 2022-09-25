@@ -1,0 +1,284 @@
+ configure name and email
+
+    git config --global user.name "First Last"
+
+    git config --global user.email email@email.com
+
+add vsc to path
+
+    git config --global core.editor "code --wait"
+
+open up editor to see git config file
+
+    git config --global -e
+
+how git should handle end of lines (windows /r/n mac/linux /n)
+
+    git config --global core.autocrlf input <-- mac/linux
+    git config --global core.autocrlf true <-- windows
+
+add directory to git
+
+firstly initialise git
+
+    git init
+
+        # this creates a directory called .git 
+        # ls -a <-- shows this in terminal
+
+    open .git <-- see what is inside it
+
+
+make couple files for testing
+
+check git status
+
+    git status <-- shows the files that are untracked
+
+add untracked files to staging area
+
+    git add git_learning.txt git_learning_2.txt
+
+now these files are in the staging area
+
+    git status
+
+comitting changes
+
+    git commit -m "Initial commit"
+
+if message is long write 
+
+    git commit
+
+this will open up your editor to where you can type your message for the commit
+
+how to commit file and skip staging area:
+
+    git commit -am "my message" <-- -a means all modified files. Git add is skipped
+
+how to remove a file from your git
+
+    rm git_learning_2.txt
+    git status
+
+    git ls-files <--  files in staging area
+
+    git add git_learning_2.txt <-- adds the deleted file to staging area i.e. removes init
+    git status
+    git ls-files
+
+    git commit -m "Removed a file"
+
+
+how to remove file from working directory and staging area at once
+
+    git rm git_learning_2.txt
+
+renaming/moving files
+
+    mv git_learning.txt node.js
+    git status <-- see changes
+
+    git add git_learning.txt <-- stage the deletion
+    git add node.js <-- add name of new file
+    git status <-- see changes
+
+do both at once
+
+    git mv node.js main.py
+
+commit changes
+
+    git commit -m "changed file from js to py"
+
+ignoring files that may be sensitive
+
+    echo "password" > password.txt
+
+    -- create a gitignore file
+    
+    echo "password.txt" > .gitignore
+
+    git add .gitignore
+
+    git commit -m "added a gitignore file"
+
+if you accidentally commit a file that was meant to be git ignore,
+you have to delete it from the staging area otherwise it is 
+being tracked
+
+    git rm --cached -r password.txt <-- removes file from staging area (index)
+
+github/gitignore has templates for gitignore files for each use changes
+
+short status
+
+    git status -s <-- makes the status print short
+
+view staged and unstaged changes
+
+    git diff --staged
+
+setting difftool on vscode for git to track changes on vscode
+
+    git config --global difftool.vscode.cmd "code --wait --diff $LOCAL $REMOTE"
+
+    git config --global -e <-- check if it worked
+
+    IF THIS DOESNT WORK 
+
+        git config --global -e
+
+        ADD
+
+        [diff]
+            tool = vscode
+        [difftool "vscode"]
+            cmd = code --wait --diff $LOCAL $REMOTE
+
+    git difftool
+    git difftool --staged
+
+viewing history
+
+    git log
+
+    git log --online <-- shorter version
+    git log --online --reverse <-- order reveresed
+
+master is the main branch, head is the reference to the current branch being worked on
+
+how to view the content of a git commit
+
+    git log --oneline <-- get id
+
+    git show {id}
+
+to check the commit without id
+
+    git show HEAD~1 <-- this starts from the commit at the head i.e. oldest
+
+how to see files in a tree format
+
+    git ls-tree HEAD~1
+
+unstaging files
+
+    git restore --staged {name} <-- anything that is staged i.e. green will be unstaged 
+
+discarding local changes
+
+    git restore {name}
+
+to remove untracked files
+
+    git clean -h <-- help to see commands, this is a DANGEROUS COMMAND as yuo cannot recover it once done
+
+    git clean -fd {name}
+
+restore file to an earlier version
+
+after deleting a file 
+
+    git restore --source=HEAD~1 {name}
+
+
+
+
+git branching.
+master is default/main repo
+
+you can make another branch which will not affect the master branch
+maybe make new features to applications to your feature branch rather than merging
+it to the master branch for testing purposes, in order to keep the main branch
+or the app on this branch running.
+
+view branch
+
+    git branch
+
+create new branch
+
+    git checkout -b test-branch
+
+    git branch <-- see that the branch changed
+
+    git checkout {name_of_branch} <-- switch between branches
+
+once you develop new code on that branch and are ready to merge it to the main,
+first, push the code to github, go onto github website and inside that repo, you would see that you can 
+make a pull request from the feature branch to the master branch and this would
+add the other branch code to the main branch. However, this is not locally/
+To update locally, you need to pull the code to the main branch
+
+go to your master/main branch and pull
+
+    git pull
+
+delete the branch used for testing 
+
+    git branch -D test-branch
+
+branch deleted locally but not on github
+go to github and delete it 
+
+github merge conflict. 
+
+one scenario for learning:
+
+    on the new branch, commit changes and then go to master branch
+    and update the same line number. So both branches have line two.
+    Which line 2 will be taken forward? Git would give error,
+    so you have to commit in master branch.
+
+    (stashing is a temporary holding place for code)
+
+
+to merge using git, 
+
+    git merge main
+
+fix merge conflicts in the code
+
+
+
+Undoing in git
+
+undo staging 
+
+    git reset {nameoffile} or
+    git reset 
+
+how to undo commit
+
+    git reset HEAD~1 <-- go to the commit before the last and go back to that state
+    
+
+
+
+
+--------------------------------------
+
+connecting to github:
+
+
+    genereate ssh key pairs
+
+        mkdir ~/.ssh
+
+        https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
+
+
+    git push username and password set up. password is in developer settings
+
+    set up so that you do not have to always type username and password
+
+        git config --global user.name "FIRST_NAME LAST_NAME"
+
+        git config --global user.email "MY_NAME@example.com"
+
+    copy password from developer and push
+
+    ---------------------------------------
