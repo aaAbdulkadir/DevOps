@@ -183,6 +183,27 @@ after deleting a file
 
     git restore --source=HEAD~1 {name}
 
+
+git branching.
+master is default/main repo
+
+you can make another branch which will not affect the master branch
+maybe make new features to applications to your feature branch rather than merging
+it to the master branch for testing purposes, in order to keep the main branch
+or the app on this branch running.
+
+view branch
+
+    git branch
+
+create new branch
+
+    git checkout -b test-branch
+
+    git branch <-- see that the branch changed
+
+    git checkout {name_of_branch} <-- switch between branches
+
 --------------------------------------
 
 connecting to github:
