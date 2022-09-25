@@ -204,6 +204,20 @@ create new branch
 
     git checkout {name_of_branch} <-- switch between branches
 
+once you develop new code on that branch and are ready to merge it to the main,
+first, push the code to github, go onto github website and inside that repo, you would see that you can 
+make a pull request from the feature branch to the master branch and this would
+add the other branch code to the main branch. However, this is not locally/
+To update locally, you need to pull the code to the main branch
+
+go to your master/main branch and pull
+
+    git pull
+
+delete the branch used for testing 
+
+    git branch -D test-branch
+
 --------------------------------------
 
 connecting to github:
