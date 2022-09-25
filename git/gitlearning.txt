@@ -254,10 +254,10 @@ how to undo commit
 
     git reset HEAD~1 <-- go to the commit before the last and go back to that state
 
+
 to know how far back you want to go revert to check log
 
     git log 
-
 
     git reset --hard hash_code <-- erases latest updates
 
