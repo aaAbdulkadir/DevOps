@@ -1,3 +1,6 @@
+VIDEO 1:
+-----------------------
+ 
  configure name and email
 
     git config --global user.name "First Last"
@@ -184,7 +187,8 @@ after deleting a file
     git restore --source=HEAD~1 {name}
 
 
-
+VIDEO 2:
+---------------------------------
 
 git branching.
 master is default/main repo
@@ -262,6 +266,20 @@ to know how far back you want to go revert to check log
     git reset --hard hash_code <-- erases latest updates
 
 
+Forking, makes a complete copy of a repository
+
+one use case is to branch off the original repo and make changes
+
+fork it to own user and it will be under yout own account, i.e. your own repo
+
+committing changes:
+- commit directory to dev (the repo you forked and not the original )
+-  new branch
+
+to get your code to the actual repo you would put in a pull request
+
+
+CONNECTION:
 --------------------------------------
 
 connecting to github:
