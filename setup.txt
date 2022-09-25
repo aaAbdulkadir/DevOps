@@ -191,6 +191,17 @@ connecting to github:
     genereate ssh key pairs
 
         mkdir ~/.ssh
-        ssh-keygen -t rsa -b 4096 -C email.address@hotmail.com
 
-    put public key in github
+        https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
+
+
+    git push username and password set up. password is in developer settings
+
+    set up so that you do not have to always type username and password
+
+        git config --global user.name "FIRST_NAME LAST_NAME"
+
+        git config --global user.email "MY_NAME@example.com"
+
+    copy password from developer and push
