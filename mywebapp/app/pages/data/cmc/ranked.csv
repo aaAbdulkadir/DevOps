@@ -1,0 +1,5001 @@
+﻿Column1,symbol,name,Market Cap
+2680,WETH,WETH,$0
+2681,TRY,Try.Finance,$0
+2682,XETA,XANA,$0
+2683,GNS,Gains Network,$0
+2684,SWEAT,Sweat Economy,$0
+2685,XT,XT.com Token,$0
+2686,XTUSD,XT Stablecoin XTUSD,$0
+2687,BETH,Beacon ETH,$0
+2688,SOL,Wrapped Solana,$0
+2689,NFTN,NFTNetwork,$0
+2690,AUSD,Acala Dollar(Acala),$0
+2691,LDOT,Liquid Staking Dot,$0
+2692,GGP,Geegoopuzzle,$0
+2693,WAVAX,Wrapped AVAX,$0
+2694,WMATIC,Wrapped Matic,$0
+2695,ZEDXION,ZEDXION,$0
+2696,RUNE,THORChain (ERC20),$0
+2697,GGT,Goat Gang,$0
+2698,FITFI,Step App,$0
+2699,LING,Lingose,$0
+2700,LOG,LOGOS,$0
+2701,TOKKI,CRYPTOKKI,$0
+2702,ANV,ANIVERSE,$0
+2703,GVR,Grove,$0
+2704,GHNY,Grizzly Honey,$0
+2705,BABY,Metababy,$0
+2706,WFTM,Wrapped Fantom,$0
+2707,USTC,Terra Classic USD (Wormhole),$0
+2708,USDP,USDP Stablecoin,$0
+2709,ETHS,ETHPoS (IOU),$0
+2710,ANON,Anonverse,$0
+2711,BTCDOWN,BTCDOWN,$0
+2712,CBETH,Coinbase Wrapped Staked ETH,$0
+2713,WCRO,Wrapped CRO,$0
+2714,CHO,Choise.com,$0
+2715,ETHDOWN,ETHDOWN,$0
+2716,CUSDC,Compound USD Coin,$0
+2717,STRM,StreamCoin,$0
+2718,FND,Rare FND,$0
+2719,USDCE,USD Coin Bridged,$0
+2720,HIENS4,hiENS4,$0
+2721,CDAI,Compound Dai,$0
+2722,TRR,Terran Coin,$0
+2723,NYM,NYM,$0
+2724,stSOL,Lido Staked SOL,$0
+2725,AUDT,Australian Dollar Token,$0
+2726,hiBAYC,hiBAYC,$0
+2727,OKT,OKC Token,$0
+2728,BULL,3X Long Bitcoin Token,$0
+2729,DTR,Dotori,$0
+2730,MINE,SpaceMine,$0
+2731,WALV,Alvey Chain,$0
+2732,DC,Dogechain,$0
+2733,HBD,Hive Dollar,$0
+2734,DOME,Everdome,$0
+2735,FT,Fracton Protocol,$0
+2736,CUBE,Cube Network,$0
+2737,ORBR,Orbler,$0
+2738,GMX,GMX,$0
+2739,BGB,Bitget Token,$0
+2740,TARI,Tari World,$0
+2741,BEE,Herbee,$0
+2742,ALD,AladdinDAO,$0
+2743,STC,Satoshi Island,$0
+2744,BEAR,3X Short Bitcoin Token,$0
+2745,MLP,My Liquidity Partner,$0
+2746,ETHBULL,3X Long Ethereum Token,$0
+2747,HIENS3,hiENS3,$0
+2748,SQUIDGROW,Squid Grow,$0
+2749,HIPUNKS,hiPunks,$0
+2750,DOTDOWN,DOTDOWN,$0
+2751,VOLT,Volt Inu V2,$0
+2752,ORCA,Orca,$0
+2753,WE,WeBuy,$0
+2754,DEBT,The Debt Box,$0
+2755,CUSDT,Compound USDT,$0
+2756,GULF,Gulf Coin,$0
+2757,ADADOWN,ADADOWN,$0
+2758,ETHUP,ETHUP,$0
+2759,ROC,Rocket Raccoon,$0
+2760,BTCUP,BTCUP,$0
+2761,USDZ,ZEDXION,$0
+2762,PLCU,PLC Ultima,$0
+2763,REDLC,Redlight Chain,$0
+2764,MMF,MM Finance(Polygon),$0
+2765,SOCA,Socaverse,$0
+2766,ASY,ASYAGRO,$0
+2767,APEX,ApeX Protocol,$0
+2768,CAW,CAW(A Hunters Dream),$0
+2769,MC,Mechaverse,$0
+2770,PXP,PointPay,$0
+2771,BIT,Biconomy Exchange Token,$0
+2772,FLOKI,Floki Inu,$0
+2773,EVMOS,Evmos,$0
+2774,MOTG,MetaOctagon,$0
+2775,MULTI,Multichain,$0
+2776,MSQ,MSQUARE GLOBAL,$0
+2777,CGO,Comtech Gold,$0
+2778,QUARTZ,Quartz,$0
+2779,ETHW,ETHPoW (IOU),$0
+2780,FOLD,Manifold Finance,$0
+2781,WEGLD,Wrapped Elrond,$0
+2782,PLEX,MinePlex,$0
+2783,WLUNC,Wrapped LUNA Classic,$0
+2784,LINKDOWN,LINKDOWN,$0
+2785,RUSH,RUSH COIN,$0
+2786,ADAUP,ADAUP,$0
+2787,HDRN,Hedron,$0
+2788,FLY,Franklin,$0
+2789,BRZ,Brazilian Digital Token,$0
+2790,OSQTH,Opyn Squeeth,$0
+2791,WBT,WhiteBIT Token,$0
+2792,WONE,Wrapped Harmony,$0
+2793,EUL,Euler,$0
+2794,JEWEL,DeFi Kingdoms,$0
+2795,KSC,KStarCoin,$0
+2796,OPT2,Optimus OPT2,$0
+2797,DOTUP,DOTUP,$0
+2798,POOP,ShitGame (POOP),$0
+2799,GAT,Global AEX Token,$0
+2800,FXC,FUTUREXCRYPTO,$0
+2801,TPY,Thrupenny,$0
+2802,WNEAR,Wrapped Near,$0
+2803,USDH,USDH,$0
+2804,MAYP,Maya Preferred,$0
+2805,STI,Seek Tiger,$0
+2806,LINKUP,LINKUP,$0
+2807,MSCT,MUSE ENT NFT,$0
+2808,MCH,MeconCash,$0
+2809,MBX,MARBLEX,$0
+2810,PKOIN,Pkoin,$0
+2811,BVT,BovineVerse Token,$0
+2812,STORE,Bit.Store,$0
+2813,TWD,Terra World Token,$0
+2814,PURE,Puriever,$0
+2815,KUBE,KubeCoin,$0
+2816,GM,GM Wagmi,$0
+2817,EPX,Ellipsis,$0
+2818,WLKN,Walken,$0
+2819,CELEB,CELEBPLUS,$0
+2820,OCT,Octopus Network,$0
+2821,ORT,Okratech Token,$0
+2822,BXMI,Bxmi Token,$0
+2823,BKK,BKEX Chain,$0
+2824,ANML,Animal Concerts,$0
+2825,FGD,Freedom God Dao,$0
+2826,EDGT,Edgecoin,$0
+2827,TSUKA,Dejitaru Tsuka,$0
+2828,BTR,BTRIPS,$0
+2829,NEOX,Neoxa,$0
+2830,PRX,Parex,$0
+2831,LYO,LYO Credit,$0
+2832,LOVELY,Lovely Inu,$0
+2833,BNBDOWN,BNBDOWN,$0
+2834,OMAX,Omax Coin,$0
+2835,RAIN,Rainmaker Games,$0
+2836,POKT,Pocket Network,$0
+2837,AGEUR,Angle Protocol,$0
+2838,IVAR,Ivar Coin,$0
+2839,MIM,Magic Internet Money,$0
+2840,CGU,Crypto Gaming United,$0
+2841,RED,RED TOKEN,$0
+2842,DUSD,Decentralized USD(Defichain),$0
+2843,GOLD,CyberDragon Gold,$0
+2844,MTRG,Meter Governance,$0
+2845,MLS,Pikaster,$0
+2846,UNDEAD,Undead Blocks,$0
+2847,RTC,Reltime,$0
+2848,AZERO,Aleph Zero,$0
+2849,LEASH,Doge Killer,$0
+2850,DAPPT,Dapp Token,$0
+2851,MMF,MM Finance(Cronos),$0
+2852,STKK,Streakk,$0
+2853,AMZE,Amaze World,$0
+2854,XRD,Radix,$0
+2855,GWP,Gateway Protocol,$0
+2856,REVO,REVOLAND TOKEN,$0
+2857,LINU,Luna Inu,$0
+2858,SROCKET,Stable One Rocket,$0
+2859,UXD,UXD Stablecoin,$0
+2860,SBTC,sBTC,$0
+2861,SNAP,Snap Token,$0
+2862,EGO,EGO,$0
+2863,DON,Donnie Finance,$0
+2864,FDC,Fidance,$0
+2865,MODEX,Modex,$0
+2866,DOLA,DOLA,$0
+2867,TRU,Truebit,$0
+2868,ATOZ,Race Kingdom,$0
+2869,MTRM,Materium,$0
+2870,JUNO,JUNO,$0
+2871,SAPP,Sapphire,$0
+2872,CWEB,Coinweb,$0
+2873,SRT,Smart Reward Token,$0
+2874,RON,Ronin,$0
+2875,LGX,Legion Network,$0
+2876,MEER,QITMEER NETWORK,$0
+2877,DRC,DRC Mobility,$0
+2878,SYM,SymVerse,$0
+2879,TAVA,ALTAVA,$0
+2880,XELS,XELS,$0
+2881,METAL,Metal Blockchain,$0
+2882,SHDW,GenesysGo Shadow,$0
+2883,MERCE,MetaMerce,$0
+2884,BMAX,BMAX,$0
+2885,ELG,EscoinToken,$0
+2886,OSK,OSK,$0
+2887,XRUN,XRUN,$0
+2888,KUB,Bitkub Coin,$0
+2889,FOF,Future Of Fintech,$0
+2890,DVRS,DaoVerse,$0
+2891,ZED,ZED Token,$0
+2892,MSTR,Monsterra (MSTR),$0
+2893,SETH,sETH,$0
+2894,SRBP,Pikaster,$0
+2895,CATE,CateCoin,$0
+2896,SNACK,Crypto Snack,$0
+2897,GAZE,GazeTV,$0
+2898,MVRS,Meta MVRS,$0
+2899,SAUDISHIB,Saudi Shiba Inu,$0
+2900,VNES,Vanesse,$0
+2901,ICB,Incube Chain,$0
+2902,POPK,POPKON,$0
+2903,COLA,Colawork,$0
+2904,AUR,Aurix,$0
+2905,SPRT,Sportium,$0
+2906,NODL,Nodle,$0
+2907,DUST,DUST Protocol,$0
+2908,G,GRN,$0
+2909,SWP,StepWatch,$0
+2910,ASSA,ASSAPLAY,$0
+2911,X2Y2,X2Y2,$0
+2912,KSP,KLAYswap Protocol,$0
+2913,CMQ,COMMUNIQUE,$0
+2914,UCG,Universe Crystal Gene,$0
+2915,EGS,EdgeSwap,$0
+2916,NMS,Nemesis DAO,$0
+2917,GENS,Genshiro,$0
+2918,EGC,EverGrow,$0
+2919,RNDX,Round X,$0
+2920,PLATO,Plato Farm (PLATO),$0
+2921,HISAND33,hiSAND33,$0
+2922,KAS,Kaspa,$0
+2923,XRPUP,XRPUP,$0
+2924,NEPT,Metanept,$0
+2925,ABIC,Arabic,$0
+2926,CNYX,CanaryX,$0
+2927,MSTR,MicroStrategy tokenized stock FTX,$0
+2928,HOP,Hop Protocol,$0
+2929,CHE,CherrySwap,$0
+2930,POLYDOGE,PolyDoge,$0
+2931,TDROP,ThetaDrop,$0
+2932,LEMC,LEMONCHAIN,$0
+2933,RITE,ritestream,$0
+2934,SLG,Land Of Conquest,$0
+2935,RETH,Rocket Pool ETH,$0
+2936,MSU,Metasens,$0
+2937,MFI,MetFi,$0
+2938,CC,CloudChat,$0
+2939,DGP,DGPayment,$0
+2940,IP3,CRIPCO,$0
+2941,FIST,Fistbump,$0
+2942,BNBUP,BNBUP,$0
+2943,LFT,Lend Flare,$0
+2944,AMT,AMATERAS,$0
+2945,XDEN,Xiden,$0
+2946,NAP,Napoli Fan Token,$0
+2947,BTC.b,Bitcoin Avalanche Bridged,$0
+2948,IRT,Infinity Rocket Token,$0
+2949,RYOMA,Ryoma,$0
+2950,DRIV,DRIVEZ,$0
+2951,ULX,ULTRON,$0
+2952,VELO,Velodrome Finance,$0
+2953,AITN,Artificial Intelligence Technology Network,$0
+2954,PSL,Pastel,$0
+2955,KATA,Katana Inu,$0
+2956,DSP,Delio DSP,$0
+2957,ISLAMI,ISLAMICOIN,$0
+2958,RBT,Rubix,$0
+2959,ANGLE,Angle,$0
+2960,WMEMO,Wonderful Memories,$0
+2961,XRPDOWN,XRPDOWN,$0
+2962,EGX,Enegra (EGX),$0
+2963,JAM,Tune.FM,$0
+2964,MHUNT,MetaShooter,$0
+2965,NVIR,NvirWorld,$0
+2966,KISHU,Kishu Inu,$0
+2967,SFM,SafeMoon V2,$0
+2968,EAI,Edain,$0
+2969,TRIVIA,Trivians,$0
+2970,SHIDO,Shido,$0
+2971,MOONEY,MoonDAO,$0
+2972,BITCI,Bitcicoin,$0
+2973,SHEESHA,Sheesha Finance [BEP20],$0
+2974,VOW,Vow,$0
+2975,wSIENNA,Sienna (ERC20),$0
+2976,SSS,StarSharks (SSS),$0
+2977,ETH2X-FLI,ETH 2x Flexible Leverage Index,$0
+2978,ROSN,Roseon,$0
+2979,CCD,Concordium,$0
+2980,JFI,JackPool.finance,$0
+2981,FBX,Finance Blocks,$0
+2982,OMI,ECOMI,$0
+2983,PETN,Pylon Eco Token,$0
+2984,TAO,Fusotao Protocol,$0
+2985,RACEFI,RaceFi,$0
+2986,BDX,Beldex,$0
+2987,EVU,Evulus Token,$0
+2988,HYPE,Supreme Finance,$0
+2989,DIFX,Digital Financial Exchange,$0
+2990,PREMIA,Premia,$0
+2991,USDTE,Tether Avalanche Bridged,$0
+2992,ATPAY,AtPay,$0
+2993,HIT,HitBTC Token,$0
+2994,TSLA,Tesla tokenized stock FTX,$0
+2995,NPT,Neopin,$0
+2996,EURT,Tether EURt,$0
+2997,EMPIRE,Empire Token,$0
+2998,QI,QiDao,$0
+2999,FIRA,Defira,$0
+3000,LBK,LBK,$0
+3001,BIO,BITONE,$0
+3002,OHM,Olympus v2,$0
+3003,DMN,Domain,$0
+3004,TOMS,TomTomCoin,$0
+3005,UNIX,UniX Gaming,$0
+3006,SNFTS,Seedify NFT Space,$0
+3007,MESA,Metavisa Protocol,$0
+3008,FTB,Fit&Beat,$0
+3009,SHIT,I will poop it NFT,$0
+3010,NTVRK,Netvrk,$0
+3011,GDDY,Giddy,$0
+3012,WELL,Moonwell Artemis,$0
+3013,MELOS,Melos Studio,$0
+3014,CMCX,CORE MultiChain,$0
+3015,SGB,Songbird,$0
+3016,BCOIN,Bombcrypto,$0
+3017,SEUR,sEUR,$0
+3018,EHIVE,eHive,$0
+3019,ZINU,Zombie Inu,$0
+3020,QUINT,QUINT,$0
+3021,WCFG,Wrapped Centrifuge,$0
+3022,FON,INOFI,$0
+3023,AKITA,Akita Inu,$0
+3024,VICA,ViCA Token,$0
+3025,WMOVR,Wrapped Moonriver,$0
+3026,GOL,GogolCoin,$0
+3027,TAP,TAP FANTASY,$0
+3028,MOON,r/CryptoCurrency Moons,$0
+3029,BOX,BOX,$0
+3030,HUSKY,Husky Brother,$0
+3031,HEC,Hector Network,$0
+3032,DUSD,DefiDollar,$0
+3033,KASTA,Kasta,$0
+3034,AFP,Animal Farm Pigs,$0
+3035,MIMATIC,MAI,$0
+3036,EMC1,Emcis Network,$0
+3037,$HORDE,Horde Token,$0
+3038,LUNR,Lunr Token,$0
+3039,PTX,PlatinX,$0
+3040,TONIC,Tectonic,$0
+3041,DAPPX,dAppstore,$0
+3042,PLAY,Metaverse NFT Index,$0
+3043,VTX,Vector Finance,$0
+3044,MILO,Milo Inu,$0
+3045,POLL,Pollchain,$0
+3046,RUN,RunNode,$0
+3047,LUFFY,Luffy,$0
+3048,NEER,Metaverse.Network Pioneer,$0
+3049,WELUPS,Welups Blockchain,$0
+3050,WATER,OCEANA Waters,$0
+3051,DUEL,Duel Network,$0
+3052,SPOOL,Spool DAO,$0
+3053,TAI,TAI,$0
+3054,HSF,Hillstone Finance,$0
+3055,MMPRO,MMPRO Token,$0
+3056,HOT,HyperOne,$0
+3057,RDPX,Dopex Rebate Token,$0
+3058,SLEEPEE,Sleep Future,$0
+3059,GMD,The Coop Network,$0
+3060,MATICBULL,3X Long Matic Token,$0
+3061,NFUP,Natural Farm Union Protocol,$0
+3062,B3X,Bnext Token,$0
+3063,TTC,Tao Te Ching,$0
+3064,SPHYNX,Sphynx BSC,$0
+3065,CHRP,Chirpley,$0
+3066,GOD,Bitcoin God,$0
+3067,EVERETH,EverETH,$0
+3068,LUXY,LUXY,$0
+3069,MJT,MojitoSwap,$0
+3070,ASTO,Altered State Token,$0
+3071,GQ,Outer Ring MMO (GQ),$0
+3072,BLD,Agoric,$0
+3073,FYN,Affyn,$0
+3074,FRZSS,Frz Solar System,$0
+3075,DEVT,Decentralized Eternal Virtual Traveller,$0
+3076,SML,Saltmarble,$0
+3077,XBT,XBIT,$0
+3078,SHEESHA,Sheesha Finance [ERC20],$0
+3079,VALUE,Value Liquidity,$0
+3080,LPNT,Luxurious Pro Network Token,$0
+3081,DMTR,Dimitra,$0
+3082,BERRY,Berry,$0
+3083,BRDG,Bridge Network,$0
+3084,WAS,Wasder,$0
+3085,MEAN,Meanfi,$0
+3086,PLI,Plugin,$0
+3087,SIGN,SIGN,$0
+3088,LUNG,LunaGens,$0
+3089,IXT,IX Token,$0
+3090,SQUA,Square Token,$0
+3091,JFC,JFIN,$0
+3092,SMC,SMART MONEY COIN,$0
+3093,USDF,FolgoryUSD,$0
+3094,RIDE,holoride,$0
+3095,EQX,EQIFI,$0
+3096,JSOL,JPool Staked SOL (JSOL),$0
+3097,SLCL,Solcial,$0
+3098,SVN,Savanna,$0
+3099,COREDAO,coreDAO,$0
+3100,DPX,Dopex,$0
+3101,TOOB,Toobcoin,$0
+3102,U,Unidef,$0
+3103,SCLP,Scallop,$0
+3104,SKEB,Skeb Coin,$0
+3105,ALGOBLK,AlgoBlocks,$0
+3106,XWIN,xWIN Finance,$0
+3107,ELT,Element.Black,$0
+3108,ATT,Artube,$0
+3109,FAME,Fame MMA,$0
+3110,XRPAYNET,XRPayNet,$0
+3111,WUKONG,Monkey King,$0
+3112,ORL,Orlando Chain,$0
+3113,GODE,Gode Chain,$0
+3114,THB,Thunder Brawl,$0
+3115,MAT,MirArc Chain,$0
+3116,ADXX,AnonyDoxx,$0
+3117,PNFT,Planet NFT,$0
+3118,MXT,MixTrust,$0
+3119,FURY,Fanfury,$0
+3120,CANTO,CANTO,$0
+3121,LKC,Lucky Coin,$0
+3122,THOR,Thor,$0
+3123,CHMB,Chumbi Valley,$0
+3124,FPIS,Frax Price Index Share,$0
+3125,SHINJA,Shibnobi,$0
+3126,LOON,Loon Network,$0
+3127,PCI,PayCoin,$0
+3128,SD,Stader,$0
+3129,FLX,Flux,$0
+3130,EWC,Erugo World Coin,$0
+3131,JPEG,JPEG'd,$0
+3132,SPIRAL,Up Spiral,$0
+3133,BFIC,Best Fintech Investment Coin,$0
+3134,POLC,Polkacity,$0
+3135,FORESTPLUS,The Forbidden Forest,$0
+3136,HMT,Human,$0
+3137,VAI,VAIOT,$0
+3138,GTCOIN,GAMETREE,$0
+3139,DKS,DarkShield Games Studio,$0
+3140,CELT,Celestial,$0
+3141,VEUSD,VeUSD,$0
+3142,EGAME,EVERY GAME,$0
+3143,HOICHI,Hoichi,$0
+3144,GRND,SuperWalk,$0
+3145,GR,Grom,$0
+3146,SEOR,SEOR Network,$0
+3147,QI,QiSwap,$0
+3148,STB,StarBlock,$0
+3149,LPOOL,Launchpool,$0
+3150,USDS,Sperax USD,$0
+3151,WTK,WadzPay Token,$0
+3152,DFX,DFX Finance,$0
+3153,UPO,UpOnly,$0
+3154,CBANK,CryptoBank,$0
+3155,SG,SocialGood,$0
+3156,WGLMR,Wrapped Moonbeam,$0
+3157,NPICK,NPICK BLOCK,$0
+3158,OLAND,Oceanland,$0
+3159,POL,Proof Of Liquidity,$0
+3160,OBX,OpenBlox,$0
+3161,GET,GET,$0
+3162,MRHB,MRHB DeFi,$0
+3163,UNIC,Unicly,$0
+3164,FNC,Fancy Games,$0
+3165,MNG,Moon Nation Game,$0
+3166,IPX,InpulseX,$0
+3167,BABYLLAMA,Babyllama,$0
+3168,NASSR,Alnassr FC fan token,$0
+3169,USH,Hedge USD,$0
+3170,PETT,Pett Network,$0
+3171,NEWS,PUBLISH,$0
+3172,ANTEX,Antex,$0
+3173,MTS,Metastrike,$0
+3174,DIONE,Dione Protocol,$0
+3175,BORING,BoringDAO,$0
+3176,CPS,Cryptostone,$0
+3177,TBAC,BlockAura,$0
+3178,WEAR,MetaWear,$0
+3179,INVI,Invitoken,$0
+3180,XET,Xfinite Entertainment Token,$0
+3181,KYOKO,Kyoko,$0
+3182,GAMES,Gaming Stars,$0
+3183,PAR,Parallel,$0
+3184,BACON,BaconDAO,$0
+3185,DCCT,DocuChain,$0
+3186,WEI,WEI,$0
+3187,BFG,BFG Token,$0
+3188,stMATIC,Lido Staked Matic,$0
+3189,BURN,Bitburn,$0
+3190,ERR,Coinerr,$0
+3191,KINE,KINE,$0
+3192,FTRB,Faith Tribe,$0
+3193,NXD,Nexus Dubai,$0
+3194,RCG,The Recharge,$0
+3195,IBAT,Battle Infinity,$0
+3196,$STARLY,Starly,$0
+3197,SDL,Saddle,$0
+3198,STKBNB,pSTAKE Staked BNB,$0
+3199,DAVIS,Davis Cup Fan Token,$0
+3200,CRYSTAL,DeFi Kingdoms Crystal,$0
+3201,YDF,Yieldification,$0
+3202,XIDO,XIDO FINANCE,$0
+3203,SCNSOL,Socean Staked Sol,$0
+3204,JONES,Jones DAO,$0
+3205,MIKOTO,Tsukuyomi-no-Mikoto,$0
+3206,METO,Metafluence,$0
+3207,FODL,FODL Finance,$0
+3208,TBCC,TBCC,$0
+3209,PETS,PolkaPets,$0
+3210,XAVA,Avalaunch,$0
+3211,SPELLFIRE,Spellfire,$0
+3212,LMR,Lumerin,$0
+3213,WITCH,Witch Token,$0
+3214,EWT,Ecowatt,$0
+3215,ITAMCUBE,CUBE,$0
+3216,DRAC,DRAC Network,$0
+3217,THOR,THORSwap,$0
+3218,POLYX,Polymesh,$0
+3219,AXL,Axl Inu,$0
+3220,FLAME,FireStarter,$0
+3221,DMD,DMD,$0
+3222,MCD,CDbio,$0
+3223,SUZUME,Shita-kiri Suzume,$0
+3224,MTS,Metis,$0
+3225,DQQQ,Invesco QQQ Trust Defichain,$0
+3226,TOMB,Tomb,$0
+3227,LQR,Laqira Protocol,$0
+3228,BLK,Black Whale,$0
+3229,GBTC,Grayscale Bitcoin Trust tokenized stock FTX,$0
+3230,PTP,Platypus Finance,$0
+3231,ACOIN,Alchemy,$0
+3232,HEBE,HebeBlock,$0
+3233,SPACEPI,SpacePi,$0
+3234,ZAMZAM,Zamzam,$0
+3235,JK,JK Coin,$0
+3236,CTP,Ctomorrow Platform,$0
+3237,TINC,Tiny Coin,$0
+3238,ARKN,Ark Rivals,$0
+3239,BREED,BreederDAO,$0
+3240,GALEON,Galeon,$0
+3241,CATGIRL,Catgirl,$0
+3242,LM,LeisureMeta,$0
+3243,SOY,Soy Finance,$0
+3244,NEWO,New Order,$0
+3245,UMEE,Umee,$0
+3246,MNET,MINE Network,$0
+3247,ZIK,Ziktalk,$0
+3248,MIST,Alchemist,$0
+3249,DARK,Dark Frontiers,$0
+3250,TOR,TOR,$0
+3251,GSX,Gold Secured Currency,$0
+3252,HPX,HUPAYX,$0
+3253,GAFA,Gafa,$0
+3254,ELT,EdenLoop,$0
+3255,NHCT,Hurricane NFT,$0
+3256,TPAD,Trustpad,$0
+3257,BEND,Bend DAO,$0
+3258,CREDI,Credefi,$0
+3259,MVD,Metavault DAO,$0
+3260,S2K,Sports 2K75,$0
+3261,ARKER,Arker,$0
+3262,DUCKER,Duckereum,$0
+3263,TPC,Techpay Coin,$0
+3264,PIM,PIMRIDE,$0
+3265,IMT,IMOV,$0
+3266,KALI,Kalissa,$0
+3267,SAFE,SAFE(AnWang),$0
+3268,MCONTENT,MContent,$0
+3269,IXS,IX Swap,$0
+3270,BOT,BOT,$0
+3271,CLS,Calaswap,$0
+3272,NFLX,Netflix tokenized stock FTX,$0
+3273,SCY,Synchrony,$0
+3274,JUNI,Jackpot Universe,$0
+3275,SOG,Soccer Galaxy,$0
+3276,3QT,3QT,$0
+3277,MUDOL2,Hero Blaze: Three Kingdoms,$0
+3278,AI,Multiverse,$0
+3279,PSY,PsyOptions,$0
+3280,FOOD,FoodChain Global,$0
+3281,BIBL,Biblecoin,$0
+3282,GIGA,GigaSwap,$0
+3283,UTG,UltronGlow,$0
+3284,ADAX,ADAX,$0
+3285,SCREAM,Scream,$0
+3286,LOVE,Deesse,$0
+3287,HBB,Hubble Protocol,$0
+3288,3ULL,PLAYA3ULL GAMES,$0
+3289,CWD,CROWD,$0
+3290,CFXT,Chainflix,$0
+3291,PLASTIK,Plastiks,$0
+3292,MPH,Morpher,$0
+3293,USD+,USD+,$0
+3294,BNSD,BNSD Finance,$0
+3295,TRAXX,Traxx,$0
+3296,XFUND,xFund,$0
+3297,TRANQ,Tranquil Finance,$0
+3298,BNBBULL,3X Long BNB Token,$0
+3299,DXGM,DexGame,$0
+3300,LAND,Meta Utopia,$0
+3301,GOLF,Golfrochain,$0
+3302,TOM,TOM Finance,$0
+3303,REALM,Realm,$0
+3304,ZCX,Unizen,$0
+3305,MARS4,MARS4,$0
+3306,MON,Monfter,$0
+3307,GHC,Galaxy Heroes,$0
+3308,PDX,PDX Coin,$0
+3309,CRI,Crypto International,$0
+3310,SLC,Solice,$0
+3311,PANDO,Pando,$0
+3312,aBNBc,Ankr Reward Bearing Staked BNB,$0
+3313,SAFUU,Safuu,$0
+3314,AMPT,Amplify Protocol,$0
+3315,WOOL,Wolf Game Wool,$0
+3316,TEM,Temtum,$0
+3317,PET,Battle Pets,$0
+3318,AMPLIFI,AmpliFi,$0
+3319,SRCX,Source Token,$0
+3320,FROYO,Froyo Games,$0
+3321,BTP,Bitpaid Token,$0
+3322,CMN,Crypto Media Network,$0
+3323,BEMD,Betterment Digital,$0
+3324,LAVAX,LavaX Labs,$0
+3325,WTN,Wateenswap,$0
+3326,KZEN,Kaizen Finance,$0
+3327,MEME,Memeverse,$0
+3328,HZM,HZM Coin,$0
+3329,TRXDOWN,TRXDOWN,$0
+3330,BCT,Toucan Protocol: Base Carbon Tonne,$0
+3331,ZAM,Zamio,$0
+3332,REVU,Revuto,$0
+3333,MLB,COAL,$0
+3334,VPAD,VLaunch,$0
+3335,CTS,Citrus,$0
+3336,DOGEBULL,3X Long Dogecoin Token,$0
+3337,LED,LEDGIS,$0
+3338,AIMX,Aimedis,$0
+3339,RAIL,Railgun,$0
+3340,SPY,SPDR S&P 500 ETF tokenized stock FTX,$0
+3341,SLD,SoldierNodes,$0
+3342,FOXV2,FoxFinanceV2,$0
+3343,ELS,Elysian,$0
+3344,FLZ,Fellaz,$0
+3345,TMT,TopManager,$0
+3346,JOY,Joystick Games,$0
+3347,QMALL,QMALL TOKEN,$0
+3348,ARTEQ,artèQ,$0
+3349,B2M,Bit2Me,$0
+3350,ACK,Arcade Kingdoms,$0
+3351,TAG,Tag Protocol,$0
+3352,NBT,NanoByte Token,$0
+3353,LOOT,Lootex,$0
+3354,PEN,Protocon,$0
+3355,TRYB,BiLira,$0
+3356,GOTG,Got Guaranteed,$0
+3357,APC,ArenaPlay,$0
+3358,ARW,Arowana Token,$0
+3359,DIVER,Divergence,$0
+3360,ERTHA,Ertha,$0
+3361,FLOOR,FloorDAO,$0
+3362,CHRO,Chronicum,$0
+3363,KEK,KeKChain,$0
+3364,$ADS,Alkimi,$0
+3365,NAI,Natiol Infinity,$0
+3366,PESA,Pesabase,$0
+3367,TSLA,Tesla tokenized stock Bittrex,$0
+3368,RYOSHI,Ryoshis Vision,$0
+3369,LORDS,LORDS,$0
+3370,KOL,Kollect,$0
+3371,SETH2,sETH2,$0
+3372,FEG,FEG Token,$0
+3373,TITA,Titan Hunters,$0
+3374,HEGG,Hummingbird Egg,$0
+3375,DCRN,Decred-Next,$0
+3376,KUJI,Kujira,$0
+3377,DHX,DataHighway,$0
+3378,wROSE,Wrapped Rose,$0
+3379,VHC,Vault Hill City,$0
+3380,KTX,KwikTrust,$0
+3381,STAT,STAT,$0
+3382,BABL,Babylon Finance,$0
+3383,WIRTUAL,Wirtual,$0
+3384,OMNIA,OmniaVerse,$0
+3385,RBIS,ArbiSmart,$0
+3386,MMO,MM Optimizer (Polygon),$0
+3387,HEART,Humans.ai,$0
+3388,XMARK,xMARK,$0
+3389,LOOP,LoopNetwork,$0
+3390,CTX,C2X,$0
+3391,APCG,ALLPAYCOIN,$0
+3392,REF,Ref Finance,$0
+3393,PULI,Puli,$0
+3394,ZYRO,Zyro,$0
+3395,STA,STOA Network,$0
+3396,QLINDO,Qlindo,$0
+3397,GAINS,Gains Associates,$0
+3398,DHLT,DeHealth,$0
+3399,QUICK,Quickswap[New],$0
+3400,LIQD,Liquid Finance,$0
+3401,RVST,Revest Finance,$0
+3402,MMO,MM Optimizer (Cronos),$0
+3403,CHEQ,cheqd,$0
+3404,MIM,Mint Marble,$0
+3405,FANC,FANC,$0
+3406,LUNAT,Lunatics,$0
+3407,mCUSD,Moola Celo USD,$0
+3408,MEDIA,Media Network,$0
+3409,HE,Heroes & Empires,$0
+3410,LUCK,LuckDao,$0
+3411,RBP,Pikaster,$0
+3412,FRA,Findora,$0
+3413,1SOL,1Sol,$0
+3414,VERA,Vera,$0
+3415,DES,DeSpace Protocol,$0
+3416,WIOTX,Wrapped IoTeX,$0
+3417,VXL,Voxel X Network,$0
+3418,LOST,Lost Worlds,$0
+3419,SOM,SOULS OF META,$0
+3420,ACT,Acet,$0
+3421,AVDO,AvocadoCoin,$0
+3422,MTR,Meter Stable,$0
+3423,TRXUP,TRXUP,$0
+3424,ANN,Annex Finance,$0
+3425,MLNK,Malinka,$0
+3426,BLUES,Blueshift,$0
+3427,STEMX,STEMX,$0
+3428,CMP,Caduceus,$0
+3429,CTN,Continuum Finance,$0
+3430,QTF,Quantfury Token,$0
+3431,GEN,Generation,$0
+3432,MSWAP,MoneySwap,$0
+3433,SZCB,Zugacoin,$0
+3434,LACE,Lovelace World,$0
+3435,$BMINU,Bill Murray Inu,$0
+3436,ZPAY,ZoidPay,$0
+3437,MXW,Maxonrow,$0
+3438,UMAMI,Umami Finance,$0
+3439,SBR,Saber,$0
+3440,REAL,Realy,$0
+3441,KBOX,The Killbox,$0
+3442,GMEX,Game Coin,$0
+3443,CRDN,Cardence,$0
+3444,XPRO,XPROJECT,$0
+3445,CATS,CATCOIN,$0
+3446,P202,Project202,$0
+3447,WZRD,Wizardia,$0
+3448,HUB,Scouthub,$0
+3449,KRIDA,KridaFans,$0
+3450,LSVR,lasrever,$0
+3451,WELD,WELD,$0
+3452,F9,Falcon 9,$0
+3453,FIT,300FIT NETWORK,$0
+3454,ALYA,ALYATTES,$0
+3455,WCSOV,CrownSterling,$0
+3456,RETH,Realms of Ethernity,$0
+3457,OKINAMI,Kanagawa Nami,$0
+3458,CHEDDA,Chedda Token,$0
+3459,LDN,Ludena Protocol,$0
+3460,BRN,BRN Metaverse,$0
+3461,BTXN,Exen Coin,$0
+3462,VLX,Verlux,$0
+3463,GDT,Globe Derivative Exchange,$0
+3464,CALI,CaliCoin,$0
+3465,QUA,Quantum,$0
+3466,GERA,Gera Coin,$0
+3467,SRX,StorX Network,$0
+3468,EEUR,e-Money EUR,$0
+3469,BCP,Block Commerce Protocol,$0
+3470,NATION,Nation3,$0
+3471,DCT,Degree Crypto Token,$0
+3472,OHM,Olympus v1,$0
+3473,MPD,Metapad,$0
+3474,SHI,Shina Inu,$0
+3475,LARIX,Larix,$0
+3476,PORT,Port Finance,$0
+3477,CSOV,Crown Sovereign,$0
+3478,ROL,RimsofLegend,$0
+3479,FWC,QATAR 2022 TOKEN,$0
+3480,FTG,fantomGO,$0
+3481,BAS,DracooMaster,$0
+3482,WGRT,WaykiChain Governance Coin,$0
+3483,LOV,The LoveChain,$0
+3484,KILLER,Fat Cat Killer,$0
+3485,DOG,The Doge NFT,$0
+3486,DFND,dFund,$0
+3487,GEO$,Geopoly,$0
+3488,ETCBULL,3X Long Ethereum Classic Token,$0
+3489,MAXI,Maximus Token,$0
+3490,NEXM,Nexum,$0
+3491,OUSDC,Orbit Bridge Klaytn USDC,$0
+3492,PLS,PlutusDAO,$0
+3493,YIN,YIN Finance,$0
+3494,POLX,Polylastic,$0
+3495,XCDOT,xcDOT,$0
+3496,BP,BunnyPark,$0
+3497,CPU,CPUcoin,$0
+3498,EMBR,Embr,$0
+3499,BlueSparrow,BlueSparrow Token,$0
+3500,OPV,OpenLive NFT,$0
+3501,SX,SX Network,$0
+3502,MIDAS,Midas,$0
+3503,GAIA,GAIA Everworld,$0
+3504,LILFLOKI,Lil Floki,$0
+3505,LOX,Lox Network,$0
+3506,SBCC,Smart Block Chain City,$0
+3507,GYMNET,Gym Network,$0
+3508,HAKA,TribeOne,$0
+3509,MBP,Mobipad,$0
+3510,SIS,Symbiosis Finance,$0
+3511,10SET,Tenset,$0
+3512,CYOP,CyOp Protocol,$0
+3513,WETUX,WETUX,$0
+3514,XRDOGE,XRdoge,$0
+3515,ZPTC,Zeptacoin,$0
+3516,JCR,JustCarbon Removal,$0
+3517,LIEN,Lien,$0
+3518,ARX,ARCS,$0
+3519,DFT,DigiFinexToken,$0
+3520,NDAU,Ndau,$0
+3521,MRI,Marshall Rogan Inu,$0
+3522,NAO,NFTDAO,$0
+3523,TDX,Tidex Token,$0
+3524,HUAHUA,Chihuahua,$0
+3525,BTCPAY,Bitcoin Pay,$0
+3526,SHIBELON,ShibElon,$0
+3527,CPH,Cypherium,$0
+3528,SHOP,Shopping.io Token,$0
+3529,ADABULL,3X Long Cardano Token,$0
+3530,WATT,WATTTON,$0
+3531,MONS,Monsters Clan,$0
+3532,MONO,MonoMoney,$0
+3533,DVDX,Derived,$0
+3534,COC,Coin of champions,$0
+3535,TOPC,TopChain,$0
+3536,STREETH,STREETH,$0
+3537,QANX,QANplatform,$0
+3538,MGT,Megatech,$0
+3539,MCO2,Moss Carbon Credit,$0
+3540,FRIN,Fringe Finance,$0
+3541,WX,Waves.Exchange Token,$0
+3542,MFC,Millonarios FC Fan Token,$0
+3543,MEPAD,MemePad,$0
+3544,CWAR,Cryowar,$0
+3545,MDAO,MarsDAO,$0
+3546,CDTC,DeCredit,$0
+3547,BVC,BattleVerse,$0
+3548,TRVL,TRVL,$0
+3549,BEZOGE,Bezoge Earth,$0
+3550,FACEDAO,FaceDAO,$0
+3551,IDK,IDK,$0
+3552,BBT,BitBook,$0
+3553,LTEX,Ltradex,$0
+3554,GOB,Goons of Balatroon,$0
+3555,OBROK,OBRok Token,$0
+3556,PLT,Poollotto.finance,$0
+3557,CHAIN,Chain Games,$0
+3558,XJEWEL,xJEWEL,$0
+3559,CU,Catch Up,$0
+3560,TIGER,JungleKing TigerCoin,$0
+3561,MEFA,Metaverse Face,$0
+3562,STRNGR,Stronger,$0
+3563,WHT,Wrapped Huobi Token,$0
+3564,WWDOGE,Wrapped WDOGE,$0
+3565,ARN,Arenum,$0
+3566,CATCOIN,CATCOIN,$0
+3567,ENTC,ENTERBUTTON,$0
+3568,LYRA,Lyra,$0
+3569,DEUS,DEUS Finance,$0
+3570,LHB,Lendhub,$0
+3571,PATH,PathDAO,$0
+3572,SIPHER,Sipher,$0
+3573,DOGEDIGGER,Doge Digger,$0
+3574,MUSD,Mad USD,$0
+3575,GUARD,Guardian,$0
+3576,GAMINGSHIBA,GamingShiba,$0
+3577,SQUID,Squid Game,$0
+3578,MFX,MetFX Watch To Earn,$0
+3579,UBSN,Silent Notary,$0
+3580,PEL,Propel,$0
+3581,SAK,Sakura Planet,$0
+3582,NITRO,Nitro League,$0
+3583,REFLEX V2,Reflex Finance,$0
+3584,EXMOC,EXMOC,$0
+3585,HPN,HyperonChain,$0
+3586,COMB,Combo,$0
+3587,INTR,Interlay,$0
+3588,BLXM,bloXmove Token,$0
+3589,FER,Ferro,$0
+3590,ZZ,ZigZag,$0
+3591,GME,GameStop tokenized stock FTX,$0
+3592,WRK,blockWRK,$0
+3593,AAG,AAG,$0
+3594,LEOS,Leonicorn Swap,$0
+3595,BNS,BNS Token,$0
+3596,SPEX,StepEx,$0
+3597,QUA,QUASA,$0
+3598,MTD,Minted,$0
+3599,OMNOM,Doge Eat Doge,$0
+3600,TERA,Terareum,$0
+3601,VIM,VicMove,$0
+3602,WTF,WTF Token,$0
+3603,MLD,Hurrian Network,$0
+3604,AUSD,Acala Dollar(Karura),$0
+3605,PLSD,PulseDogecoin,$0
+3606,NGC,NAGA,$0
+3607,FALCONS,Falcon Swaps,$0
+3608,NTB,TokenAsset,$0
+3609,IMPACTXP,ImpactXP,$0
+3610,TANK,CryptoTanks,$0
+3611,CRAFT,TaleCraft,$0
+3612,MMETA,Duckie Land,$0
+3613,BURP,Burp,$0
+3614,EGG,Chikn Egg,$0
+3615,AGRO,Agro Global,$0
+3616,VT,Virtual Tourist,$0
+3617,GART,Griffin Art,$0
+3618,CWT,CrossWallet,$0
+3619,NODE,Whole Network,$0
+3620,RAK,Rake Finance,$0
+3621,PIG,Pig Finance,$0
+3622,RADIO,RadioShack,$0
+3623,GM,GM Holding,$0
+3624,ZNT,ZenithFinance,$0
+3625,IMC,i Money Crypto,$0
+3626,RADAR,DappRadar,$0
+3627,GALAXY,Galaxy Coin,$0
+3628,MPM,Monopoly Meta,$0
+3629,QUIDD,Quidd,$0
+3630,SCRAP,Scrap,$0
+3631,JNB,Jinbi Token,$0
+3632,MBD,MBD Financials,$0
+3633,DR1$,DR1VER,$0
+3634,G999,G999,$0
+3635,PILOT,Unipilot,$0
+3636,NBP,NFTBomb,$0
+3637,MOVE,MarketMove,$0
+3638,SFO,StarFish OS,$0
+3639,MEVR,Metaverse VR,$0
+3640,FVT,Finance.Vote,$0
+3641,PLD,Plutonians,$0
+3642,ZGD,Zambesigold,$0
+3643,PYPL,PayPal tokenized stock FTX,$0
+3644,LAEEB,LaEeb,$0
+3645,TSHARE,Tomb Shares,$0
+3646,LKD,LinkDao Network,$0
+3647,ICE,Popsicle Finance,$0
+3648,COOHA,CoolHash,$0
+3649,MDB,Million Dollar Baby,$0
+3650,RPC,Ripio Coin,$0
+3651,EVE,EVE Token,$0
+3652,$BULL,Bullieverse,$0
+3653,QTO,QToken,$0
+3654,ASIMI,ASIMI,$0
+3655,HAYYA,Hayya,$0
+3656,ETERNAL,CryptoMines,$0
+3657,IPV,IPVERSE,$0
+3658,JOY,Drawshop Kingdom Reverse,$0
+3659,PLOT,Earncraft,$0
+3660,GEL,Gelato,$0
+3661,ARC,ARC,$0
+3662,SYNR,MOBLAND,$0
+3663,BRK,BlueArk,$0
+3664,LSHARE,LIF3 LSHARE,$0
+3665,MCC,Multi-Chain Capital (new),$0
+3666,HARM,Harmony Token,$0
+3667,CAST,Castello Coin,$0
+3668,FJT,Fuji,$0
+3669,KON,KonPay,$0
+3670,KSHIB,Kilo Shiba Inu,$0
+3671,DBL,Doubloon,$0
+3672,HO,HALO network,$0
+3673,UUSD,youves uUSD,$0
+3674,MGG,MetaGaming Guild,$0
+3675,FREE,FreeRossDAO,$0
+3676,TWTR,Twitter tokenized stock FTX,$0
+3677,STIMA,STIMA,$0
+3678,CIX100,Cryptoindex.com 100,$0
+3679,EXFI,Flare Finance,$0
+3680,FILDA,Filda,$0
+3681,CART,CryptoArt.Ai,$0
+3682,O5O,O5O,$0
+3683,EMP,Emp Money,$0
+3684,QA,Quantum Assets,$0
+3685,MNR,Mineral,$0
+3686,OKSE,Okse,$0
+3687,VPND,VaporNodes,$0
+3688,TIME,Wonderland,$0
+3689,IZI,Izumi Finance,$0
+3690,UMG,UnderMineGold,$0
+3691,ZTG,Zeitgeist,$0
+3692,BPLUS,Billionaire Plus,$0
+3693,WAMPL,Wrapped Ampleforth,$0
+3694,WAM,WAM,$0
+3695,TRDC,Traders coin,$0
+3696,MNST,MoonStarter,$0
+3697,EJS,Enjinstarter,$0
+3698,APCH,APCH,$0
+3699,NVDA,NVIDIA tokenized stock FTX,$0
+3700,AENS,AEN Smart Token,$0
+3701,ARTRINO,Art Rino,$0
+3702,FEED,chikn feed,$0
+3703,YAY,YAY Games,$0
+3704,FEY,Feyorra,$0
+3705,KUMA,Kuma Inu,$0
+3706,PRXY,Proxy,$0
+3707,CGS,Crypto Gladiator Shards,$0
+3708,LTCBEAR,3x Short Litecoin Token,$0
+3709,GOFX,GooseFX,$0
+3710,PHL,Philcoin,$0
+3711,GOOGL,Google tokenized stock FTX,$0
+3712,SOLR,SolRazr,$0
+3713,FNF,FunFi,$0
+3714,RANKER,RankerDAO,$0
+3715,LUCHOW,LunaChow,$0
+3716,SOLIDSEX,SOLIDsex: Tokenized veSOLID,$0
+3717,HTO,Heavenland,$0
+3718,JET,Jet Protocol,$0
+3719,TOKAU,Tokyo AU,$0
+3720,RADAR,Radar,$0
+3721,CNFI,Connect Financial,$0
+3722,DXCT,DNAxCAT Token,$0
+3723,BRT,Bikerush,$0
+3724,WAGMIGAMES,WAGMI Game,$0
+3725,HMR,Homeros,$0
+3726,H3RO3S,H3RO3S,$0
+3727,LBT,Law Blocks,$0
+3728,CHLT,Chellitcoin,$0
+3729,LOC,LockTrip,$0
+3730,BBF,Bubblefong,$0
+3731,RATIO,Ratio Finance,$0
+3732,SMILE,Smile Coin,$0
+3733,CC,CloudCoin,$0
+3734,SAVAX,BENQI Liquid Staked AVAX,$0
+3735,XNP,XNP,$0
+3736,ZENITH,Zenith Coin,$0
+3737,xDAI,xDAI,$0
+3738,OATH,Oath,$0
+3739,NMX,Nominex,$0
+3740,RDT,Ridotto,$0
+3741,TETHYS,Tethys,$0
+3742,PS1,POLYSPORTS,$0
+3743,MARX,MarX,$0
+3744,REV3L,REV3AL,$0
+3745,TBC,TeraBlock,$0
+3746,DOGECOIN,Buff Doge Coin,$0
+3747,EARN,Yearn Classic Finance,$0
+3748,VST,Voice Street,$0
+3749,EXCC,ExchangeCoin,$0
+3750,BANDEX,Banana Index,$0
+3751,ORB,KlayCity,$0
+3752,ITEM,ITEMVERSE,$0
+3753,ALTRU,Altrucoin,$0
+3754,METAVIE,Metavie,$0
+3755,GCAKE,Pancake Games,$0
+3756,DICE,Klaydice,$0
+3757,LIF3,LIF3,$0
+3758,TOS,Tosa Inu,$0
+3759,DCAR,Dragon Crypto Argenti,$0
+3760,ROCK,Bedrock,$0
+3761,INS,iNFTspace,$0
+3762,LIST,KList Protocol,$0
+3763,ENRX,Enrex,$0
+3764,GOAL,GOAL token,$0
+3765,MART,Artmeta,$0
+3766,PBX,Probinex,$0
+3767,ZLDA,Zelda Inu,$0
+3768,CSR,CSR,$0
+3769,NOS,Nosana,$0
+3770,KRRX,Kyrrex,$0
+3771,MM,Million,$0
+3772,WAXE,WAXE,$0
+3773,FID,Fidira,$0
+3774,AQUA,PLANET,$0
+3775,SOKU,SokuSwap,$0
+3776,BAGS,Basis Gold Share,$0
+3777,YOSHI,Yoshi.exchange,$0
+3778,CHT,Charlie Finance,$0
+3779,SONAR,SonarWatch,$0
+3780,NFC,NetFlowCoin,$0
+3781,WALLET,Ambire Wallet,$0
+3782,ALUSD,Alchemix USD,$0
+3783,NGL,Gold Fever,$0
+3784,P2PTXT,P2P Taxi Token,$0
+3785,NTO,Neton,$0
+3786,AMT,Amazy Move Token,$0
+3787,KLEVA,KLEVA Protocol,$0
+3788,POT,X Protocol,$0
+3789,GLD,Goldario,$0
+3790,BRANA,Branaverse,$0
+3791,MMM7,MMM7,$0
+3792,37C,37Protocol,$0
+3793,WOJ,Wojak Finance,$0
+3794,WAR,WeStarter,$0
+3795,BSGG,Betswap.gg,$0
+3796,DEXSHARE,dexSHARE,$0
+3797,AVO,Avocado,$0
+3798,MNTL,AssetMantle,$0
+3799,SUNNY,Sunny Aggregator,$0
+3800,CENT,Centaurify,$0
+3801,SPIN,Spintop,$0
+3802,DUKE,DUKE INU TOKEN,$0
+3803,WBDC,BullDoge Chain,$0
+3804,XOT,Okuru,$0
+3805,MCHC,My Crypto Heroes,$0
+3806,EDDA,EDDASwap,$0
+3807,LINKBULL,3X Long Chainlink Token,$0
+3808,KARA,KaraStar,$0
+3809,EQ,Equilibrium Games,$0
+3810,SYL,SYLTARE,$0
+3811,INDI,IndiGG,$0
+3812,COGE,Cogecoin,$0
+3813,LBLOCK,Lucky Block (V2),$0
+3814,BDT,Bandot Protocol,$0
+3815,MCG,MicroChains Gov Token,$0
+3816,NCR,Neos Credits,$0
+3817,XSPECTAR,xSPECTAR,$0
+3818,CLY,Colony,$0
+3819,BOT,Starbots,$0
+3820,XETA,XETA,$0
+3821,BUP,BuildUp,$0
+3822,SHR,Shera Tokens,$0
+3823,BILI,Billibilli Inc tokenized stock FTX,$0
+3824,SCRL,Wizarre Scroll,$0
+3825,TFI,TrustFi Network,$0
+3826,TCOIN,Travel Coin,$0
+3827,DEB,Andus Chain,$0
+3828,GHD,Giftedhands,$0
+3829,TRYC,TRYC,$0
+3830,IUX,GeniuX,$0
+3831,AURA,Aura Network,$0
+3832,PANDA,Panda DAO,$0
+3833,DIQ,DiamondQ,$0
+3834,SHIBLITE,Shiba Lite,$0
+3835,LEOPARD,LEOPARD,$0
+3836,MGC,Magic Manor,$0
+3837,QUA,Quarashi,$0
+3838,CYS,Cykura,$0
+3839,$CITY,SatoshiCity,$0
+3840,YFX,Your Future Exchange,$0
+3841,GOD,GoldeFy,$0
+3842,FAVOR,Favor,$0
+3843,RBIF,Robo Inu Finance,$0
+3844,SVT,Solvent,$0
+3845,LFI,LunaFi,$0
+3846,HTT,Hello Art,$0
+3847,BFLOKI,Burn Floki,$0
+3848,YCT,Youclout,$0
+3849,MEME,Meme Inu,$0
+3850,ELU,Elumia Crowns,$0
+3851,INDEX,Index Cooperative,$0
+3852,LITE,Lite USD,$0
+3853,FBS,forbitspace,$0
+3854,LUNCH,LunchDAO,$0
+3855,FRR,Frontrow,$0
+3856,ZOA,Zone of Avoidance,$0
+3857,DV,Dreamverse,$0
+3858,ARIA,Legends of Aria,$0
+3859,SOLID,Solidly,$0
+3860,STARS,Stargaze,$0
+3861,MMAI,MetamonkeyAi,$0
+3862,STD,STEED,$0
+3863,BDOT,Binance Wrapped DOT,$0
+3864,ECD,Echidna,$0
+3865,IIC,Intelligent Investment Chain,$0
+3866,SKP,SKYPlay,$0
+3867,MSC,MetaSwap,$0
+3868,MSTO,Millennium Sapphire,$0
+3869,VEE,Vee Finance,$0
+3870,ROAR,AlphaDEX,$0
+3871,LTNM,Bitcoin Latinum,$0
+3872,IDO,Idexo Token,$0
+3873,DRIP,Drip Network,$0
+3874,FAR,Farmland Protocol,$0
+3875,RUX,RunBlox,$0
+3876,KNOT,Karmaverse,$0
+3877,GZX,GreenZoneX,$0
+3878,BHAT,BH Network,$0
+3879,WKIT,WORKIT,$0
+3880,MAPE,Mecha Morphing,$0
+3881,KYCC,KYCCOIN,$0
+3882,ROG,ROGin AI,$0
+3883,PINKSALE,PinkSale,$0
+3884,HGHG,HUGHUG Coin,$0
+3885,PGX,Page Network,$0
+3886,FWW,Farmers World Wood,$0
+3887,VICS,RoboFi,$0
+3888,PIXEL,PixelVerse,$0
+3889,MTG,MagnetGold,$0
+3890,CNNS,CNNS,$0
+3891,VEX,VELOREX,$0
+3892,wxDai,Wrapped XDAI,$0
+3893,LAIKA,Laika,$0
+3894,DOGECOLA,DogeCola,$0
+3895,PAYN,PayNet Coin,$0
+3896,ICHI,Legacy ICHI,$0
+3897,VMA,VirtualMeta,$0
+3898,HEDGE,1x Short Bitcoin Token,$0
+3899,ONI,ONINO,$0
+3900,MISA,SANGKARA MISA,$0
+3901,BKR,Balkari,$0
+3902,WVET,Wrapped VeChain,$0
+3903,KBD,Kyberdyne,$0
+3904,POG,Polygonum Online,$0
+3905,AAA,Moon Rabbit,$0
+3906,AGV,Astra Guild Ventures,$0
+3907,UNQ,Unique Venture Clubs,$0
+3908,PRB,Paribu Net,$0
+3909,KIBA,Kiba Inu,$0
+3910,DALI,Dali,$0
+3911,YUSE,Yuse Token,$0
+3912,VRX,VEROX,$0
+3913,BlueSparrow,BlueSparrow Token (Old),$0
+3914,RVC,Revenue Coin,$0
+3915,FCD,FreshCut Diamond,$0
+3916,MIS,Themis,$0
+3917,BT,BT.Finance,$0
+3918,NAOS,NAOS Finance,$0
+3919,ETHM,Ethereum Meta,$0
+3920,CENX,Centcex,$0
+3921,BAPE,APEmove Governance Token,$0
+3922,LPY,LeisurePay,$0
+3923,HUDI,Hudi,$0
+3924,RVLNG,RevolutionGames,$0
+3925,ECOREAL,Ecoreal Estate,$0
+3926,KLEE,KleeKai,$0
+3927,HVT,HyperVerse,$0
+3928,NIO,Nio tokenized stock FTX,$0
+3929,CBD,Greenheart CBD,$0
+3930,PRNT,Prime Numbers,$0
+3931,WNK,The Winkyverse,$0
+3932,ANARCHY,Anarchy,$0
+3933,OKLP,OkLetsPlay,$0
+3934,ESW,EmiSwap,$0
+3935,COIN,Coinbase tokenized stock FTX,$0
+3936,ETHO,Etho Protocol,$0
+3937,WSB,WallStreetBets DApp,$0
+3938,CAN,Channels,$0
+3939,DREAMS,Dreams Quest,$0
+3940,CT,Cojam,$0
+3941,BX,BlockXpress,$0
+3942,RTM,Raptoreum,$0
+3943,CODE,CODE,$0
+3944,ARTEM,Artem Coin,$0
+3945,UNW,UniWorld,$0
+3946,KTO,Kounotori,$0
+3947,HOL,Hololoot,$0
+3948,LOL,LOL,$0
+3949,BTCA,Bitcoin Asia,$0
+3950,RCCC,RCCCToken,$0
+3951,BNBX,Stader BNBx,$0
+3952,RIDGE,Ridge,$0
+3953,ML,Market Ledger,$0
+3954,ULTI,Ulti Arena,$0
+3955,KCAKE,KittyCake,$0
+3956,KNIGHT,KnightSwap,$0
+3957,BGC,Bee Token,$0
+3958,ELK,Elk Finance,$0
+3959,BAMBOO,BambooDeFi,$0
+3960,ATOMBULL,3X Long Cosmos Token,$0
+3961,4JNET,4JNET,$0
+3962,TNS,Terra Name Service,$0
+3963,WSTETH,Lido wstETH,$0
+3964,MEX,Maiar DEX,$0
+3965,SANI,Sanin Inu,$0
+3966,GINOA,Ginoa,$0
+3967,SER,Secretum,$0
+3968,ARI10,Ari10,$0
+3969,CVNT,Conscious Value Network,$0
+3970,FREL,Freela,$0
+3971,EVA,Evanesco Network,$0
+3972,HELIOS,Mission Helios,$0
+3973,RD,Round Dollar,$0
+3974,UNC,Uncharted,$0
+3975,BEL,Belrium,$0
+3976,GFT,Galaxy Finance,$0
+3977,PAF,Pacific,$0
+3978,ACM,Acumen,$0
+3979,NTR,Nether NFT,$0
+3980,OWL,OwlDAO,$0
+3981,BVOL,1x Long Bitcoin Implied Volatility Token,$0
+3982,OPNN,Opennity,$0
+3983,CMSN,The Commission,$0
+3984,AAPL,Apple tokenized stock FTX,$0
+3985,JUSTICE,AssangeDAO,$0
+3986,ONX,OnX Finance,$0
+3987,ELVN,ElevenToken,$0
+3988,WGC,Green Climate World,$0
+3989,BLOVELY,Baby Lovely Inu,$0
+3990,CALO,Calo,$0
+3991,MMUI,MetaMUI,$0
+3992,JIMN,JIMNGAME,$0
+3993,HOKK,Hokkaido Inu,$0
+3994,ETHHEDGE,1X Short Ethereum Token,$0
+3995,SON,SOUNI,$0
+3996,MNDE,Marinade,$0
+3997,$METAZ,METALANDZ,$0
+3998,TOOLS,BSC TOOLS,$0
+3999,EGC,Egoras Credit,$0
+4000,$FUR,Furio,$0
+4001,DAMZN,Amazon Tokenized Stock Defichain,$0
+4002,MPT,MeetPle,$0
+4003,ABL,Airbloc,$0
+4004,NOA,METANOA,$0
+4005,GBPT,poundtoken,$0
+4006,OKA,Okaleido,$0
+4007,EC,Echoin,$0
+4008,TRNDZ,Trendsy,$0
+4009,KUT,KlayUniverse,$0
+4010,EARN,EarnGuild,$0
+4011,CORE,Coreum,$0
+4012,SQ,Square tokenized stock FTX,$0
+4013,ATK,Attack Wagon,$0
+4014,MNY,Moonie NFT,$0
+4015,NADA,NADA Protocol Token,$0
+4016,APT,Apricot Finance,$0
+4017,BLT,Blocto Token,$0
+4018,M1VERSE,MetaOneVerse,$0
+4019,CRF,Crafting Finance,$0
+4020,BTCV,Bitcoin Vault,$0
+4021,CCOMP,cCOMP,$0
+4022,TALK,Talken,$0
+4023,EShib,Euro Shiba Inu,$0
+4024,INST,Instadapp,$0
+4025,AVAT,AVATA Network,$0
+4026,BCAT,BeerusCat,$0
+4027,FLOKICHAIN,Floki Chain,$0
+4028,MATICX,Stader MaticX,$0
+4029,PKN,Poken,$0
+4030,WENTXN,RatBoy BSC,$0
+4031,FLURRY,Flurry Finance,$0
+4032,FST,Futureswap,$0
+4033,PSOL,Parasol Finance,$0
+4034,ALM,Alium Finance,$0
+4035,GOLD 1,Teh Golden One,$0
+4036,GMR,GAMER,$0
+4037,NDB,NDB,$0
+4038,TOON,Pontoon,$0
+4039,PPAD,PlayPad,$0
+4040,ARTR,Artery Network,$0
+4041,IME,Imperium Empires,$0
+4042,CNAME,Cloudname,$0
+4043,TSCT,Transient,$0
+4044,INDIA,India Coin,$0
+4045,HECTA,Hectagon,$0
+4046,NOVA,Nova finance,$0
+4047,GPCX,Good Person Coin,$0
+4048,MLOKY,MLOKY,$0
+4049,COP,Copiosa Coin,$0
+4050,ALPA,Alpaca City,$0
+4051,AVG,Avocado DAO Token,$0
+4052,RAID,Ancient Raid,$0
+4053,HCT,HurricaneSwap Token,$0
+4054,KRIPTO,Kripto koin,$0
+4055,MBX,MobieCoin,$0
+4056,EMON,Ethermon,$0
+4057,NSUR,NSUR COIN,$0
+4058,CHAINCADE,ChainCade,$0
+4059,THETABULL,3X Long Theta Network Token,$0
+4060,SUPE,SUPE,$0
+4061,BULL,Bullshit Inu,$0
+4062,SNK,Snook,$0
+4063,CRE,Creator Protocol,$0
+4064,DGNX,DegenX,$0
+4065,XUSD,XUSD Stable,$0
+4066,SSLX,StarSlax,$0
+4067,SIENNA,Sienna,$0
+4068,CSTR,CoreStarter,$0
+4069,YAK,Yield Yak,$0
+4070,GAME,Gamestarter,$0
+4071,NMEEBITS,The Meebits,$0
+4072,KAWA,Kawakami,$0
+4073,NBU,Nimbus,$0
+4074,MSI,Martin Shkreli Inu,$0
+4075,AVXL,AvaXlauncher,$0
+4076,XRPBULL,3x Long XRP Token,$0
+4077,LTCBULL,3x Long Litecoin Token,$0
+4078,$ALPHA,Alpha Labz,$0
+4079,GBEX,Globiance Exchange Token,$0
+4080,ITG,iTrust.Finance,$0
+4081,XLD,XcelDefi,$0
+4082,XX,xx network,$0
+4083,MLNT,Moon Light Night,$0
+4084,VULC,Vulcano,$0
+4085,BOBC,Bobcoin,$0
+4086,AIZA,AizaWorld,$0
+4087,GTFO,DumpBuster,$0
+4088,PRDS,Brise Paradise,$0
+4089,CPC,CPCoin,$0
+4090,FMC,FidoMeta,$0
+4091,M87,MESSIER,$0
+4092,CIND,Cindrum,$0
+4093,CHAM,Champion,$0
+4094,DTLT,iShares 20+ Year Treasury Bond ETF Defichain,$0
+4095,ASTRO,Astroport Classic,$0
+4096,MNTTBSC,MoonTrustBSC,$0
+4097,SPAY,SpaceY,$0
+4098,SUM,SumSwap,$0
+4099,PSB,Planet Sandbox,$0
+4100,BNOX,BlockNoteX,$0
+4101,GDO,GroupDao,$0
+4102,LCP,Live Crypto Party,$0
+4103,KOACOMBAT,KoaCombat,$0
+4104,DEX,WEDEX TOKEN V2,$0
+4105,XSUSHI,xSUSHI,$0
+4106,RIN,Aldrin,$0
+4107,NUMI,Numitor,$0
+4108,COFI,CoFiX,$0
+4109,GBD,Great Bounty Dealer,$0
+4110,COLLAR,Dog Collar,$0
+4111,LBXC,Lux Bio Cell,$0
+4112,DFI,DfiStarter,$0
+4113,AKW,ArkWorld,$0
+4114,BEXT,ByteDex,$0
+4115,LENDA,Lenda,$0
+4116,CRT,Cantina Royale,$0
+4117,eMTRG,Meter Governance mapped by Meter.io,$0
+4118,MITA,MITA,$0
+4119,ECH,Echelon,$0
+4120,JRIT,JERITEX,$0
+4121,DRAW,Dragon War,$0
+4122,PMXX,PMXX,$0
+4123,GOLD,Golden Token,$0
+4124,DDDX,DDDX Protocol,$0
+4125,BABYSHIBAINU,Baby Shiba Inu,$0
+4126,DCY,Dinastycoin,$0
+4127,MYCE,MYCE,$0
+4128,BGS,Battle of Guardians,$0
+4129,MT,MyToken,$0
+4130,SGLY,Singularity,$0
+4131,INUS,MultiPlanetary Inus,$0
+4132,ETL,Etherlite,$0
+4133,STF,Structure finance,$0
+4134,TSLA,Tessla Coin,$0
+4135,TMON,Two Monkey Juice Bar,$0
+4136,ENTR,EnterDAO,$0
+4137,ESG,ESG,$0
+4138,TEX,IoTex Pad,$0
+4139,SMETA,StarkMeta,$0
+4140,SYL,SYL,$0
+4141,SKT,Sukhavati Network,$0
+4142,GSC,Gunstar Metaverse Currency,$0
+4143,YTS,YetiSwap,$0
+4144,CUNI,Compound Uni,$0
+4145,MMG,Mad Monkey Guild,$0
+4146,SUNDAE,SundaeSwap,$0
+4147,AMDG,AMDG Token,$0
+4148,FAST,FastSwap,$0
+4149,ACDX,Acadex Network,$0
+4150,FEN,First Ever NFT,$0
+4151,MIMAS,Mimas Finance,$0
+4152,KIF,KittenFinance,$0
+4153,SCOTTY,Scotty Beam,$0
+4154,SURV,Survival Game Online,$0
+4155,TARP,Totally A Rug Pull,$0
+4156,TBE,TrustBase,$0
+4157,ARKK,ARK Innovation ETF tokenized stock FTX,$0
+4158,CHH,Chihuahua Token,$0
+4159,SPAT,Meta Spatial,$0
+4160,MAD,MAD Bucks,$0
+4161,MNZ,Menzy,$0
+4162,ANA,Nirvana ANA,$0
+4163,SEX,Solidex,$0
+4164,KI,Genopets KI,$0
+4165,PIE,DeFiPie,$0
+4166,DXP,Dexpools,$0
+4167,BUSY,Busy DAO,$0
+4168,VRBLOCKS,VR Blocks,$0
+4169,AKTIO,Akt.io,$0
+4170,STARS,StarLaunch,$0
+4171,ATG,AstroGrow,$0
+4172,STELLA,StellaSwap,$0
+4173,UNN,UNION Protocol Governance Token,$0
+4174,COW,CoW Protocol,$0
+4175,NNT,Nunu Spirits,$0
+4176,MQL,MiraQle,$0
+4177,FOREX,handleFOREX,$0
+4178,AGX,Agricoin,$0
+4179,GREENFUEL,GreenFuel,$0
+4180,DXF,Dexfin,$0
+4181,ISDT,ISTARDUST,$0
+4182,MEDOC,MetaDoctor,$0
+4183,SPG,Space Crypto,$0
+4184,BTCIX,BITCOLOJIX,$0
+4185,ASS,Australian Safe Shepherd,$0
+4186,DEMIR,Adana Demirspor Token,$0
+4187,CLNY,Colony Network Token,$0
+4188,MOI,MyOwnItem,$0
+4189,MNFT,Marvelous NFTs (Bad Days),$0
+4190,JPYC,JPY Coin,$0
+4191,TCG2,TCGCoin 2.0,$0
+4192,UNIDX,UniDex,$0
+4193,Milk,MilkshakeSwap,$0
+4194,FLOKIGROW,FlokiGrow,$0
+4195,UNITS,UnitedCoins,$0
+4196,JADE,Jade Protocol,$0
+4197,VEN,ImpulseVen,$0
+4198,LSP,Lumenswap,$0
+4199,MESH,Meshswap Protocol,$0
+4200,SAP,SwapAll,$0
+4201,JNTR,Jointer,$0
+4202,CHER,Cherry Network,$0
+4203,BRS,Broovs Projects,$0
+4204,LCD,Lucidao,$0
+4205,PIPI,Pippi Finance,$0
+4206,BIGB,BighBull,$0
+4207,KT,KingdomX,$0
+4208,SHOX,SHINJIRO,$0
+4209,STEPG,StepG,$0
+4210,RTT,Restore Truth Token,$0
+4211,QWT,QoWatt,$0
+4212,WGIRL,WhaleGirl,$0
+4213,TAKI,TAKI,$0
+4214,CHAMP,NFT Champions,$0
+4215,AFIN,Asian Fintech,$0
+4216,STRIP,Stripto,$0
+4217,SMCW,Space Misfits,$0
+4218,TUS,Treasure Under Sea,$0
+4219,WADA,Wrapped Cardano,$0
+4220,JCC,junca Cash,$0
+4221,BLOCKS,BLOCKS,$0
+4222,FAKT,Medifakt,$0
+4223,BURN,Burn,$0
+4224,WWAN,Wrapped WAN,$0
+4225,SEA,StarSharks SEA,$0
+4226,USDEX,USDEX,$0
+4227,PVERSE,PornVerse,$0
+4228,IDO,INTERSTELLAR DOMAIN ORDER,$0
+4229,HAY,HAY,$0
+4230,USDI,USDi,$0
+4231,GWT,Galaxy War,$0
+4232,pBTC35A,pBTC35A,$0
+4233,LOVE,UkraineDAO Flag NFT,$0
+4234,PIGGY,Piggy Finance,$0
+4235,WJXN,Jax.Network,$0
+4236,DSFR,Digital Swiss Franc,$0
+4237,OSAKU,The Tale of Osaku,$0
+4238,WIT,Witnet,$0
+4239,TREES,SAFETREES,$0
+4240,LOA,League of Ancients,$0
+4241,CNC,Global China Cash,$0
+4242,NMT,NFTMart Token,$0
+4243,Mononoke-Inu,Mononoke Inu,$0
+4244,RIM,MetaRim,$0
+4245,FUSD,Fuse Dollar,$0
+4246,LKSM,Liquid KSM,$0
+4247,ROY,Crypto Royale,$0
+4248,MOPS,Mops,$0
+4249,EHX,Eterna,$0
+4250,IVG,IVOGEL,$0
+4251,ROI,ROI Token,$0
+4252,MLX,Metaple Finance,$0
+4253,MUTE,Mute,$0
+4254,DEIP,DEIP Protocol,$0
+4255,CRDC,Cardiocoin,$0
+4256,HVI,Hungarian Vizsla Inu,$0
+4257,TYCOON,Tycoon Zone,$0
+4258,ENNO,ENNO Cash,$0
+4259,JCG,JustCarbon,$0
+4260,COVN,Covenant,$0
+4261,iOWN,iOWN Token,$0
+4262,DFD,DefiDollar DAO,$0
+4263,MEGALAND,Metagalaxy Land,$0
+4264,MFAM,Moonwell,$0
+4265,BITCCA,bitcci Cash,$0
+4266,IAG,IAGON,$0
+4267,MOT,Mobius Finance,$0
+4268,PHX,Phoenix Global [old],$0
+4269,WEVE,veDAO,$0
+4270,CSC,CasinoCoin,$0
+4271,METAL,Drunk Robots,$0
+4272,LGBT,Lets Go Brandon Token,$0
+4273,DANA,Ardana,$0
+4274,DEC,Dark Energy Crystals,$0
+4275,VERSE,Shibaverse,$0
+4276,HACHIKO,Hachiko,$0
+4277,BBT,Booby Trap,$0
+4278,MOONCOIN,MoonClimb,$0
+4279,EMP,Export Mortos Platform,$0
+4280,GOHM,Governance OHM,$0
+4281,VETTER,Vetter Token,$0
+4282,POLA,Polaris Share,$0
+4283,DIC,Daikicoin,$0
+4284,SHELL,Meta Apes,$0
+4285,PIE,Pieme,$0
+4286,GMI,GamiFi.GG,$0
+4287,AFIT,Actifit,$0
+4288,YYAVAX,Yield Yak AVAX,$0
+4289,ELV,Elvantis,$0
+4290,BLOCK,Blockasset,$0
+4291,APECOIN,Asia Pacific Electronic Coin,$0
+4292,WRT,WingRiders Governance Token,$0
+4293,SOURCE,ReSource Protocol,$0
+4294,GST,CoinGhost,$0
+4295,BABYDOGEZILLA,BabyDogeZilla,$0
+4296,CPOS,Cpos Cloud Payment,$0
+4297,KAINET,KAINET,$0
+4298,BPX,Black Phoenix,$0
+4299,BSR,BinStarter,$0
+4300,ELONGATE,ELONGATE,$0
+4301,PLG,Pledge Coin,$0
+4302,LBLOCK,Lucky Block (V1),$0
+4303,SFF,Sunflower Farm,$0
+4304,DOGA,DOGAMÍ,$0
+4305,SLNV2,Starlink,$0
+4306,OCC,Occam.Fi,$0
+4307,YAG,Yaki Gold,$0
+4308,JPEGS,IlliquidDAO,$0
+4309,OXD,0xDAO,$0
+4310,TFS,TFS Token,$0
+4311,POLO,NftyPlay,$0
+4312,KKT,Kingdom Karnage,$0
+4313,WEC,Whole Earth Coin,$0
+4314,COPI,Cornucopias,$0
+4315,MU,Miracle Universe,$0
+4316,1PECO,1peco,$0
+4317,SMARTLOX,SmartLOX,$0
+4318,POR,Portuma,$0
+4319,B20,B20,$0
+4320,KAKA,KAKA NFT World,$0
+4321,WBX,WiBX,$0
+4322,BLID,Bolide,$0
+4323,LSTAR,Learning Star,$0
+4324,KINT,Kintsugi,$0
+4325,APW,APWine Finance,$0
+4326,NEXTEP,NEXTEP,$0
+4327,TITAN,IRON Titanium Token,$0
+4328,ABNB,Airbnb tokenized stock FTX,$0
+4329,DG,DeGate,$0
+4330,MSHEESHA,Sheesha Finance Polygon,$0
+4331,KLING,Kling,$0
+4332,KICK,KICK.IO,$0
+4333,XLIST,XList,$0
+4334,QTC,Qitcoin,$0
+4335,UJENNY,Jenny Metaverse DAO Token,$0
+4336,SFL,Sunflower Land,$0
+4337,TXT,Taxa Token,$0
+4338,HEAL,Heal The World,$0
+4339,ASVA,Asva,$0
+4340,CPD,CoinsPaid,$0
+4341,bPRIVA,Privapp Network,$0
+4342,PUFF,Puff,$0
+4343,METAD,META WORLD,$0
+4344,MBH,Marble Heroes,$0
+4345,RDNT,Radiant Capital,$0
+4346,NTX,NuNet,$0
+4347,INUINU,Inu Inu,$0
+4348,VENT,Vent Finance,$0
+4349,PIZZA,Pizza Game,$0
+4350,PAN,Pandorium,$0
+4351,MMT,Mammoth,$0
+4352,$RDF,ReadFi,$0
+4353,MODA,MODA DAO,$0
+4354,ARTM,ARTM,$0
+4355,MFI,Marginswap,$0
+4356,FERT,Chikn Fert,$0
+4357,RADR,CoinRadr,$0
+4358,METAV,MetaVPad,$0
+4359,HOLY,Holy Trinity,$0
+4360,YETI,Yeti Finance,$0
+4361,TNT,Talent,$0
+4362,GAT,Game Ace Token,$0
+4363,HND,Hundred Finance,$0
+4364,GP,Wizards And Dragons,$0
+4365,GAMI,GAMI World,$0
+4366,DNFLX,Netflix Tokenized Stock Defichain,$0
+4367,VEST,DAO Invest,$0
+4368,SPHRI,Spherium,$0
+4369,ZODI,Zodium,$0
+4370,ISKY,Infinity Skies,$0
+4371,RTK,Three Kingdoms,$0
+4372,PLACE,PlaceWar,$0
+4373,RIA,aRIA Currency,$0
+4374,Spritzmoon,SpritzMoon Crypto Token,$0
+4375,Z7,Z7DAO,$0
+4376,MEB,Meblox Protocol,$0
+4377,POOL,PoolTogether,$0
+4378,BTRFLY,Redacted Cartel,$0
+4379,HDBTC,Hidigital btc,$0
+4380,SMARS,SafeMars,$0
+4381,GRBT,Grinbit,$0
+4382,ZURR,ZURRENCY,$0
+4383,DODI,DoubleDice,$0
+4384,LMCSWAP,LimoCoin Swap,$0
+4385,STON,Mainston,$0
+4386,NXTT,NextEarth,$0
+4387,FDM,Fandom,$0
+4388,YARD,Solyard Finance,$0
+4389,ATS,Atlas DEX,$0
+4390,UCO,Archethic,$0
+4391,NII,Nahmii,$0
+4392,ONEICHI,oneICHI,$0
+4393,BOG,Bogged,$0
+4394,PROS,ProSwap,$0
+4395,EURe,Monerium EUR emoney,$0
+4396,CPRX,Crypto Perx,$0
+4397,CAI,Colony Avalanche Index,$0
+4398,WANUSDT,wanUSDT,$0
+4399,A1A,Aonea Coin,$0
+4400,EOSBEAR,3x Short EOS Token,$0
+4401,BABI,Babylons,$0
+4402,GDOGE,Golden Doge,$0
+4403,PHAE,Phaeton,$0
+4404,GDC,Global Digital Content,$0
+4405,METR,Metria,$0
+4406,HVE2,Uhive,$0
+4407,PSR,Pandora Spirit,$0
+4408,WKD,Wakanda Inu,$0
+4409,LIQ,LIQ Protocol,$0
+4410,CMDX,Comdex,$0
+4411,THALES,Thales,$0
+4412,MRFI,Morphie Network,$0
+4413,VADER,Vader Protocol,$0
+4414,GCME,GoCryptoMe,$0
+4415,UFI,PureFi Protocol,$0
+4416,BULL,BullionFx,$0
+4417,UVT,UvToken,$0
+4418,LNT,Lottonation,$0
+4419,DGZ,DogeZone,$0
+4420,OCB,BLOCKMAX,$0
+4421,GLB,Golden Ball,$0
+4422,PNL,TruePNL,$0
+4423,BTC2X-FLI,BTC 2x Flexible Leverage Index,$0
+4424,PIZA,HalfPizza,$0
+4425,LITx,Lith Token,$0
+4426,NTX,NitroEX,$0
+4427,FUEL,Jetfuel Finance,$0
+4428,BTH,Bit Hotel,$0
+4429,SPHERE,Sphere Finance,$0
+4430,IRENA,Irena Green Energy,$0
+4431,GAN,Galactic Arena: The NFTverse,$0
+4432,TKRN,Token Runner,$0
+4433,BTCPX,BTC Proxy,$0
+4434,SNFT,Spain National Fan Token,$0
+4435,MALL,Metamall,$0
+4436,WAG,Waggle Network,$0
+4437,E8,Energy8,$0
+4438,CIR,CircleSwap,$0
+4439,FCF,French Connection Finance,$0
+4440,NPC,NPC Coin,$0
+4441,BTRFLY,Redacted,$0
+4442,KAZOKU,Kazoku INU,$0
+4443,KITTY,Kitty Coin Solana,$0
+4444,TT,Trillium,$0
+4445,IONX,Charged Particles,$0
+4446,STZ,99Starz,$0
+4447,SDOGE,SolDoge,$0
+4448,MAV,Massive Protocol,$0
+4449,SHD,Shade Protocol,$0
+4450,PAYT,PayAccept,$0
+4451,BMP,Brother Music Platform,$0
+4452,QUROZ,Qfora,$0
+4453,GEIST,Geist Finance,$0
+4454,JAIHO,Jaiho Crypto,$0
+4455,MCRN,MacaronSwap,$0
+4456,ZENC,Zenc Coin,$0
+4457,DELOT,DELOT.IO,$0
+4458,PRT,Parrot Protocol,$0
+4459,PARA,Paralink Network,$0
+4460,AIRX,Aircoins,$0
+4461,FAN,Fanadise,$0
+4462,MR,Meta Ruffy,$0
+4463,NRFB,NuriFootBall,$0
+4464,DARC,Konstellation Network,$0
+4465,MON,Medamon,$0
+4466,DOMI,Domi Online,$0
+4467,ECOP,Eco DeFi,$0
+4468,BDCC,BITICA COIN,$0
+4469,GGG,Good Games Guild,$0
+4470,PFI,PoodleFi,$0
+4471,TART,Tartarus Finance,$0
+4472,SQUIRT,Squirt Game,$0
+4473,MONSTA,Cake Monster,$0
+4474,BIGSB,BigShortBets,$0
+4475,A4,A4 Finance,$0
+4476,ZOO,ZOO Crypto World,$0
+4477,GHUB,GemHUB,$0
+4478,KOMPETE,KOMPETE,$0
+4479,TRCL,Treecle,$0
+4480,DAAPL,Apple Tokenized Stock Defichain,$0
+4481,STAR,FileStar,$0
+4482,GN,GN,$0
+4483,CAVE,Crypto Cavemen Club,$0
+4484,BNTX,BioNTech tokenized stock FTX,$0
+4485,BMN,BlockStream Mining Notes,$0
+4486,YCC,Yuan Chain Coin,$0
+4487,SOP,SoPay,$0
+4488,MCT,Microtuber,$0
+4489,EHASH,EHash,$0
+4490,MIMIR,Mimir Token,$0
+4491,DMS,Dragon Mainland Shards,$0
+4492,CTP,Captain Planet,$0
+4493,RAM,Ramifi Protocol,$0
+4494,CBAT,Compound Basic Attention Token,$0
+4495,MYT,Mytrade,$0
+4496,FIT,FIT Token,$0
+4497,HOTMOON,HotMoon Token,$0
+4498,AFK,Idle Cyber,$0
+4499,NIL,NIL Coin,$0
+4500,FB,Facebook tokenized stock Bittrex,$0
+4501,ZORO,Zoro Inu,$0
+4502,ABR,Allbridge,$0
+4503,ALPH,Alephium,$0
+4504,CLBK,Cloudbric,$0
+4505,LAW,LAW TOKEN,$0
+4506,ZLK,Zenlink,$0
+4507,BLKS,Balıkesirspor Token,$0
+4508,KSN,KISSAN,$0
+4509,NST,NFT Starter,$0
+4510,JMPT,JumpToken,$0
+4511,CAR,Supercars,$0
+4512,IJC,IjasCoin,$0
+4513,LIFE,DEVITA,$0
+4514,ONC,One Cash,$0
+4515,TMFT,Türkiye Motosiklet Federasyonu Fan Token,$0
+4516,SB,SB GROUP,$0
+4517,STC,Starcoin,$0
+4518,ISHND,StrongHands Finance,$0
+4519,CORAL,Coral Swap,$0
+4520,ULT,Shardus,$0
+4521,GABX,Gabx Finance,$0
+4522,Mars,Mars,$0
+4523,HERA,Hero Arena,$0
+4524,BLINK,Blockmason Link,$0
+4525,SCARD,SCARDust,$0
+4526,MRUN,Metarun,$0
+4527,BAS,Basis Share,$0
+4528,BREWLABS,Brewlabs,$0
+4529,PORT,PackagePortal,$0
+4530,ETHICA,Ethica,$0
+4531,XPERPS,xPERPS,$0
+4532,DBD,Day By Day,$0
+4533,NEOFI,NeoFi,$0
+4534,XMN,XMINE,$0
+4535,PYRO,PYROMATIC,$0
+4536,FROG,FrogSwap,$0
+4537,VX,ViteX Coin,$0
+4538,BSTN,Bastion Protocol,$0
+4539,CVXCRV,Convex CRV,$0
+4540,DUCK,Unit Protocol Duck,$0
+4541,TRACE,Trace Network Labs,$0
+4542,SBTC,Super Bitcoin,$0
+4543,TXBIT,Txbit Token,$0
+4544,ENG,Endless Board Game,$0
+4545,DEFIBULL,3X Long DeFi Index Token,$0
+4546,MMIT,MangoMan Intelligent,$0
+4547,DADDYDOGE,Daddy Doge,$0
+4548,CPLT,Catapult.ac,$0
+4549,KOLNET,KOLnet,$0
+4550,ITHEUM,Itheum,$0
+4551,BXH,BOY X HIGHSPEED,$0
+4552,ANTIS,ANTIS INU,$0
+4553,RICE,DAOSquare,$0
+4554,BRUSH,PaintSwap,$0
+4555,AIR,Altair,$0
+4556,VCG,VCGamers,$0
+4557,LIQ,Liquidus,$0
+4558,YLDY,Yieldly,$0
+4559,AMZN,Amazon tokenized stock FTX,$0
+4560,DIS,TosDis,$0
+4561,SHACK,Shack Token,$0
+4562,SASHIMI,Sashimi,$0
+4563,KUSUNOKI,Kusunoki Samurai,$0
+4564,OCAVU,Ocavu Network Token,$0
+4565,GOO,Gooeys,$0
+4566,MRCH,MerchDAO,$0
+4567,ASW,AdaSwap,$0
+4568,OPS,Octopus Protocol,$0
+4569,CHEX,Chintai,$0
+4570,BNBBACK,BNBBack,$0
+4571,HOLDEX,Holdex Finance,$0
+4572,CYCE,Crypto Carbon Energy,$0
+4573,WOKT,Wrapped OKT,$0
+4574,MINIDOGE,MiniDOGE,$0
+4575,DFY,Defi For You,$0
+4576,STRI,Strite,$0
+4577,GSE,GSENetwork,$0
+4578,SHIBAPUP,ShibaPup,$0
+4579,OUSE,OUSE Token,$0
+4580,ANI,Anime Token,$0
+4581,GFI,GameFi Protocol,$0
+4582,CATPAY,CATpay,$0
+4583,ONS,One Share,$0
+4584,DYN,DYAKON,$0
+4585,WELA,Wrapped Elastos,$0
+4586,DOGBOSS,Dog Boss,$0
+4587,PIB,PIBBLE,$0
+4588,DRE,Doren,$0
+4589,BITGATTI,BITGATTI,$0
+4590,BLACK,BLACKHOLE PROTOCOL,$0
+4591,LEMO,LemoChain,$0
+4592,RAMEN,RamenSwap,$0
+4593,MIS,Mithril Share,$0
+4594,BLET,Blockearth,$0
+4595,XEQ,Equilibria,$0
+4596,LSWAP,LoopSwap,$0
+4597,MINI,MiniSwap,$0
+4598,SHIBANFT,ShibaNFT,$0
+4599,BOMB,Bombcrypto Coin,$0
+4600,MSU,MetaSoccer,$0
+4601,KCT,Konnect,$0
+4602,CHURCH,Church Dao,$0
+4603,TNDR,Thunder Lands,$0
+4604,LUXO,LUXO,$0
+4605,LEZ,Peoplez,$0
+4606,POO,POOMOON,$0
+4607,GUILD,BlockchainSpace,$0
+4608,7PXS,7Pixels,$0
+4609,HOPE,Hope,$0
+4610,CPAD,Cronospad,$0
+4611,SNTR,Sentre Protocol,$0
+4612,JBX,Juicebox,$0
+4613,BLES,Blind Boxes,$0
+4614,PPI,Swappi,$0
+4615,BRIGHT,Bright Union,$0
+4616,KST,Karus Starter,$0
+4617,HANZO,Hanzo,$0
+4618,MOGX,Mogu,$0
+4619,ZOMFI,Zomfi,$0
+4620,WKCS,Wrapped KuCoin Token,$0
+4621,TAUM,Orbitau Taureum,$0
+4622,WAL,The Wasted Lands,$0
+4623,SAFLE,Safle,$0
+4624,FIWA,DeFi Warrior (FIWA),$0
+4625,NSDX,NASDEX,$0
+4626,WZM,Woozoo Music,$0
+4627,YUZU,YuzuSwap,$0
+4628,MMG,Monopoly Millionaire Game,$0
+4629,CADINU,Canadian Inuit Dog,$0
+4630,HBO,HashBridge Oracle,$0
+4631,CASTLE,bitcastle,$0
+4632,TP,TokenSwap,$0
+4633,NBLS,NoblessCoin,$0
+4634,UCAP,Unicap.finance,$0
+4635,AMAZINGTEAM,AmazingTeamDAO,$0
+4636,EAD,Learning Cash,$0
+4637,SOLAR,Solarbeam,$0
+4638,DPLTR,Palantir Tokenized Stock Defichain,$0
+4639,TAUR,Marnotaur,$0
+4640,BVC,Crypto Chip Token,$0
+4641,REGEN,Regen Network,$0
+4642,H2O,Trickle,$0
+4643,AQUA,Aquarius,$0
+4644,ORT,XREATORS,$0
+4645,OGY,ORIGYN Foundation,$0
+4646,ALPHA,Alpha Coin,$0
+4647,UPR,Upfire,$0
+4648,BRIDGE,Octus Bridge,$0
+4649,ANTE,AnteDAO,$0
+4650,MYC,Mycelium,$0
+4651,A5T,Alpha5,$0
+4652,NLC,Nelore Coin,$0
+4653,AMG,Amgen,$0
+4654,LEMD,Lemond,$0
+4655,STR,Stater,$0
+4656,AVIC,Victory,$0
+4657,TTX,Talent Token,$0
+4658,ETM,Etermon,$0
+4659,AART,ALL.ART protocol,$0
+4660,PHM,Phantom Protocol,$0
+4661,INF,INFAM,$0
+4662,QBIT,Project Quantum,$0
+4663,QUBE,FlatQube,$0
+4664,DONA,DONASWAP,$0
+4665,PLT,PLT,$0
+4666,MAI,Mindsync,$0
+4667,DOG,Dogeswap,$0
+4668,$COLR,colR Coin,$0
+4669,HAPPY,HappyFans,$0
+4670,DKNIGHT,Dark Knight,$0
+4671,ASIA,Asia Coin,$0
+4672,D11,DeFi11,$0
+4673,RENZEC,renZEC,$0
+4674,LUCA,LUCA,$0
+4675,KOIN,Koinos,$0
+4676,GRAV,Graviton Zero,$0
+4677,HBG,HeroBook,$0
+4678,SHL,Shelling,$0
+4679,WMW,WoopMoney,$0
+4680,FABRIC,MetaFabric,$0
+4681,STE,Stretch To Earn,$0
+4682,KGC,Kingdom Quest,$0
+4683,SWT,Smart Wallet Token,$0
+4684,INU,INU,$0
+4685,REFI,Realfinance Network,$0
+4686,SMARTNFT,SmartNFT,$0
+4687,DMLG,Demole,$0
+4688,SOLAR,Solar,$0
+4689,RGEN,Paragen,$0
+4690,SRLY,Rally (Solana),$0
+4691,ADEL,Akropolis Delphi,$0
+4692,FCH,Freecash,$0
+4693,XPRESS,CryptoXpress,$0
+4694,XUSD,xUSD Token,$0
+4695,BNBDRAGON,DragonBnB.co,$0
+4696,GDS,Golddoge Sachs,$0
+4697,BABIL,BABİL TOKEN,$0
+4698,GAS,Gas DAO,$0
+4699,ARGO,Argo Finance,$0
+4700,GXA,GALAXIA,$0
+4701,MVEDA,Medicalveda,$0
+4702,CARR,Carnomaly,$0
+4703,BIFI,Bitcoin File,$0
+4704,BABA,Alibaba tokenized stock FTX,$0
+4705,VIDA,Vidiachange,$0
+4706,BTBS,BitBase Token,$0
+4707,GICT,GICTrade,$0
+4708,BEETS,Beethoven X,$0
+4709,MOO,Moomonster,$0
+4710,ERTH,Erth Point,$0
+4711,BIOFI,Biometric Financial,$0
+4712,VXXL,VXXL,$0
+4713,DYST,Dystopia,$0
+4714,ZUNA,ZUNA,$0
+4715,mCEUR,Moola Celo EUR,$0
+4716,GRAPE,Grape Finance,$0
+4717,EDUX,Edufex,$0
+4718,KPAD,KickPad,$0
+4719,BSPT,Blocksport,$0
+4720,SCAN,CoinScan,$0
+4721,XHT,HollaEx Token,$0
+4722,VEGAS,Vegasino,$0
+4723,ORO,Operon Origins,$0
+4724,HODL,HODL,$0
+4725,TSHP,12Ships,$0
+4726,RATS,Ratscoin,$0
+4727,PDT,ParagonsDAO,$0
+4728,CREDIT,PROXI,$0
+4729,BTL,Bitlocus,$0
+4730,STAR,Speed Star STAR,$0
+4731,CBT,Community Business Token,$0
+4732,HDV,Hydraverse,$0
+4733,BPRO,B.Protocol,$0
+4734,VITA,VitaDAO,$0
+4735,MF,Mei Flex,$0
+4736,DAW,Deswap,$0
+4737,MKC,Meta Kongz,$0
+4738,AMD,Advanced Micro Devices tokenized stock FTX,$0
+4739,RLOOP,rLoop,$0
+4740,DEFX,DeFinity,$0
+4741,WINTER,Winter,$0
+4742,VOLT,VoltSwap,$0
+4743,SOLD,Solanax,$0
+4744,LUM,Lum Network,$0
+4745,PMG,PMG Coin,$0
+4746,VTG,Victory Gem,$0
+4747,MDM,Medium,$0
+4748,CRU,Cryptounit,$0
+4749,HITOP,HITOP,$0
+4750,LAVA,LavaSwap,$0
+4751,WLRS,Walrus,$0
+4752,TORG,TORG,$0
+4753,BCDN,BlockCDN,$0
+4754,CUB,Cub Finance,$0
+4755,LOOF,LOOF,$0
+4756,ALTER,ALTER,$0
+4757,DSS,Defi Shopping Stake,$0
+4758,VSHARE,V3S Share,$0
+4759,SHAMAN,Shaman King Inu,$0
+4760,NEKI,Maneki-neko,$0
+4761,PARA,Parallel Finance,$0
+4762,DUCATO,Ducato Finance Token,$0
+4763,SUPS,Supremacy,$0
+4764,ZEUM,Colizeum,$0
+4765,NOKU,Noku,$0
+4766,NSFW,Pleasure Coin,$0
+4767,DILI,D Community,$0
+4768,NFTG,NFT Global,$0
+4769,SHAK,Shakita Inu,$0
+4770,SINGLE,Single Finance,$0
+4771,Mars,Marsupilamii,$0
+4772,ATP,Alaya,$0
+4773,CRIC,Cricket Foundation,$0
+4774,AMC,AMC Entertainment Holdings tokenized stock FTX,$0
+4775,HMRN,Homerun Token,$0
+4776,MCASH,Monsoon Finance,$0
+4777,MELI,MELI,$0
+4778,ETHBEAR,3X Short Ethereum Token,$0
+4779,PCN,Pollen Coin,$0
+4780,DFL,DeFIL,$0
+4781,ECELL,Consensus Cell Network,$0
+4782,CLEG,Chain of Legends,$0
+4783,MGOD,MetaGods,$0
+4784,XBE,XBE Token,$0
+4785,VIDYX,VidyX,$0
+4786,BAKED,reBaked,$0
+4787,SPRING,Spring,$0
+4788,TWEP,The Web3 Project (new),$0
+4789,MGA,Metagame Arena,$0
+4790,GGM,Monster Galaxy,$0
+4791,WMF,Whale Maker Fund,$0
+4792,CDS,Capital DAO Protocol,$0
+4793,MDB+,MDB Plus,$0
+4794,MF,MetaFighter,$0
+4795,VRO,VeraOne,$0
+4796,SAFEMARS,SafeMars,$0
+4797,MELD,MELD,$0
+4798,KFC,Chicken,$0
+4799,BLIN,Blin Metaverse,$0
+4800,TBTC,tBTC,$0
+4801,F2C,Ftribe Fighters (F2 NFT),$0
+4802,BFT,Brazil National Fan Token,$0
+4803,POP,Popcorn,$0
+4804,CPET,Chain Pet,$0
+4805,POOP,Poochain,$0
+4806,ZEUS,Zeus Finance,$0
+4807,ZMT,Zipmex,$0
+4808,ZILLIONXO,ZILLION AAKAR XO,$0
+4809,SMTF,SmartFi,$0
+4810,SINU,Shepherd Inu,$0
+4811,RBLS,Rebel Bots,$0
+4812,PTM,Potentiam,$0
+4813,FONE,FONE,$0
+4814,XSP,XSwap Protocol,$0
+4815,MER,Mercurial Finance,$0
+4816,DXB,DXBPay,$0
+4817,REFI,Reimagined Finance,$0
+4818,DOOR,DOOR,$0
+4819,STILT,Stilton,$0
+4820,ZION,ZionTopia,$0
+4821,MNTG,Monetas,$0
+4822,BTCA,BITCOIN ADDITIONAL,$0
+4823,PHTR,Phuture,$0
+4824,HST,HeadStarter,$0
+4825,USDm,USD mars,$0
+4826,BCRO,Bonded Cronos,$0
+4827,APRIL,April,$0
+4828,GLAND,Griffin Land,$0
+4829,SWI,Swinca,$0
+4830,CRUX,CryptoMines Reborn,$0
+4831,METAMUSK,Musk Metaverse,$0
+4832,Y-5,Y-5 FINANCE,$0
+4833,SWISE,StakeWise,$0
+4834,LTT,LocalTrade,$0
+4835,FOOTIE,Footie Plus,$0
+4836,ANIFI,AniFi World,$0
+4837,PROTO,Protofi,$0
+4838,ECC,Empire Capital Token,$0
+4839,BR,BOHR,$0
+4840,GRAV,Graviton,$0
+4841,UXP,UXD Protocol,$0
+4842,CEJI,Creation Energy Join International,$0
+4843,MORE,BuyMORE,$0
+4844,SWAY,Sway Social,$0
+4845,BTCBAM,Bitcoin Bam,$0
+4846,VD,VinDax Coin,$0
+4847,UBER,Uber tokenized stock FTX,$0
+4848,ATD,Catapult,$0
+4849,SHIBIC,SHIBIC,$0
+4850,MVG,Mad Viking Games,$0
+4851,GREATDANE,GreatDane,$0
+4852,ZYTH,Uzyth,$0
+4853,PLN,Pollen,$0
+4854,Mars,Marscoin,$0
+4855,POW,Metahero Universe (POW),$0
+4856,DOGEKING,DogeKing,$0
+4857,NCC,Netcoincapital,$0
+4858,BDY,Buddy DAO,$0
+4859,WPT,WPT Investing Corp,$0
+4860,CORN,CORN,$0
+4861,ENV,Envoy,$0
+4862,FILST,Filecoin Standard Hashrate Token,$0
+4863,GRBE,Green Beli,$0
+4864,XTS,Xaviera Techno Solutions,$0
+4865,VRS,VRES,$0
+4866,YAM,YAM V1,$0
+4867,BOTX,botXcoin,$0
+4868,HNB,HNB Protocol,$0
+4869,PEM,Pembrock,$0
+4870,YFO,YFIONE,$0
+4871,DARK,DarkCrypto,$0
+4872,TMED,MDsquare,$0
+4873,CNG,Changer,$0
+4874,1GOLD,1irstGold,$0
+4875,USV,Universal Store of Value,$0
+4876,SUMMER,Summer,$0
+4877,BCNT,Bincentive,$0
+4878,JOC,Speed Star JOC,$0
+4879,VDORA,VeldoraBSC,$0
+4880,TUT,Tutellus,$0
+4881,LEVELG,LEVELG,$0
+4882,XIL,Project X,$0
+4883,SMG,Samurai Legends,$0
+4884,BRO,DexBrowser,$0
+4885,FIDLE,Fidlecoin,$0
+4886,ACEC,Ace Cash,$0
+4887,GM,GhostMarket,$0
+4888,SHINO,ShinobiVerse,$0
+4889,ENO,ENO,$0
+4890,INES,Inescoin,$0
+4891,$DPIX,DPiXchange,$0
+4892,SPY,Smarty Pay,$0
+4893,CUP,CouponBay,$0
+4894,HID,Hypersign identity,$0
+4895,SHKI,Shkreli Inu,$0
+4896,PLGR,Pledge,$0
+4897,L2DAO,Layer2DAO,$0
+4898,USX,dForce USD,$0
+4899,FIRE,Fire Protocol,$0
+4900,MDF,MatrixETF,$0
+4901,NT,NEXTYPE,$0
+4902,TON,TON Token,$0
+4903,WEFIN,eFin Decentralized,$0
+4904,EDC,Earn Defi Coin,$0
+4905,FJB,Freedom. Jobs. Business.,$0
+4906,FAME,Fantom Maker,$0
+4907,BEFTM,Beefy Escrowed Fantom,$0
+4908,PRI,PRIVATEUM INITIATIVE,$0
+4909,FIGHT,Crypto Fight Club,$0
+4910,LION,Lion Token,$0
+4911,IGT,StarFish OS,$0
+4912,DPAD,Dpad Finance,$0
+4913,XYZ,Universe.XYZ,$0
+4914,DAL,DAOLaunch,$0
+4915,VLTY,Vaulty,$0
+4916,RENFIL,renFIL,$0
+4917,XNFT,xNFT Protocol,$0
+4918,EMO,Emocoin,$0
+4919,STN,Stone DeFi,$0
+4920,GM,GoldMiner,$0
+4921,NYC,NYCCoin,$0
+4922,PEX,Pexcoin,$0
+4923,NIFTSY,Envelop,$0
+4924,BCHBEAR,3x Short Bitcoin Cash Token,$0
+4925,FBX,ForthBox,$0
+4926,TTK,The Three Kingdoms,$0
+4927,PHNX,Phenix Finance,$0
+4928,HULK,Hulk Inu,$0
+4929,BBC,Blue Baikal,$0
+4930,YAW,Yawww,$0
+4931,SHWA,ShibaWallet,$0
+4932,MOLA,Moonlana,$0
+4933,SLRR,SOLARR,$0
+4934,AFK,AFKDAO,$0
+4935,LQDR,Liquid Driver,$0
+4936,CLIMB,CLIMB TOKEN FINANCE,$0
+4937,ICONS,SportsIcon,$0
+4938,TKB,TokenBot,$0
+4939,GRIMEX,SpaceGrime,$0
+4940,ZONE,ZONE,$0
+4941,DBUY,Doont Buy,$0
+4942,RISU,Risu,$0
+4943,MHB,Metahub Coin,$0
+4944,KNCL,Kyber Network Crystal Legacy,$0
+4945,CRT,Carrot,$0
+4946,RBC,Ruby Currency,$0
+4947,DPDBC,PDBC Defichain,$0
+4948,TEMP,Tempus,$0
+4949,UM,UncleMine,$0
+4950,SHIBDOGE,ShibaDoge,$0
+4951,PLUG,PL^Gnet,$0
+4952,METAN,Metan Evolutions,$0
+4953,XPTP,xPTP,$0
+4954,PGX,Pegaxy,$0
+4955,PET,PeaceTokenFinance,$0
+4956,MUSK,Musk Gold,$0
+4957,OPA,OptionPanda,$0
+4958,CHARGE,ChargeDefi,$0
+4959,SERG,Seiren Games Network,$0
+4960,APOLLO,Apollo Inu,$0
+4961,FIRE,The Phoenix,$0
+4962,RBW,Rainbow Token,$0
+4963,LEV,Lever Token,$0
+4964,Ly,Lilly Finance,$0
+4965,ASSA,ASSARA,$0
+4966,MoFi,MobiFi,$0
+4967,$WEAPON,MEGAWEAPON,$0
+4968,SANDWICH,Sandwich Network,$0
+4969,NFD,Feisty Doge NFT,$0
+4970,USDS,SpiceUSD,$0
+4971,BUILD,BUILD,$0
+4972,MOV,MOTIV Protocol,$0
+4973,SILO,Silo Finance,$0
+4974,XRX,REX,$0
+4975,MINIFOOTBALL,Minifootball,$0
+4976,TARAL,Tarality,$0
+4977,BOSS,Boss Token,$0
+4978,COT,Cosplay Token,$0
+4979,CCAR,CryptoCars,$0
+4980,BOP,Boring Protocol,$0
+4981,STRM,Instrumental Finance,$0
+4982,TGT,THORWallet DEX,$0
+4983,SKRT,Sekuritance,$0
+4984,CSR,Cashera,$0
+4985,MIMO,Mimo Governance Token,$0
+4986,BENT,Bent Finance,$0
+4987,NPAS,New Paradigm Assets Solution,$0
+4988,MKONG,MEME KONG,$0
+4989,MOOO,Hashtagger.com,$0
+4990,PERC,Perion,$0
+4991,STRIP,Strip Finance,$0
+4992,DECA,DecaSwap,$0
+4993,CINU,Cheems Inu,$0
+4994,DRS,Doctors Coin,$0
+4995,CTY,Custodiy,$0
+4996,PERA,Pera Finance,$0
+4997,MCT,MyConstant,$0
+4998,PRIDE,Nomad Exiles,$0
+4999,PSTN,Piston,$0
+0,BTC,Bitcoin,"$402,158,711,811"
+1,ETH,Ethereum,"$194,302,996,040"
+2,USDT,Tether,"$67,824,530,766"
+3,USDC,USD Coin,"$51,403,663,851"
+4,BNB,BNB,"$45,559,578,968"
+5,BUSD,Binance USD,"$20,241,214,552"
+6,XRP,XRP,"$16,932,793,813"
+7,ADA,Cardano,"$16,004,277,867"
+8,SOL,Solana,"$12,323,308,835"
+9,DOT,Polkadot,"$8,098,639,154"
+10,DOGE,Dogecoin,"$8,027,350,739"
+11,MATIC,Polygon,"$7,465,796,843"
+12,DAI,Dai,"$6,858,980,550"
+13,SHIB,Shiba Inu,"$6,679,680,273"
+14,AVAX,Avalanche,"$5,816,294,787"
+15,TRX,TRON,"$5,691,974,297"
+16,WBTC,Wrapped Bitcoin,"$5,242,979,876"
+17,ETC,Ethereum Classic,"$4,797,283,398"
+18,LEO,UNUS SED LEO,"$4,710,121,890"
+19,UNI,Uniswap,"$4,708,326,838"
+20,LTC,Litecoin,"$4,432,560,198"
+21,ATOM,Cosmos,"$4,136,656,099"
+22,FTT,FTX Token,"$3,588,561,819"
+23,NEAR,NEAR Protocol,"$3,572,319,717"
+24,LINK,Chainlink,"$3,553,266,377"
+25,CRO,Cronos,"$2,869,215,519"
+26,XMR,Monero,"$2,789,512,295"
+27,XLM,Stellar,"$2,721,501,984"
+28,BCH,Bitcoin Cash,"$2,318,035,916"
+29,LUNC,Terra Classic,"$2,221,528,074"
+30,ALGO,Algorand,"$2,083,714,634"
+31,FLOW,Flow,"$1,997,611,494"
+32,ICP,Internet Computer,"$1,733,553,345"
+33,VET,VeChain,"$1,725,723,685"
+34,FIL,Filecoin,"$1,693,751,113"
+35,APE,ApeCoin,"$1,628,142,571"
+36,EOS,EOS,"$1,555,195,164"
+37,HBAR,Hedera,"$1,519,335,861"
+38,XTZ,Tezos,"$1,419,561,104"
+39,MANA,Decentraland,"$1,388,802,895"
+40,SAND,The Sandbox,"$1,356,188,674"
+41,CHZ,Chiliz,"$1,221,629,505"
+42,QNT,Quant,"$1,214,469,388"
+43,AAVE,Aave,"$1,196,600,381"
+44,EGLD,Elrond,"$1,141,114,457"
+45,THETA,Theta Network,"$1,113,570,906"
+46,AXS,Axie Infinity,"$1,109,013,885"
+47,TUSD,TrueUSD,"$1,068,289,176"
+48,BSV,Bitcoin SV,"$1,006,530,112"
+49,USDP,Pax Dollar,"$945,674,453"
+50,OKB,OKB,"$925,273,934"
+51,KCS,KuCoin Token,"$916,510,412"
+52,ZEC,Zcash,"$916,106,675"
+53,XEC,eCash,"$885,197,355"
+54,BTT,BitTorrent-New,"$812,205,749"
+55,GRT,The Graph,"$766,334,888"
+56,MIOTA,IOTA,"$762,767,220"
+57,USDD,USDD,"$724,520,848"
+58,HT,Huobi Token,"$704,723,885"
+59,MKR,Maker,"$694,320,003"
+60,SNX,Synthetix,"$665,682,490"
+61,KLAY,Klaytn,"$659,548,995"
+62,RVN,Ravencoin,"$651,717,816"
+63,NEO,Neo,"$648,321,884"
+64,FTM,Fantom,"$647,882,150"
+65,USDN,Neutrino USD,"$635,029,807"
+66,RUNE,THORChain,"$598,803,988"
+67,HNT,Helium,"$592,928,820"
+68,CAKE,PancakeSwap,"$589,344,831"
+69,LDO,Lido DAO,"$564,730,785"
+70,CRV,Curve DAO Token,"$560,470,743"
+71,PAXG,PAX Gold,"$553,077,651"
+72,LUNA,Terra,"$543,230,666"
+73,NEXO,Nexo,"$513,940,665"
+74,ENJ,Enjin Coin,"$506,634,890"
+75,BAT,Basic Attention Token,"$495,853,990"
+76,WAVES,Waves,"$491,313,482"
+77,DASH,Dash,"$487,356,281"
+78,STX,Stacks,"$475,809,519"
+79,ZIL,Zilliqa,"$467,683,552"
+80,GT,GateToken,"$455,041,442"
+81,LRC,Loopring,"$447,591,454"
+82,TWT,Trust Wallet Token,"$436,007,554"
+83,USTC,TerraClassicUSD,"$435,310,599"
+84,BTG,Bitcoin Gold,"$420,880,924"
+85,MINA,Mina,"$420,729,382"
+86,FEI,Fei USD,"$417,615,556"
+87,KSM,Kusama,"$410,113,569"
+88,GMT,STEPN,"$409,634,099"
+89,DCR,Decred,"$402,671,411"
+90,GNO,Gnosis,"$400,300,251"
+91,KAVA,Kava,"$396,835,469"
+92,XEM,NEM,"$390,727,406"
+93,COMP,Compound,"$379,324,737"
+94,CELO,Celo,"$378,880,311"
+95,HOT,Holo,"$366,214,418"
+96,1INCH,1inch Network,"$357,609,276"
+97,ANKR,Ankr,"$340,454,404"
+98,CVX,Convex Finance,"$339,580,854"
+99,YFI,yearn.finance,"$338,605,671"
+100,GALA,Gala,"$337,643,100"
+101,CEL,Celsius,"$334,664,847"
+102,AR,Arweave,"$333,945,501"
+103,KNC,Kyber Network Crystal v2,"$331,540,832"
+104,GLM,Golem,"$331,374,032"
+105,XDC,XDC Network,"$328,171,555"
+106,BNX,BinaryX,"$325,608,454"
+107,QTUM,Qtum,"$321,443,703"
+108,TFUEL,Theta Fuel,"$318,410,829"
+109,KDA,Kadena,"$310,974,368"
+110,ROSE,Oasis Network,"$304,742,686"
+111,ENS,Ethereum Name Service,"$291,412,116"
+112,BAL,Balancer,"$289,891,560"
+113,FLUX,Flux,"$288,139,876"
+114,OP,Optimism,"$280,782,662"
+115,GUSD,Gemini Dollar,"$277,933,796"
+116,IOTX,IoTeX,"$274,846,284"
+117,ONE,Harmony,"$262,806,361"
+118,OMG,OMG Network,"$257,261,892"
+119,BTRST,Braintrust,"$254,014,774"
+120,ZRX,0x,"$252,953,006"
+121,BORA,BORA,"$252,124,572"
+122,RSR,Reserve Rights,"$249,445,351"
+123,ICX,ICON,"$247,015,148"
+124,LPT,Livepeer,"$246,445,441"
+125,HIVE,Hive,"$243,398,537"
+126,AMP,Amp,"$242,617,488"
+127,IOST,IOST,"$238,926,079"
+128,VGX,Voyager Token,"$238,526,239"
+129,JST,JUST,"$238,154,183"
+130,POLY,Polymath,"$228,437,819"
+131,XYM,Symbol,"$225,828,503"
+132,STORJ,Storj,"$217,196,298"
+133,AUDIO,Audius,"$214,329,567"
+134,SRM,Serum,"$212,618,779"
+135,ONT,Ontology,"$205,413,910"
+136,WAXP,WAX,"$202,280,095"
+137,SC,Siacoin,"$202,082,101"
+138,GLMR,Moonbeam,"$201,208,012"
+139,PUNDIX,Pundi X (New),"$199,395,155"
+140,MXC,MXC,"$197,676,308"
+141,ZEN,Horizen,"$195,413,557"
+142,IMX,Immutable X,"$192,610,800"
+143,UMA,UMA,"$186,133,894"
+144,XCH,Chia,"$184,158,897"
+145,SXP,SXP,"$182,471,936"
+146,CHSB,SwissBorg,"$179,315,396"
+147,SCRT,Secret,"$177,860,395"
+148,ABBC,ABBC Coin,"$175,630,527"
+149,WOO,WOO Network,"$175,099,605"
+150,CSPR,Casper,"$171,699,847"
+151,SKL,SKALE Network,"$166,869,661"
+152,PLA,PlayDapp,"$165,086,425"
+153,SLP,Smooth Love Potion,"$161,503,396"
+154,DGB,DigiByte,"$160,002,735"
+155,DAO,DAO Maker,"$158,811,635"
+156,NFT,APENFT,"$156,437,163"
+157,SUSHI,SushiSwap,"$151,259,054"
+158,ELON,Dogelon Mars,"$150,255,475"
+159,CVC,Civic,"$141,902,346"
+160,KEEP,Keep Network,"$136,734,446"
+161,INJ,Injective,"$135,296,113"
+162,EPS,Ellipsis,"$134,731,673"
+163,RNDR,Render Token,"$132,801,106"
+164,LSK,Lisk,"$131,412,631"
+165,CEEK,CEEK VR,"$131,166,466"
+166,CKB,Nervos Network,"$129,165,395"
+167,UOS,Ultra,"$128,479,814"
+168,MED,MediBloc,"$128,324,694"
+169,EWT,Energy Web Token,"$127,217,486"
+170,SPELL,Spell Token,"$126,826,341"
+171,FX,Function X,"$123,818,826"
+172,CELR,Celer Network,"$122,246,246"
+173,REN,Ren,"$121,879,327"
+174,REQ,Request,"$120,655,369"
+175,BTCST,Bitcoin Standard Hashrate Token,"$120,143,572"
+176,ACA,Acala Token,"$116,699,066"
+177,XNO,Nano,"$116,089,938"
+178,NU,NuCypher,"$113,186,579"
+179,SYS,Syscoin,"$113,050,595"
+180,ONG,Ontology Gas,"$111,195,433"
+181,RLC,iExec RLC,"$109,195,623"
+182,SNT,Status,"$108,711,276"
+183,ORBS,Orbs,"$107,901,300"
+184,PEOPLE,ConstitutionDAO,"$106,571,769"
+185,ARDR,Ardor,"$106,197,364"
+186,COTI,COTI,"$105,914,511"
+187,POWR,Powerledger,"$105,796,043"
+188,LOOM,Loom Network,"$105,236,615"
+189,REEF,Reef,"$104,758,766"
+190,OCEAN,Ocean Protocol,"$104,563,669"
+191,TRIBE,Tribe,"$104,555,595"
+192,PROM,Prom,"$103,696,932"
+193,CFX,Conflux,"$101,482,881"
+194,NMR,Numeraire,"$101,071,189"
+195,XYO,XYO,"$100,607,503"
+196,WIN,WINkLink,"$100,591,766"
+197,API3,API3,"$97,112,252"
+198,DYDX,dYdX,"$96,476,885"
+199,DENT,Dent,"$95,623,108"
+200,HEX,HEX,"$6,607,746,784"
+201,WTRX,Wrapped TRON,"$6,273,386,863"
+202,stETH,Lido Staked ETH,"$5,384,454,120"
+203,YOUC,yOUcash,"$4,407,340,041"
+204,BTCB,Bitcoin BEP2,"$2,214,850,579"
+205,TON,Toncoin,"$2,195,377,268"
+206,XCN,Chain,"$1,519,030,027"
+207,FRAX,Frax,"$1,453,114,001"
+208,BIT,BitDAO,"$1,221,206,790"
+209,WBNB,Wrapped BNB,"$1,193,501,259"
+210,BTTOLD,BitTorrent,"$882,230,802"
+211,HBTC,Huobi BTC,"$825,974,423"
+212,DFI,DeFiChain,"$498,103,651"
+213,XAUT,Tether Gold,"$420,059,289"
+214,MV,GensoKishi Metaverse,"$375,797,239"
+215,OSMO,Osmosis,"$370,182,738"
+216,NXM,NXM,"$342,090,657"
+217,CCXX,Counos X,"$326,117,022"
+218,RPL,Rocket Pool,"$301,114,554"
+219,FRTS,Fruits,"$299,135,567"
+220,ZEON,ZEON,"$282,830,554"
+221,BRISE,Bitgert,"$279,753,335"
+222,T,Threshold,"$264,029,914"
+223,WEMIX,WEMIX,"$248,238,907"
+224,ERG,Ergo,"$242,150,353"
+225,SYN,Synapse,"$231,545,417"
+226,LN,LINK,"$222,885,183"
+227,SAFE,Safe,"$216,356,842"
+228,SAFEMOON,SafeMoon,"$200,488,312"
+229,LUSD,Liquity USD,"$172,906,251"
+230,SSV,ssv.network,"$166,103,496"
+231,HUSD,HUSD,"$159,367,853"
+232,ASTR,Astar,"$151,476,030"
+233,VVS,VVS Finance,"$146,826,407"
+234,BabyDoge,Baby Doge Coin,"$142,855,482"
+235,HUM,Humanscape,"$130,279,995"
+236,MAID,MaidSafeCoin,"$126,456,929"
+237,LOOKS,LooksRare,"$126,435,966"
+238,EURS,STASIS EURO,"$122,969,015"
+239,METIS,MetisDAO,"$122,129,067"
+240,MVL,MVL,"$117,554,937"
+241,RACA,RadioCaca,"$117,527,307"
+242,PLTC,PlatonCoin,"$113,086,823"
+243,MCT,Metacraft,"$109,069,254"
+244,USDX,USDX [Kava],"$105,306,806"
+245,CFG,Centrifuge,"$103,226,272"
+246,vUSDC,Venus USDC,"$103,110,930"
+247,EVER,Everscale,"$100,693,998"
+248,WEVER,Wrapped Everscale,"$100,143,370"
+249,UQC,Uquid Coin,"$99,235,263"
+250,AVINOC,AVINOC,"$97,373,092"
+251,DAG,Constellation,"$95,462,444"
+252,GAL,Galxe,"$95,396,270"
+253,FXS,Frax Share,"$95,342,986"
+254,CHR,Chromia,"$95,054,241"
+255,ANY,Anyswap,"$95,041,141"
+256,BNT,Bancor,"$94,758,667"
+257,MPL,Maple,"$94,698,990"
+258,VLX,Velas,"$94,409,036"
+259,BICO,Biconomy,"$93,829,147"
+260,CBG,Chainbing,"$93,653,926"
+261,RLY,Rally,"$93,329,009"
+262,TEL,Telcoin,"$92,651,258"
+263,CTSI,Cartesi,"$92,560,055"
+264,XWC,WhiteCoin,"$92,548,348"
+265,MX,MX TOKEN,"$91,957,341"
+266,ORC,Orbit Chain,"$91,659,584"
+267,AURORA,Aurora,"$91,327,473"
+268,WVLX,Wrapped Velas,"$90,386,010"
+269,C98,Coin98,"$90,327,616"
+270,NEST,NEST Protocol,"$90,012,565"
+271,ARRR,Pirate Chain,"$88,596,681"
+272,PYR,Vulcan Forged PYR,"$88,348,079"
+273,STEEM,Steem,"$86,691,643"
+274,REP,Augur,"$86,392,710"
+275,FUN,FUNToken,"$85,841,344"
+276,STG,Stargate Finance,"$84,890,991"
+277,SURE,inSure DeFi,"$84,096,635"
+278,RAY,Raydium,"$83,696,855"
+279,STPT,STP,"$82,388,025"
+280,BSW,Biswap,"$82,258,768"
+281,MAGIC,MAGIC,"$82,024,323"
+282,RAD,Radicle,"$81,896,868"
+283,STRAX,Stratis,"$81,597,002"
+284,HXRO,Hxro,"$80,386,514"
+285,ADS,Adshares,"$80,353,264"
+286,CTK,Shentu,"$80,216,598"
+287,SUSD,sUSD,"$79,870,311"
+288,SFUND,Seedify.fund,"$79,831,844"
+289,WRX,WazirX,"$79,171,987"
+290,RKN,Rakon,"$78,677,456"
+291,MTL,Metal,"$78,650,638"
+292,REV,Revain,"$78,574,990"
+293,EUROC,Euro Coin,"$76,645,802"
+294,XPRT,Persistence,"$76,389,270"
+295,OXT,Orchid,"$76,009,585"
+296,LYXe,LUKSO,"$74,997,302"
+297,STMX,StormX,"$74,979,410"
+298,BFC,Bifrost,"$74,079,268"
+299,PHB,Phoenix Global (new),"$74,013,672"
+300,ELF,aelf,"$73,471,517"
+301,AERGO,Aergo,"$72,494,477"
+302,JOE,JOE,"$71,037,247"
+303,FORTH,Ampleforth Governance Token,"$70,904,254"
+304,TRAC,OriginTrail,"$70,896,151"
+305,QKC,QuarkChain,"$70,879,365"
+306,MOB,MobileCoin,"$70,777,112"
+307,ANT,Aragon,"$70,709,886"
+308,VTHO,VeThor Token,"$69,530,097"
+309,LQTY,Liquity,"$69,381,291"
+310,CTC,Creditcoin,"$69,313,895"
+311,RENBTC,renBTC,"$69,087,169"
+312,NKN,NKN,"$68,919,577"
+313,FWT,Freeway Token,"$67,679,452"
+314,FET,Fetch.ai,"$66,136,376"
+315,LAZIO,S.S. Lazio Fan Token,"$66,126,221"
+316,SAITAMA,Saitama,"$65,829,484"
+317,RBTC,RSK Smart Bitcoin,"$65,660,324"
+318,UFO,UFO Gaming,"$64,670,616"
+319,OGN,Origin Protocol,"$64,076,581"
+320,ACH,Alchemy Pay,"$63,871,706"
+321,DIVI,Divi,"$62,889,988"
+322,MDX,Mdex,"$62,868,727"
+323,MOVR,Moonriver,"$62,643,793"
+324,ALICE,MyNeighborAlice,"$62,629,219"
+325,TLM,Alien Worlds,"$62,003,433"
+326,DAWN,Dawn Protocol,"$61,811,674"
+327,ARK,Ark,"$61,415,499"
+328,SSX,SOMESING,"$61,225,661"
+329,MFT,Hifi Finance,"$61,214,888"
+330,SANTOS,Santos FC Fan Token,"$60,240,509"
+331,PERP,Perpetual Protocol,"$60,215,328"
+332,SPS,Splintershards,"$60,126,452"
+333,VERI,Veritaseum,"$60,063,615"
+334,META,Metadium,"$59,762,218"
+335,IQ,Everipedia,"$59,635,816"
+336,STRK,Strike,"$59,241,706"
+337,XCAD,XCAD Network,"$58,607,003"
+338,vBUSD,Venus BUSD,"$58,314,270"
+339,CORE,cVault.finance,"$57,875,611"
+340,SOLO,Sologenic,"$57,604,404"
+341,HEDG,HedgeTrade,"$57,522,142"
+342,BOND,BarnBridge,"$57,183,823"
+343,XVS,Venus,"$56,420,148"
+344,XVG,Verge,"$56,298,480"
+345,XSGD,XSGD,"$55,859,186"
+346,ASD,ASD,"$55,789,663"
+347,BLOK,Bloktopia,"$55,714,056"
+348,1ECO,1eco,"$55,475,576"
+349,PRO,Propy,"$55,314,155"
+350,VAI,Vai,"$55,027,167"
+351,GTN,GlitzKoin,"$55,017,505"
+352,RIF,RSK Infrastructure Framework,"$54,883,963"
+353,UTK,Utrust,"$54,868,713"
+354,GHST,Aavegotchi,"$54,836,147"
+355,MBL,MovieBloc,"$54,728,227"
+356,BOBA,Boba Network,"$54,541,645"
+357,BADGER,Badger DAO,"$54,279,816"
+358,PORTO,FC Porto Fan Token,"$54,259,184"
+359,SUPER,SuperFarm,"$54,162,200"
+360,TITAN,TitanSwap,"$53,947,525"
+361,AGIX,SingularityNET,"$53,895,855"
+362,BETA,Beta Finance,"$53,810,058"
+363,DERO,Dero,"$53,155,962"
+364,CON,CONUN,"$53,061,129"
+365,ALPHA,Alpha Venture DAO,"$52,998,619"
+366,SNL,Sport and Leisure,"$52,527,248"
+367,MBOX,MOBOX,"$52,487,820"
+368,WXT,Wirex Token,"$51,998,221"
+369,DUSK,Dusk Network,"$51,867,970"
+370,YGG,Yield Guild Games,"$51,867,614"
+371,CUSD,Celo Dollar,"$51,759,928"
+372,TT,ThunderCore,"$51,678,627"
+373,ETN,Electroneum,"$51,528,621"
+374,WMT,World Mobile Token,"$51,299,760"
+375,SUN,Sun (New),"$51,123,671"
+376,ALPINE,Alpine F1 Team Fan Token,"$50,729,221"
+377,DESO,Decentralized Social,"$50,523,317"
+378,POLS,Polkastarter,"$50,445,618"
+379,AMPL,Ampleforth,"$50,322,873"
+380,DAR,Mines of Dalarnia,"$49,411,949"
+381,LOCUS,Locus Chain,"$49,311,379"
+382,TLOS,Telos,"$48,755,074"
+383,ASTRAFER,Astrafer,"$48,422,514"
+384,ANC,Anchor Protocol,"$48,388,453"
+385,RGT,Rari Governance Token,"$48,374,671"
+386,EXRD,e-Radix,"$48,361,437"
+387,OUSD,Origin Dollar,"$48,298,524"
+388,BAKE,BakeryToken,"$48,239,193"
+389,DEP,DEAPcoin,"$48,198,642"
+390,RSS3,RSS3,"$48,044,552"
+391,CXO,CargoX,"$47,921,041"
+392,WOZX,Efforce,"$47,876,253"
+393,DPI,DeFi Pulse Index,"$47,774,413"
+394,CENNZ,CENNZnet,"$47,582,067"
+395,ARPA,ARPA Chain,"$46,523,956"
+396,KUNCI,Kunci Coin,"$46,297,126"
+397,AXEL,AXEL,"$46,204,124"
+398,MLN,Enzyme,"$46,123,324"
+399,ILV,Illuvium,"$45,940,222"
+400,TOMO,TomoChain,"$45,931,257"
+401,GXC,GXChain,"$45,891,618"
+402,VRA,Verasity,"$45,781,718"
+403,KP3R,Keep3rV1,"$45,190,147"
+404,BAND,Band Protocol,"$44,924,684"
+405,HUNT,HUNT,"$44,702,000"
+406,DKA,dKargo,"$44,619,778"
+407,IDEX,IDEX,"$44,602,246"
+408,aETHc,Ankr Reward Bearing Staked ETH,"$44,583,109"
+409,ONUS,ONUS,"$44,506,581"
+410,COCOS,Cocos-BCX,"$44,000,854"
+411,POND,Marlin,"$43,796,161"
+412,MNGO,Mango,"$43,069,767"
+413,AMA,Mrweb Finance,"$42,874,547"
+414,KLV,Klever,"$42,501,107"
+415,AVA,Travala.com,"$41,456,171"
+416,MUSD,mStable USD,"$40,964,574"
+417,JASMY,JasmyCoin,"$40,808,170"
+418,CLV,CLV,"$40,655,022"
+419,TIME,Chrono.tech,"$40,629,518"
+420,XPR,Proton,"$40,366,790"
+421,SFP,SafePal,"$40,137,307"
+422,ALEPH,Aleph.im,"$40,123,516"
+423,PHA,Phala Network,"$39,914,881"
+424,YOOSHI,YooShi,"$39,901,957"
+425,ALPACA,Alpaca Finance,"$39,821,842"
+426,LCX,LCX,"$39,197,112"
+427,MASK,Mask Network,"$38,909,131"
+428,CRE,Carry,"$38,770,955"
+429,STARL,Starlink,"$38,648,849"
+430,XNC,XeniosCoin,"$38,524,892"
+431,SAMO,Samoyedcoin,"$38,433,531"
+432,ORN,Orion Protocol,"$38,289,585"
+433,RBN,Ribbon Finance,"$37,825,367"
+434,AIOZ,AIOZ Network,"$37,741,424"
+435,BNANA,Chimpion,"$37,313,792"
+436,AMB,Ambrosus,"$37,234,069"
+437,AKT,Akash Network,"$37,169,318"
+438,WAN,Wanchain,"$36,469,823"
+439,YFII,DFI.Money,"$36,409,529"
+440,BZRX,bZx Protocol,"$36,268,199"
+441,RAMP,RAMP,"$36,186,602"
+442,KMD,Komodo,"$36,031,889"
+443,NOIA,Syntropy,"$35,555,033"
+444,CBK,Cobak Token,"$35,371,681"
+445,TRB,Tellor,"$35,168,605"
+446,CET,CoinEx Token,"$35,044,889"
+447,QUACK,RichQUACK.com,"$34,903,247"
+448,FORT,Forta,"$34,834,229"
+449,KILT,KILT Protocol,"$34,775,980"
+450,KAI,KardiaChain,"$34,741,645"
+451,DG,Decentral Games,"$34,705,262"
+452,FLM,Flamingo,"$34,622,364"
+453,HYN,Hyperion,"$34,527,442"
+454,TROY,TROY,"$34,411,244"
+455,CLT,CoinLoan,"$34,373,480"
+456,WKAI,Wrapped KardiaChain,"$33,964,939"
+457,CULT,Cult DAO,"$33,947,835"
+458,H2O,H2O DAO,"$33,917,362"
+459,CEUR,Celo Euro,"$33,892,881"
+460,LINA,Linear Finance,"$33,884,008"
+461,ALCX,Alchemix,"$33,700,735"
+462,TRU,TrueFi,"$33,613,237"
+463,SERO,Super Zero Protocol,"$33,408,545"
+464,UNFI,Unifi Protocol DAO,"$33,068,918"
+465,RFR,Refereum,"$33,059,880"
+466,XMON,XMON,"$33,059,742"
+467,AQT,Alpha Quark Token,"$32,963,371"
+468,NEBL,Neblio,"$32,944,587"
+469,QRDO,Qredo,"$32,856,683"
+470,BCD,Bitcoin Diamond,"$32,815,681"
+471,LTO,LTO Network,"$32,606,614"
+472,BMX,BitMart Token,"$32,446,749"
+473,vUSDT,Venus USDT,"$32,385,940"
+474,VEGA,Vega Protocol,"$32,270,213"
+475,MOC,Moss Coin,"$32,196,111"
+476,BTS,BitShares,"$32,195,892"
+477,ELA,Elastos,"$32,104,044"
+478,REI,REI Network,"$32,019,564"
+479,DIA,DIA,"$32,006,838"
+480,FIRO,Firo,"$31,828,480"
+481,HANDY,Handy,"$31,675,599"
+482,QI,BENQI,"$31,509,443"
+483,"FCT,FCT2",FirmaChain,"$31,197,509"
+484,KOK,KOK,"$30,835,201"
+485,PRE,Presearch,"$30,799,955"
+486,SBD,Steem Dollars,"$30,592,601"
+487,BEL,Bella Protocol,"$30,530,039"
+488,TVK,Virtua,"$30,419,001"
+489,RISE,EverRise,"$30,283,570"
+490,MONA,MonaCoin,"$30,040,793"
+491,UPP,Sentinel Protocol,"$29,943,179"
+492,HI,HI,"$29,838,813"
+493,MC,Merit Circle,"$29,785,903"
+494,AE,Æternity,"$29,658,859"
+495,AGLD,Adventure Gold,"$29,346,138"
+496,WING,Wing Finance,"$29,269,012"
+497,GTC,Gitcoin,"$29,214,150"
+498,SOFI,RAI Finance,"$29,091,786"
+499,AOG,smARTOFGIVING,"$29,021,727"
+500,PSG,Paris Saint-Germain Fan Token,"$28,845,311"
+501,TKO,Toko Token,"$28,830,841"
+502,GMT,GMT Token,"$28,779,855"
+503,RSV,Reserve,"$28,751,786"
+504,FARM,Harvest Finance,"$28,712,586"
+505,MAP,MAP Protocol,"$28,638,903"
+506,FLETA,FLETA,"$28,482,603"
+507,USDK,USDK,"$28,371,693"
+508,BLZ,Bluzelle,"$28,078,785"
+509,QOM,Shiba Predator,"$27,967,579"
+510,DNT,district0x,"$27,767,890"
+511,DX,DxChain Token,"$27,635,980"
+512,FIO,FIO Protocol,"$27,616,381"
+513,ICHI,ICHI,"$27,616,210"
+514,SOUL,Phantasma,"$27,534,539"
+515,LON,Tokenlon Network Token,"$27,456,567"
+516,KAR,Karura,"$27,140,754"
+517,HARD,Kava Lend,"$26,981,198"
+518,ULT,Ultiledger,"$26,967,305"
+519,COS,Contentos,"$26,904,016"
+520,MLK,MiL.k,"$26,855,926"
+521,ATOLO,RIZON,"$26,847,923"
+522,ATA,Automata Network,"$26,840,723"
+523,WNXM,Wrapped NXM,"$26,810,013"
+524,IRIS,IRISnet,"$26,678,119"
+525,ALT,Alitas,"$26,552,077"
+526,SOS,OpenDAO,"$26,358,302"
+527,NSBT,Neutrino Token,"$26,332,127"
+528,LA,LATOKEN,"$26,302,182"
+529,MEV,MEVerse,"$26,283,052"
+530,LEVER,LeverFi,"$26,115,528"
+531,BAR,FC Barcelona Fan Token,"$26,083,305"
+532,BIFI,Beefy Finance,"$26,069,719"
+533,LIT,Litentry,"$25,929,474"
+534,EGG,Nestree,"$25,850,626"
+535,BURGER,BurgerCities,"$25,826,444"
+536,COVAL,Circuits of Value,"$25,818,286"
+537,ROUTE,Router Protocol,"$25,812,302"
+538,TPT,TokenPocket,"$25,667,207"
+539,DFG,Defigram,"$25,615,776"
+540,CUDOS,CUDOS,"$25,493,665"
+541,ERN,Ethernity,"$25,466,798"
+542,HNS,Handshake,"$25,420,046"
+543,ASM,Assemble Protocol,"$25,345,420"
+544,MNW,Morpheus.Network,"$25,281,416"
+545,TNB,Time New Bank,"$25,120,624"
+546,KEY,SelfKey,"$24,946,747"
+547,EUM,Elitium,"$24,872,419"
+548,GRS,Groestlcoin,"$24,669,283"
+549,SWAP,TrustSwap,"$24,637,846"
+550,CTXC,Cortex,"$24,597,098"
+551,FRONT,Frontier,"$24,593,861"
+552,ONIT,ONBUFF,"$24,593,247"
+553,OM,MANTRA,"$24,322,536"
+554,KRT,TerraKRW,"$24,151,129"
+555,LAT,PlatON,"$24,136,046"
+556,HTR,Hathor,"$24,085,505"
+557,DATA,Streamr,"$24,032,272"
+558,GAS,Gas,"$23,959,995"
+559,BOSON,Boson Protocol,"$23,886,227"
+560,ADX,Ambire AdEx,"$23,870,384"
+561,ROOK,Rook,"$23,756,511"
+562,CITY,Manchester City Fan Token,"$23,722,035"
+563,RMRK,RMRK,"$23,706,574"
+564,RARI,Rarible,"$23,680,653"
+565,CRTS,Cratos,"$23,653,861"
+566,MITH,Mithril,"$23,626,902"
+567,WILD,Wilder World,"$23,519,994"
+568,GODS,Gods Unchained,"$23,502,240"
+569,WTC,Waltonchain,"$23,398,031"
+570,AION,Aion,"$23,280,781"
+571,DVI,Dvision Network,"$23,215,349"
+572,KIN,Kin,"$23,026,705"
+573,UBT,Unibright,"$22,778,831"
+574,PIT,Pitbull,"$22,628,289"
+575,ZASH,ZIMBOCASH,"$22,612,841"
+576,MSB,Misbloc,"$22,487,869"
+577,BEAM,Beam,"$22,471,488"
+578,SNM,SONM (BEP-20),"$22,333,573"
+579,AMO,AMO Coin,"$22,325,312"
+580,CHESS,Tranchess,"$22,243,888"
+581,VRSC,VerusCoin,"$21,983,847"
+582,HYDRA,Hydra,"$21,948,894"
+583,FOX,Shapeshift FOX Token,"$21,945,569"
+584,GTO,Gifto,"$21,928,181"
+585,DVF,rhino.fi,"$21,822,719"
+586,EFI,Efinity Token,"$21,740,023"
+587,AST,AirSwap,"$21,632,821"
+588,MARO,Maro,"$21,435,792"
+589,MANC,Mancium,"$21,425,998"
+590,DOCK,Dock,"$21,412,843"
+591,KRD,Krypton DAO,"$21,234,839"
+592,FIS,StaFi,"$21,217,375"
+593,ALI,Alethea Artificial Liquid Intelligence Token,"$21,123,834"
+594,vXVS,Venus XVS,"$20,924,230"
+595,DREP,Drep [new],"$20,916,396"
+596,NULS,NULS,"$20,872,831"
+597,HOO,Hoo Token,"$20,766,121"
+598,BZZ,Swarm,"$20,133,831"
+599,FIDA,Bonfida,"$20,060,249"
+600,AHT,AhaToken,"$19,753,462"
+601,MIX,MixMarvel,"$19,692,929"
+602,APL,Apollo Currency,"$19,668,109"
+603,RARE,SuperRare,"$19,665,161"
+604,QUICK,QuickSwap,"$19,570,207"
+605,DERC,DeRace,"$19,515,149"
+606,HERO,Metahero,"$19,513,227"
+607,BTSE,BTSE,"$19,504,697"
+608,OOKI,Ooki Protocol,"$19,486,233"
+609,STC,Student Coin,"$19,477,662"
+610,CHP,CoinPoker,"$19,461,099"
+611,BRG,Bridge Oracle,"$19,371,547"
+612,NCT,PolySwarm,"$19,288,596"
+613,PRQ,PARSIQ,"$19,241,651"
+614,GET,GET Protocol,"$19,233,801"
+615,SPA,Sperax,"$19,175,174"
+616,GYEN,GYEN,"$18,929,743"
+617,DAD,DAD,"$18,728,623"
+618,YLD,Yield App,"$18,629,224"
+619,GENE,Genopets,"$18,534,236"
+620,GST,Green Satoshi Token (SOL),"$18,490,231"
+621,MDT,Measurable Data Token,"$18,481,874"
+622,VOXEL,Voxies,"$18,468,748"
+623,NWC,Newscrypto,"$18,465,136"
+624,MWC,MimbleWimbleCoin,"$18,458,567"
+625,MSOL,Marinade Staked SOL,"$18,446,248"
+626,SOLVE,SOLVE,"$18,406,613"
+627,BOO,SpookySwap,"$18,395,121"
+628,CUBE,Somnium Space Cubes,"$18,343,192"
+629,DDX,DerivaDAO,"$18,342,167"
+630,HIGH,Highstreet,"$18,238,820"
+631,PIVX,PIVX,"$18,209,476"
+632,HDAO,HyperDAO,"$18,163,626"
+633,DXD,DXdao,"$18,161,206"
+634,LTX,Lattice Token,"$18,076,796"
+635,STAKE,STAKE,"$18,022,950"
+636,AKRO,Akropolis,"$18,010,200"
+637,TOKE,Tokemak,"$17,810,255"
+638,DPR,Deeper Network,"$17,764,029"
+639,CQT,Covalent,"$17,615,589"
+640,MIR,Mirror Protocol,"$17,535,642"
+641,MCRT,MagicCraft,"$17,443,980"
+642,BTM,Bytom,"$17,422,387"
+643,DEXE,DeXe,"$17,373,480"
+644,GFI,Goldfinch,"$17,316,131"
+645,WICC,WaykiChain,"$17,251,176"
+646,MET,Metronome,"$17,249,315"
+647,SLND,Solend,"$17,156,124"
+648,HEZ,Hermez Network,"$17,070,001"
+649,APX,ApolloX,"$16,858,468"
+650,VBIT,Valobit,"$16,672,606"
+651,SIX,SIX,"$16,201,148"
+652,PNK,Kleros,"$16,117,028"
+653,PZM,PRIZM,"$16,065,896"
+654,PNT,pNetwork,"$16,032,287"
+655,SHPING,SHPING,"$15,985,334"
+656,MVC,MileVerse,"$15,729,030"
+657,NMC,Namecoin,"$15,399,166"
+658,KRL,Kryll,"$15,289,507"
+659,BOA,BOSAGORA,"$15,267,974"
+660,DEGO,Dego Finance,"$15,253,196"
+661,HOGE,Hoge Finance,"$15,190,451"
+662,BIDR,BIDR,"$15,116,326"
+663,AUCTION,Bounce Finance Governance Token,"$15,055,763"
+664,VXV,Vectorspace AI,"$15,027,956"
+665,SUKU,Suku,"$14,863,828"
+666,USDJ,USDJ,"$14,824,866"
+667,NIM,Nimiq,"$14,812,567"
+668,LOKA,League of Kingdoms Arena,"$14,711,003"
+669,DF,dForce,"$14,662,188"
+670,PPC,Peercoin,"$14,634,110"
+671,EVZ,Electric Vehicle Zone,"$14,631,156"
+672,RFOX,RFOX,"$14,623,088"
+673,AURY,Aurory,"$14,546,344"
+674,RAI,Rai Reflex Index,"$14,523,931"
+675,SDAO,SingularityDAO,"$14,413,933"
+676,XHV,Haven Protocol,"$14,396,015"
+677,OVR,OVR,"$14,355,413"
+678,FSN,Fusion,"$14,340,036"
+679,ADP,Adappter Token,"$14,327,966"
+680,ERC20,ERC20,"$14,325,657"
+681,IHC,Inflation Hedging Coin,"$14,229,689"
+682,HOPR,HOPR,"$14,174,419"
+683,PLU,Pluton,"$14,111,563"
+684,BTU,BTU Protocol,"$14,030,837"
+685,MATH,MATH,"$13,963,756"
+686,DODO,DODO,"$13,962,593"
+687,PEAK,PEAKDEFI,"$13,933,880"
+688,VITE,VITE,"$13,862,506"
+689,PEEL,Meta Apes,"$13,653,885"
+690,BWO,Battle World,"$13,647,243"
+691,ABT,Arcblock,"$13,645,557"
+692,TABOO,TABOO TOKEN,"$13,636,588"
+693,CVP,PowerPool,"$13,569,904"
+694,CYCLUB,Cyclub,"$13,456,003"
+695,ACM,AC Milan Fan Token,"$13,449,938"
+696,AUTO,Auto,"$13,400,595"
+697,VIDT,VIDT Datalink,"$13,385,399"
+698,QSP,Quantstamp,"$13,255,529"
+699,DEXT,DEXTools,"$13,247,108"
+700,QRL,Quantum Resistant Ledger,"$13,186,292"
+701,GBYTE,Obyte,"$13,172,650"
+702,BASIC,BASIC,"$13,150,924"
+703,BONE,Bone ShibaSwap,"$12,971,044"
+704,RVP,Revolution Populi,"$12,946,416"
+705,OXEN,Oxen,"$12,904,311"
+706,RDD,ReddCoin,"$12,767,337"
+707,SOC,All Sports,"$12,707,719"
+708,DORA,Dora Factory,"$12,672,463"
+709,SENSO,SENSO,"$12,610,859"
+710,VEED,VIMworld,"$12,490,271"
+711,NFTX,NFTX,"$12,266,692"
+712,FOR,ForTube,"$12,242,526"
+713,LBC,LBRY Credits,"$12,190,504"
+714,GARI,Gari Network,"$12,169,055"
+715,WNCG,Wrapped NCG (Nine Chronicles Gold),"$12,063,145"
+716,BF,BitForex Token,"$11,969,835"
+717,CTX,Cryptex Finance,"$11,849,628"
+718,XNO,Xeno Token,"$11,842,875"
+719,KAN,BitKan,"$11,754,849"
+720,PENDLE,Pendle,"$11,703,329"
+721,FST,1irstcoin,"$11,627,346"
+722,SAITO,Saito,"$11,520,697"
+723,IHF,Invictus Hyperion Fund,"$11,510,392"
+724,VTC,Vertcoin,"$11,493,277"
+725,PTU,Pintu Token,"$11,491,340"
+726,ATLAS,Star Atlas,"$11,437,322"
+727,NBS,New BitShares,"$11,411,875"
+728,SOC,Soda Coin,"$11,385,772"
+729,CAJ,Cajutel,"$11,355,813"
+730,SDN,Shiden Network,"$11,247,362"
+731,ZKS,ZKSpace,"$11,227,407"
+732,BABY,BabySwap,"$11,138,262"
+733,SOV,Sovryn,"$11,129,269"
+734,BSCPAD,BSCPAD,"$11,123,758"
+735,ALBT,AllianceBlock,"$10,993,194"
+736,CPOOL,Clearpool,"$10,972,057"
+737,ALU,Altura,"$10,935,904"
+738,PDEX,Polkadex,"$10,862,642"
+739,SCP,ScPrime,"$10,812,420"
+740,APM,apM Coin,"$10,797,732"
+741,SWP,Kava Swap,"$10,709,888"
+742,WABI,Wabi,"$10,673,163"
+743,BOR,BoringDAO,"$10,667,560"
+744,PERL,PERL.eco,"$10,667,198"
+745,POSI,Position Exchange,"$10,611,188"
+746,BANANA,ApeSwap,"$10,586,303"
+747,SWTH,Carbon Protocol,"$10,545,107"
+748,CREAM,Cream Finance,"$10,442,312"
+749,CRPT,Crypterium,"$10,439,730"
+750,TONE,TE-FOOD,"$10,404,946"
+751,DGD,DigixDAO,"$10,334,385"
+752,THG,Thetan Arena,"$10,328,495"
+753,CIV,Civilization,"$10,245,884"
+754,NRG,Energi,"$10,199,220"
+755,TCT,TokenClub,"$10,139,437"
+756,BUX,BUX Token,"$10,093,128"
+757,ATM,Atletico De Madrid Fan Token,"$9,968,184"
+758,SLIM,Solanium,"$9,950,783"
+759,CERE,Cere Network,"$9,949,033"
+760,SWASH,Swash,"$9,924,127"
+761,GOM2,AnimalGo,"$9,813,983"
+762,WHALE,WHALE,"$9,811,978"
+763,QTCON,Quiztok,"$9,681,804"
+764,INTER,Inter Milan Fan Token,"$9,640,504"
+765,EL,ELYSIA,"$9,637,293"
+766,LSS,Lossless,"$9,615,017"
+767,VINU,Vita Inu,"$9,602,694"
+768,SHFT,Shyft Network,"$9,596,408"
+769,OAX,OAX,"$9,574,886"
+770,GO,GoChain,"$9,550,838"
+771,ASR,AS Roma Fan Token,"$9,529,114"
+772,TORN,Tornado Cash,"$9,524,668"
+773,GAFI,GameFi.org,"$9,524,438"
+774,TIFI,TiFi Token,"$9,503,186"
+775,POR,Portugal National Team Fan Token,"$9,499,170"
+776,BIOT,BioPassport Token,"$9,468,122"
+777,KDAG,King DAG,"$9,404,644"
+778,TEMCO,TEMCO,"$9,310,262"
+779,LOG,Woodcoin,"$9,288,511"
+780,VR,Victoria VR,"$9,288,187"
+781,RBC,Rubic,"$9,275,155"
+782,GHX,GamerCoin,"$9,204,934"
+783,BIR,Birake,"$9,163,055"
+784,URUS,Aurox,"$9,125,044"
+785,DVPN,Sentinel,"$9,111,604"
+786,NUM,Numbers Protocol,"$9,111,567"
+787,VELO,Velo,"$9,013,848"
+788,ZNN,Zenon,"$8,994,247"
+789,VID,Vivid Labs,"$8,989,687"
+790,JUP,Jupiter,"$8,984,575"
+791,GMM,Gamium,"$8,929,555"
+792,HIBS,Hiblocks,"$8,918,388"
+793,NYE,NewYork Exchange,"$8,876,546"
+794,BTC2,Bitcoin 2,"$8,875,880"
+795,ZBC,Zebec Protocol,"$8,833,795"
+796,GRID,Grid+,"$8,824,140"
+797,DACXI,Dacxi,"$8,804,493"
+798,RAINI,Rainicorn,"$8,804,279"
+799,GF,GuildFi,"$8,801,268"
+800,XCP,Counterparty,"$8,738,540"
+801,ARV,Ariva,"$8,676,793"
+802,CLO,Callisto Network,"$8,676,224"
+803,GAL,Galatasaray Fan Token,"$8,668,561"
+804,PCX,ChainX,"$8,592,801"
+805,MLT,MILC Platform,"$8,509,958"
+806,ARG,Argentine Football Association Fan Token,"$8,506,656"
+807,PNG,Pangolin,"$8,496,227"
+808,PTS,Petals,"$8,494,672"
+809,HPT,Huobi Pool Token,"$8,472,018"
+810,FOAM,FOAM,"$8,463,807"
+811,MCB,MCDEX Token,"$8,451,650"
+812,CELL,Cellframe,"$8,439,698"
+813,CAPS,Ternoa,"$8,422,823"
+814,QLC,QLC Chain,"$8,417,485"
+815,ARIA20,Arianee,"$8,416,985"
+816,VIB,Viberate,"$8,383,998"
+817,DMD,Diamond,"$8,360,514"
+818,QASH,QASH,"$8,355,963"
+819,BEPRO,BEPRO Network,"$8,304,045"
+820,AVT,Aventus,"$8,301,836"
+821,IDRT,Rupiah Token,"$8,301,338"
+822,OBSR,Observer,"$8,296,263"
+823,JUV,Juventus Fan Token,"$8,254,419"
+824,VEE,BLOCKv,"$8,186,092"
+825,BUY,Buying.com,"$8,131,302"
+826,UNCX,UniCrypt,"$8,115,308"
+827,MTA,mStable Governance Token: Meta (MTA),"$8,040,146"
+828,SHIRYO,Shiryo,"$8,009,848"
+829,MOF,Molecular Future,"$7,995,731"
+830,BLCT,Bloomzed Loyalty Club Ticket,"$7,964,408"
+831,XWG,X World Games,"$7,908,813"
+832,SYLO,Sylo,"$7,904,739"
+833,EPIC,Epic Cash,"$7,890,591"
+834,PALLA,Pallapay,"$7,888,837"
+835,POLIS,Star Atlas DAO,"$7,871,209"
+836,OG,OG Fan Token,"$7,860,309"
+837,erowan,SifChain,"$7,803,544"
+838,ID,Everest,"$7,763,177"
+839,SEELE,Seele-N,"$7,738,605"
+840,HAI,Hacken Token,"$7,737,427"
+841,VAL,Validity,"$7,707,814"
+842,SOCKS,Unisocks,"$7,702,428"
+843,PSTAKE,pSTAKE Finance,"$7,683,193"
+844,UFT,UniLend,"$7,610,770"
+845,XEP,Electra Protocol,"$7,592,811"
+846,BAN,Banano,"$7,578,265"
+847,MCASH,Mcashchain,"$7,568,580"
+848,XDEFI,XDEFI Wallet,"$7,546,442"
+849,INV,Inverse Finance,"$7,542,467"
+850,VRT,Venus Reward Token,"$7,520,685"
+851,SHX,Stronghold Token,"$7,333,152"
+852,SIDUS,SIDUS,"$7,256,851"
+853,RAE,Receive Access Ecosystem,"$7,162,611"
+854,CRU,Crust Network,"$7,145,106"
+855,STRX,StrikeX,"$7,134,419"
+856,ZCN,0Chain,"$7,076,535"
+857,DRGN,Dragonchain,"$6,992,423"
+858,GST,Green Satoshi Token (ETH),"$6,968,876"
+859,EDG,Edgeware,"$6,942,120"
+860,MAPS,MAPS,"$6,867,552"
+861,ZYN,Zynecoin,"$6,863,854"
+862,MBS,MonkeyLeague,"$6,849,067"
+863,WIKEN,Project WITH,"$6,828,141"
+864,PROB,ProBit Token,"$6,771,503"
+865,AAB,AAX Token,"$6,745,056"
+866,GOG,Guild of Guardians,"$6,725,367"
+867,UPUNK,Unicly CryptoPunks Collection,"$6,723,114"
+868,BTR,Bitrue Coin,"$6,698,147"
+869,MYST,Mysterium,"$6,671,269"
+870,BCN,Bytecoin,"$6,653,430"
+871,LBL,LABEL Foundation,"$6,639,096"
+872,XMC,Monero Classic,"$6,625,661"
+873,MHC,#MetaHash,"$6,490,835"
+874,HEGIC,Hegic,"$6,482,451"
+875,PKT,PKT,"$6,462,119"
+876,MONA,Monavale,"$6,440,344"
+877,PKF,PolkaFoundry,"$6,421,299"
+878,GPX,GPEX,"$6,407,992"
+879,EQUAD,QuadrantProtocol,"$6,384,321"
+880,SHILL,SHILL Token,"$6,343,663"
+881,TNC,TNC Coin,"$6,277,469"
+882,LNR,Lunar,"$6,266,921"
+883,GLCH,Glitch,"$6,261,679"
+884,AGRS,Agoras: Currency of Tau,"$6,258,900"
+885,SWFTC,SwftCoin,"$6,249,618"
+886,ASK,Permission Coin,"$6,242,883"
+887,EMRX,Emirex Token,"$6,202,196"
+888,GRIN,Grin,"$6,175,784"
+889,WWY,WeWay,"$6,138,978"
+890,ATRI,Atari Token,"$6,137,134"
+891,NEX,Nash,"$6,128,601"
+892,SHR,ShareToken,"$6,093,177"
+893,CGG,ChainGuardians,"$6,091,492"
+894,MINTME,MintMe.com Coin,"$6,023,464"
+895,VALOR,Valor Token,"$6,005,025"
+896,ASTA,ASTA,"$5,988,869"
+897,TRV,TrustVerse,"$5,904,257"
+898,vDAI,Venus DAI,"$5,865,993"
+899,CAS,Cashaa,"$5,860,266"
+900,TOWN,Town Star,"$5,843,419"
+901,FKX,FortKnoxster,"$5,825,009"
+902,RING,Darwinia Network,"$5,799,476"
+903,BTRS,Bitball Treasure,"$5,796,198"
+904,DFA,DeFine,"$5,786,962"
+905,SIGNA,Signum,"$5,765,813"
+906,HAPI,HAPI Protocol,"$5,759,058"
+907,POLK,Polkamarkets,"$5,758,411"
+908,KYL,Kylin,"$5,614,755"
+909,BLY,Blocery,"$5,602,735"
+910,POOLZ,Poolz Finance,"$5,596,092"
+911,DFYN,Dfyn Network,"$5,585,660"
+912,HC,HyperCash,"$5,575,079"
+913,REAP,ReapChain,"$5,563,003"
+914,TRIX,TriumphX,"$5,547,285"
+915,XED,Exeedme,"$5,528,133"
+916,MATTER,AntiMatter Governance Token,"$5,526,166"
+917,FLX,Reflexer Ungovernance Token,"$5,498,439"
+918,CARD,Cardstack,"$5,492,617"
+919,TEN,Tokenomy,"$5,489,839"
+920,PEX,PearDAO,"$5,473,465"
+921,GTON,GTONCapital,"$5,460,150"
+922,ERA,Era Token (Era7),"$5,448,176"
+923,EPIK,EPIK Prime,"$5,413,362"
+924,POA,POA Network,"$5,364,646"
+925,O3,O3 Swap,"$5,355,013"
+926,DHT,dHedge DAO,"$5,323,117"
+927,ZANO,Zano,"$5,298,056"
+928,RVLT,Revolt 2 Earn,"$5,297,422"
+929,GMCOIN,GMCoin,"$5,227,634"
+930,TKP,TOKPIE,"$5,227,302"
+931,LIKE,LikeCoin,"$5,222,932"
+932,vLTC,Venus LTC,"$5,215,167"
+933,BAAS,BaaSid,"$5,212,992"
+934,ONE,BigONE Token,"$5,211,040"
+935,PART,Particl,"$5,210,897"
+936,FUSE,Fuse Network,"$5,210,003"
+937,OPUL,Opulous,"$5,198,200"
+938,STACK,StackOs,"$5,156,181"
+939,CRP,Crypton,"$5,152,804"
+940,WOOP,Woonkly Power,"$5,114,697"
+941,MOD,Modefi,"$5,092,099"
+942,VIDYA,Vidya,"$5,084,763"
+943,CCT,Carbon Credit,"$5,084,032"
+944,SAN,Santiment Network Token,"$5,064,444"
+945,NOW,ChangeNOW Token,"$5,051,591"
+946,OOE,OpenOcean,"$5,046,165"
+947,TTT,The Transfer Token,"$5,030,667"
+948,PAC,PAC Protocol,"$5,020,959"
+949,MOBI,Mobius,"$4,982,115"
+950,DOGEDASH,Doge Dash,"$4,957,903"
+951,CIRUS,Cirus Foundation,"$4,952,262"
+952,REVV,REVV,"$4,923,218"
+953,XPX,ProximaX,"$4,907,238"
+954,IDIA,Impossible Finance Launchpad,"$4,895,316"
+955,DERI,Deri Protocol,"$4,879,138"
+956,DEL,Decimal,"$4,872,378"
+957,EKTA,Ekta,"$4,851,474"
+958,PNY,Peony,"$4,844,043"
+959,JGN,Juggernaut,"$4,772,536"
+960,SFI,saffron.finance,"$4,729,983"
+961,GSWAP,Gameswap,"$4,722,004"
+962,DSLA,DSLA Protocol,"$4,684,507"
+963,DXL,Dexlab,"$4,677,465"
+964,TON,Tokamak Network,"$4,665,292"
+965,BTNT,BitNautic Token,"$4,648,652"
+966,LITH,Lithium,"$4,635,280"
+967,PUSH,Ethereum Push Notification Service,"$4,621,545"
+968,INSUR,InsurAce,"$4,610,748"
+969,NXS,Nexus,"$4,605,275"
+970,BFT,BnkToTheFuture,"$4,569,872"
+971,GMEE,GAMEE,"$4,566,201"
+972,HAM,Hamster,"$4,564,729"
+973,ES,Era Swap,"$4,557,397"
+974,NEW,Newton,"$4,546,848"
+975,NHT,Neighbourhoods,"$4,537,030"
+976,MONI,Monsta Infinite,"$4,528,894"
+977,vLINK,Venus LINK,"$4,523,119"
+978,SCC,STEM CELL COIN,"$4,511,830"
+979,WOM,WOM Protocol,"$4,489,277"
+980,XDB,DigitalBits,"$4,436,763"
+981,CBX,CropBytes,"$4,413,470"
+982,COV,Covesting,"$4,411,005"
+983,PBR,PolkaBridge,"$4,409,343"
+984,CHNG,Chainge,"$4,394,578"
+985,PMON,Polychain Monsters,"$4,394,394"
+986,AFC,Arsenal Fan Token,"$4,369,673"
+987,GRC,Gridcoin,"$4,359,850"
+988,NGM,e-Money,"$4,356,619"
+989,MUSE,Muse,"$4,355,147"
+990,NAKA,Nakamoto Games,"$4,352,771"
+991,MTV,MultiVAC,"$4,349,493"
+992,SALT,SALT,"$4,346,373"
+993,MINT,Mint Club,"$4,342,316"
+994,ILC,ILCOIN,"$4,310,539"
+995,DOBO,DogeBonk,"$4,295,581"
+996,PI,Plian,"$4,265,137"
+997,REV,RChain,"$4,222,441"
+998,VEMP,vEmpire DDAO,"$4,220,042"
+999,WOM,Wombat Exchange,"$4,216,437"
+1000,AWC,Atomic Wallet Coin,"$4,194,913"
+1001,STOS,Stratos,"$4,167,849"
+1002,BRWL,Blockchain Brawlers,"$4,151,742"
+1003,VSYS,v.systems,"$4,151,347"
+1004,CGT,CACHE Gold,"$4,114,586"
+1005,BITCNY,bitCNY,"$4,113,634"
+1006,NFTART,NFT Art Finance,"$4,112,066"
+1007,ZIG,Zigcoin,"$4,107,791"
+1008,MEETONE,MEET.ONE,"$4,106,155"
+1009,TRA,Trabzonspor Fan Token,"$4,105,208"
+1010,BHP,BHPCoin,"$4,102,476"
+1011,ABYSS,Abyss,"$4,075,671"
+1012,VIA,Viacoin,"$4,044,379"
+1013,LNC,Linker Coin,"$4,029,527"
+1014,VSP,Vesper,"$3,994,165"
+1015,XEND,Xend Finance,"$3,990,659"
+1016,DEHUB,DeHub,"$3,956,644"
+1017,FB,Fenerbahçe Token,"$3,952,279"
+1018,SPIRIT,SpiritSwap,"$3,951,427"
+1019,ZOO,ZooKeeper,"$3,947,614"
+1020,IGNIS,Ignis,"$3,930,379"
+1021,ADK,Aidos Kuneen,"$3,916,932"
+1022,BAO,Bao Finance,"$3,891,685"
+1023,EDG,Edgeless,"$3,847,775"
+1024,GOVI,Govi,"$3,845,031"
+1025,BIP,Minter Network,"$3,813,867"
+1026,DYP,DeFi Yield Protocol,"$3,804,113"
+1027,WRLD,NFT Worlds,"$3,791,856"
+1028,1WO,1World,"$3,785,383"
+1029,PROS,Prosper,"$3,775,424"
+1030,PPT,Populous,"$3,774,218"
+1031,NVT,NerveNetwork,"$3,728,522"
+1032,XRT,Robonomics.network,"$3,677,996"
+1033,CUMMIES,CumRocket,"$3,658,222"
+1034,KARMA,KARMA,"$3,605,663"
+1035,MTH,Monetha,"$3,601,111"
+1036,CHI,Xaya,"$3,592,916"
+1037,ORAI,Oraichain,"$3,581,684"
+1038,GST,Green Satoshi Token (BSC),"$3,572,043"
+1039,AZY,Amazy,"$3,566,497"
+1040,WOW,Wownero,"$3,563,439"
+1041,NFTY,NFTY Network,"$3,518,683"
+1042,FCT,Factom,"$3,517,747"
+1043,RAZOR,Razor Network,"$3,507,248"
+1044,UPI,Pawtocol,"$3,498,022"
+1045,OPCT,Opacity,"$3,494,050"
+1046,ETHAX,ETHAX,"$3,488,705"
+1047,UFC,UFC Fan Token,"$3,466,771"
+1048,RDN,Raiden Network Token,"$3,461,574"
+1049,YAE,Cryptonovae,"$3,446,956"
+1050,DFL,DeFi Land,"$3,408,870"
+1051,ROOBEE,ROOBEE,"$3,408,580"
+1052,BELT,Belt Finance,"$3,407,357"
+1053,GOC,GoCrypto Token,"$3,401,074"
+1054,GEEQ,Geeq,"$3,399,122"
+1055,TREEB,Retreeb,"$3,399,076"
+1056,TOC,TouchCon,"$3,395,928"
+1057,KONO,Konomi Network,"$3,365,126"
+1058,ARA,Adora Token,"$3,360,307"
+1059,DOV,Dovu,"$3,357,693"
+1060,SFD,SAFE DEAL,"$3,341,276"
+1061,SFT,Safex Token,"$3,338,117"
+1062,BNC,Bifrost,"$3,329,570"
+1063,BCA,Bitcoin Atom,"$3,326,584"
+1064,OTO,OTOCASH,"$3,314,154"
+1065,SIB,SIBCoin,"$3,295,880"
+1066,EOSC,EOS Force,"$3,295,493"
+1067,MOOV,Dotmoovs,"$3,258,755"
+1068,XFT,Offshift,"$3,250,384"
+1069,FREE,FREEdom Coin,"$3,239,486"
+1070,CARBON,Carboncoin,"$3,232,447"
+1071,DTEP,DECOIN,"$3,221,415"
+1072,XCHF,CryptoFranc,"$3,166,207"
+1073,NXT,Nxt,"$3,153,814"
+1074,VCF,Valencia CF Fan Token,"$3,153,450"
+1075,ENQ,Enecuum,"$3,152,112"
+1076,BP,Beyond Protocol,"$3,132,248"
+1077,SRK,SparkPoint,"$3,123,810"
+1078,BTCP,Bitcoin Private,"$3,115,648"
+1079,MAHA,MahaDAO,"$3,108,989"
+1080,BOLT,BOLT,"$3,103,191"
+1081,TFT,ThreeFold,"$3,100,040"
+1082,MBN,Mobilian Coin,"$3,090,352"
+1083,NFTD,NFTrade,"$3,058,374"
+1084,KAT,Kambria,"$3,052,785"
+1085,ETP,Metaverse ETP,"$3,045,045"
+1086,SHROOM,Niftyx Protocol,"$3,041,040"
+1087,K21,K21,"$3,034,327"
+1088,XFC,Footballcoin (XFC),"$3,002,532"
+1089,PAY,TenX,"$2,985,695"
+1090,PRISM,Prism,"$2,982,719"
+1091,KALM,KALM,"$2,977,980"
+1092,SARCO,Sarcophagus,"$2,973,996"
+1093,BLT,Bloom,"$2,957,899"
+1094,vSXP,Venus SXP,"$2,933,924"
+1095,TAU,Lamden,"$2,907,800"
+1096,STANDARD,Stakeborg DAO,"$2,903,959"
+1097,XOR,SORA,"$2,892,967"
+1098,SIN,Sinverse,"$2,892,228"
+1099,OLT,OneLedger,"$2,890,330"
+1100,SAFE,SafeCoin,"$2,888,907"
+1101,SKEY,Skey Network,"$2,882,474"
+1102,CRA,Crabada,"$2,876,501"
+1103,SWRV,Swerve,"$2,875,393"
+1104,AXIS,AXIS Token,"$2,875,347"
+1105,UNO,Uno Re,"$2,871,377"
+1106,RTH,Rotharium,"$2,870,638"
+1107,BETU,BetU,"$2,864,612"
+1108,PICKLE,Pickle Finance,"$2,862,513"
+1109,eRSDL,unFederalReserve,"$2,861,114"
+1110,LAMB,Lambda,"$2,859,575"
+1111,TULIP,Tulip Protocol,"$2,858,956"
+1112,LCC,Litecoin Cash,"$2,846,409"
+1113,RVF,RocketX exchange,"$2,827,343"
+1114,LYM,Lympo,"$2,827,129"
+1115,DOE,Dogs Of Elon,"$2,825,920"
+1116,BAX,BABB,"$2,814,755"
+1117,SNC,SunContract,"$2,786,512"
+1118,BLP,BullPerks,"$2,758,909"
+1119,ICE,Decentral Games ICE,"$2,748,681"
+1120,SMI,SafeMoon Inu,"$2,744,218"
+1121,JAM,Geojam Token,"$2,743,217"
+1122,OOKS,Onooks,"$2,743,032"
+1123,PORNROCKET,PornRocket,"$2,719,040"
+1124,LGCY,LGCY Network,"$2,701,420"
+1125,KMA,Calamari Network,"$2,699,326"
+1126,METAPETS,MetaPets,"$2,690,806"
+1127,INSTAR,Insights Network,"$2,690,124"
+1128,NAS,Nebulas,"$2,687,563"
+1129,PING,Sonar,"$2,680,673"
+1130,SCC,StakeCubeCoin,"$2,674,495"
+1131,COLX,ColossusXT,"$2,673,896"
+1132,SEON,SeedOn,"$2,673,612"
+1133,COL,Clash of Lilliput,"$2,672,025"
+1134,IPAD,Infinity PAD,"$2,668,096"
+1135,LABS,LABS Group,"$2,664,369"
+1136,NAV,Navcoin,"$2,657,465"
+1137,SNTVT,Sentivate,"$2,648,994"
+1138,TOWER,TOWER,"$2,635,346"
+1139,BOOM,BOOM,"$2,632,830"
+1140,MENGO,Flamengo Fan Token,"$2,624,889"
+1141,SUTER,suterusu,"$2,612,414"
+1142,PRIMATE,Primate,"$2,608,953"
+1143,AOA,Aurora,"$2,607,559"
+1144,vDOT,Venus DOT,"$2,607,144"
+1145,BCDT,EvidenZ,"$2,600,650"
+1146,DIGG,DIGG,"$2,586,786"
+1147,STARS,Mogul Productions,"$2,573,037"
+1148,KROM,Kromatika,"$2,567,491"
+1149,SHA,Safe Haven,"$2,561,981"
+1150,TEER,Integritee Network,"$2,549,288"
+1151,LUA,LuaSwap,"$2,536,225"
+1152,OXB,Oxbull.tech,"$2,534,917"
+1153,TKN,Monolith,"$2,533,714"
+1154,DIP,Etherisc DIP Token,"$2,506,896"
+1155,ACT,Achain,"$2,505,841"
+1156,JOB,Jobchain,"$2,505,835"
+1157,DIO,Decimated,"$2,496,595"
+1158,SWINGBY,Swingby,"$2,489,387"
+1159,UBXT,UpBots,"$2,486,260"
+1160,VEST,VestChain,"$2,486,043"
+1161,GAME,GameCredits,"$2,484,268"
+1162,IFC,Infinitecoin,"$2,473,357"
+1163,GNY,GNY,"$2,464,586"
+1164,DEFIT,Digital Fitness,"$2,464,397"
+1165,DBC,DeepBrain Chain,"$2,464,198"
+1166,GHOST,Ghost,"$2,454,456"
+1167,XY,XY Finance,"$2,450,015"
+1168,PLC,PLATINCOIN,"$2,449,887"
+1169,OGV,Origin Dollar Governance,"$2,448,053"
+1170,RFUEL,RioDeFi,"$2,400,410"
+1171,AEON,Aeon,"$2,390,145"
+1172,SMT,SmartMesh,"$2,382,932"
+1173,MITX,Morpheus Labs,"$2,378,770"
+1174,FUND,Unification,"$2,360,924"
+1175,XTM,Torum,"$2,356,312"
+1176,ORS,Origin Sport,"$2,352,214"
+1177,UBX,UBIX.Network,"$2,351,807"
+1178,DDIM,DuckDaoDime,"$2,349,741"
+1179,MFG,Smart MFG,"$2,342,473"
+1180,BTCZ,BitcoinZ,"$2,332,329"
+1181,OLE,OpenLeverage,"$2,320,054"
+1182,PSP,ParaSwap,"$2,315,028"
+1183,GNX,Genaro Network,"$2,314,100"
+1184,DEC,Decentr,"$2,283,810"
+1185,BIFI,BiFi,"$2,219,625"
+1186,PAID,PAID Network,"$2,218,049"
+1187,UNB,Unbound,"$2,215,195"
+1188,IQN,IQeon,"$2,210,661"
+1189,FLG,Folgory Coin,"$2,193,573"
+1190,MANDOX,MandoX V2,"$2,188,717"
+1191,TAROT,Tarot,"$2,187,595"
+1192,EM,Eminer,"$2,183,794"
+1193,TARA,Taraxa,"$2,157,314"
+1194,1ART,OneArt,"$2,140,088"
+1195,ISP,Ispolink,"$2,123,570"
+1196,METAG,MetagamZ,"$2,119,818"
+1197,ACE,ACENT,"$2,119,359"
+1198,SATA,Signata,"$2,116,396"
+1199,IDV,Idavoll DAO,"$2,112,882"
+1200,OPEN,OpenWorld,"$2,102,821"
+1201,BLOCK,Blocknet,"$2,095,826"
+1202,BCMC,Blockchain Monster Hunt,"$2,093,314"
+1203,PMGT,Perth Mint Gold Token,"$2,090,549"
+1204,BSCS,BSCStation,"$2,086,645"
+1205,EXNT,ExNetwork Token,"$2,079,693"
+1206,SWOP,Swop,"$2,053,616"
+1207,EOSDT,EOSDT,"$2,046,943"
+1208,SKY,Skycoin,"$2,045,882"
+1209,CMT,CyberMiles,"$2,044,872"
+1210,KMON,Kryptomon,"$2,037,179"
+1211,YAM,YAM V3,"$2,012,647"
+1212,XFL,Florin,"$2,004,985"
+1213,SATT,SaTT,"$2,002,051"
+1214,MIR,MIR COIN,"$1,997,438"
+1215,DMCH,Darma Cash,"$1,978,505"
+1216,XPM,Primecoin,"$1,965,319"
+1217,0xBTC,0xBitcoin,"$1,944,950"
+1218,NFTB,NFTb,"$1,938,168"
+1219,LAND,Landshare,"$1,936,385"
+1220,EXM,EXMO Coin,"$1,927,937"
+1221,SENATE,SENATE,"$1,923,378"
+1222,VDG,VeriDocGlobal,"$1,917,591"
+1223,OXY,Oxygen,"$1,908,010"
+1224,WEBD,WebDollar,"$1,894,072"
+1225,NPXSXEM,Pundi X NEM,"$1,892,831"
+1226,CPT,Cryptaur,"$1,889,993"
+1227,NYAN,Nyancoin,"$1,886,971"
+1228,TOP,TOP,"$1,879,781"
+1229,MINT,Public Mint,"$1,877,531"
+1230,EUNO,EUNO,"$1,872,542"
+1231,IDNA,Idena,"$1,867,751"
+1232,CVT,CyberVein,"$1,844,358"
+1233,MOBIC,Mobility Coin,"$1,835,839"
+1234,EMC2,Einsteinium,"$1,825,098"
+1235,GOZ,Göztepe S.K. Fan Token,"$1,817,744"
+1236,RCN,Ripio Credit Network,"$1,814,799"
+1237,MEME,Memetic / PepeCoin,"$1,806,837"
+1238,SRN,SIRIN LABS Token,"$1,802,396"
+1239,LIKE,Only1,"$1,801,801"
+1240,BMON,Binamon,"$1,800,718"
+1241,BHC,Billion Happiness,"$1,791,118"
+1242,BIX,Bibox Token,"$1,788,753"
+1243,GTH,Gather,"$1,783,554"
+1244,SPC,SpaceChain,"$1,778,167"
+1245,NORD,Nord Finance,"$1,778,155"
+1246,EGT,Egretia,"$1,773,407"
+1247,TFBX,TrueFeedBack,"$1,771,564"
+1248,PLOT,PlotX,"$1,768,487"
+1249,BIN,Binemon,"$1,764,712"
+1250,ATT,Attila,"$1,760,961"
+1251,REPO,REPO,"$1,758,756"
+1252,EBEN,Green Ben,"$1,757,639"
+1253,TENT,TENT,"$1,755,424"
+1254,ZEE,ZeroSwap,"$1,750,394"
+1255,ITGR,Integral,"$1,740,000"
+1256,PLANETS,PlanetWatch,"$1,728,515"
+1257,MTC,DOC.COM,"$1,719,999"
+1258,TRIAS,Trias Token (new),"$1,714,513"
+1259,WEST,Waves Enterprise,"$1,714,502"
+1260,XAUR,Xaurum,"$1,704,259"
+1261,LIME,iMe Lab,"$1,691,251"
+1262,PLY,Aurigami,"$1,678,328"
+1263,ODDZ,Oddz,"$1,676,567"
+1264,CWS,Seascape Crowns,"$1,673,722"
+1265,SPH,Spheroid Universe,"$1,672,981"
+1266,MRX,Metrix Coin,"$1,669,407"
+1267,ZLW,Zelwin,"$1,667,838"
+1268,WELL,WELL,"$1,667,166"
+1269,HZN,Horizon Protocol,"$1,666,443"
+1270,ISIKC,Isiklar Coin,"$1,660,188"
+1271,DPS,DEEPSPACE,"$1,643,097"
+1272,FRM,Ferrum Network,"$1,642,682"
+1273,DAFI,DAFI Protocol,"$1,641,484"
+1274,ARDX,ArdCoin,"$1,635,063"
+1275,WOMBAT,Wombat Web 3 Gaming Platform,"$1,625,808"
+1276,XBY,XTRABYTES,"$1,625,461"
+1277,FNDZ,FNDZ,"$1,621,704"
+1278,AOG,AgeOfGods,"$1,620,265"
+1279,LUFC,Leeds United Fan Token,"$1,619,781"
+1280,TX,TransferCoin,"$1,613,385"
+1281,WGR,Wagerr,"$1,610,459"
+1282,KOM,Kommunitas,"$1,602,431"
+1283,TRADE,Polytrade,"$1,592,000"
+1284,ARMOR,ARMOR,"$1,580,404"
+1285,DPET,My DeFi Pet,"$1,579,203"
+1286,MOVEZ,MOVEZ,"$1,576,639"
+1287,DOGGY,DOGGY,"$1,574,776"
+1288,SPARTA,Spartan Protocol,"$1,570,514"
+1289,HOTCROSS,Hot Cross,"$1,570,199"
+1290,PAI,Project Pai,"$1,564,305"
+1291,TKING,Tiger King Coin,"$1,564,145"
+1292,CLOAK,CloakCoin,"$1,559,136"
+1293,ADAPAD,ADAPad,"$1,558,807"
+1294,REVO,Revomon,"$1,558,718"
+1295,42,42-coin,"$1,543,556"
+1296,ONION,DeepOnion,"$1,527,502"
+1297,TOKO,Tokoin,"$1,519,074"
+1298,SLRS,Solrise Finance,"$1,512,796"
+1299,RUFF,Ruff,"$1,511,231"
+1300,RPG,Rangers Protocol,"$1,509,130"
+1301,INT,INT,"$1,507,980"
+1302,CMERGE,CoinMerge (ERC-20),"$1,499,491"
+1303,BIRD,Bird.Money,"$1,495,663"
+1304,HOT,Hydro Protocol,"$1,483,640"
+1305,OCTO,OctoFi,"$1,480,084"
+1306,TUP,TenUp,"$1,478,754"
+1307,ODIN,ODIN PROTOCOL,"$1,478,649"
+1308,LBA,Cred,"$1,478,562"
+1309,ZUSD,ZUSD,"$1,475,794"
+1310,ALY,ALLY,"$1,474,435"
+1311,KTN,Kattana,"$1,472,159"
+1312,LAYER,UniLayer,"$1,469,864"
+1313,HORD,Hord,"$1,467,795"
+1314,SCCP,S.C. Corinthians Fan Token,"$1,464,012"
+1315,WOOF,WOOF,"$1,448,717"
+1316,BTX,BitCore,"$1,447,600"
+1317,RYOSHI,Ryoshi Token,"$1,440,141"
+1318,BDP,Big Data Protocol,"$1,437,041"
+1319,TCC,The ChampCoin,"$1,432,880"
+1320,FARA,FaraLand,"$1,430,523"
+1321,THN,Throne,"$1,429,262"
+1322,CONV,Convergence,"$1,423,111"
+1323,ROCO,ROCO FINANCE,"$1,417,571"
+1324,CRON,Cryptocean,"$1,413,678"
+1325,EDEN,Eden,"$1,410,912"
+1326,DON,Don-key,"$1,407,470"
+1327,PUT,PUTinCoin,"$1,405,542"
+1328,IOI,IOI Token,"$1,404,314"
+1329,IDLE,Idle,"$1,404,123"
+1330,ONSTON,ONSTON,"$1,396,459"
+1331,DTX,Databroker,"$1,389,755"
+1332,FIN,DeFiner,"$1,380,897"
+1333,MAN,Matrix AI Network,"$1,380,338"
+1334,KT,Kuai Token,"$1,378,556"
+1335,CS,Credits,"$1,378,514"
+1336,VIN,VINchain,"$1,374,969"
+1337,IMT,Moneytoken,"$1,374,389"
+1338,STAK,Jigstack,"$1,367,682"
+1339,FO,FIBOS,"$1,365,543"
+1340,FEVR,RealFevr,"$1,356,950"
+1341,ZMN,ZMINE,"$1,351,487"
+1342,EPK,EpiK Protocol,"$1,349,271"
+1343,PLR,Pillar,"$1,343,749"
+1344,NABOX,Nabox,"$1,342,103"
+1345,GEN,DAOstack,"$1,340,773"
+1346,SYNC,SYNC Network,"$1,340,445"
+1347,CBC,CBC.network,"$1,336,378"
+1348,CHICKS,SolChicks Token,"$1,332,024"
+1349,VAB,Vabble,"$1,331,796"
+1350,LBTC,Lightning Bitcoin,"$1,318,779"
+1351,C20,CRYPTO20,"$1,318,343"
+1352,SMARTCREDIT,SmartCredit Token,"$1,316,977"
+1353,DEXA,DEXA COIN,"$1,309,918"
+1354,PLAY,HEROcoin,"$1,301,731"
+1355,VIDY,VIDY,"$1,298,257"
+1356,GLEEC,Gleec,"$1,288,168"
+1357,HOD,HoDooi.com,"$1,283,792"
+1358,DAX,DAEX,"$1,282,212"
+1359,TXA,Project TXA,"$1,274,802"
+1360,CPC,CPChain,"$1,272,296"
+1361,AMLT,AMLT,"$1,262,424"
+1362,ICNQ,Iconic Token,"$1,260,598"
+1363,PLA,PLANET,"$1,248,663"
+1364,TRUE,TrueChain,"$1,248,431"
+1365,GHOST,GHOSTPRISM,"$1,241,167"
+1366,OMNI,Omni,"$1,238,721"
+1367,STARSHIP,STARSHIP,"$1,237,048"
+1368,MASS,Massnet,"$1,235,827"
+1369,PAWTH,Pawthereum,"$1,226,980"
+1370,MPH,88mph,"$1,224,314"
+1371,LIFE,Life Crypto,"$1,221,993"
+1372,UNISTAKE,Unistake,"$1,221,544"
+1373,TMTG,The Midas Touch Gold,"$1,214,449"
+1374,GIO,Graviocoin,"$1,214,076"
+1375,DNA,Metaverse Dualchain Network Architecture,"$1,212,759"
+1376,KCCPAD,KCCPAD,"$1,211,280"
+1377,CCX,Conceal,"$1,209,204"
+1378,PACOCA,Pacoca,"$1,208,315"
+1379,IBFK,İstanbul Başakşehir Fan Token,"$1,202,084"
+1380,MASQ,MASQ,"$1,201,303"
+1381,HPB,High Performance Blockchain,"$1,198,090"
+1382,LIGHT,Lightning,"$1,196,707"
+1383,XRUNE,Thorstarter,"$1,196,229"
+1384,MAX,MAX Exchange Token,"$1,184,416"
+1385,NLG,Gulden,"$1,183,678"
+1386,STRP,Strips Finance,"$1,182,649"
+1387,JULD,JulSwap,"$1,182,092"
+1388,SHI,Shirtum,"$1,178,782"
+1389,FCON,SpaceFalcon,"$1,172,710"
+1390,USF,Unslashed Finance,"$1,171,479"
+1391,BCUBE,B-cube.ai,"$1,167,159"
+1392,YEC,Ycash,"$1,165,663"
+1393,CMERGE,CoinMerge (BEP-20),"$1,154,660"
+1394,RAVEN,Raven Protocol,"$1,151,876"
+1395,BBS,BBS Network,"$1,151,370"
+1396,ITC,IoT Chain,"$1,149,836"
+1397,EFX,Effect Network,"$1,144,512"
+1398,XCASH,X-CASH,"$1,137,131"
+1399,YOP,Yield Optimization Platform & Protocol,"$1,131,520"
+1400,BIS,Bismuth,"$1,128,502"
+1401,BRZE,Breezecoin,"$1,126,380"
+1402,LOWB,Loser Coin,"$1,123,517"
+1403,CV,carVertical,"$1,121,384"
+1404,VEX,Vexanium,"$1,120,003"
+1405,SLICE,Tranche Finance,"$1,118,348"
+1406,GZONE,GameZone,"$1,114,676"
+1407,ARCONA,Arcona,"$1,105,170"
+1408,GCOIN,Galaxy Fight Club,"$1,098,718"
+1409,GMPD,GamesPad,"$1,097,158"
+1410,YUMMY,YUMMY,"$1,096,341"
+1411,FTC,Feathercoin,"$1,093,134"
+1412,WNT,Wicrypt,"$1,092,790"
+1413,BMI,Bridge Mutual,"$1,083,157"
+1414,RPG,Revolve Games,"$1,079,053"
+1415,DRM,DoDreamChain,"$1,075,280"
+1416,GMB,GAMB,"$1,067,457"
+1417,NIF,Unifty,"$1,061,721"
+1418,MDA,Moeda Loyalty Points,"$1,055,967"
+1419,EFC,Everton Fan Token,"$1,055,169"
+1420,EVRY,EVRYNET,"$1,044,207"
+1421,PKR,Polker,"$1,044,087"
+1422,TAD,Tadpole Finance,"$1,041,466"
+1423,STRONG,Strong,"$1,039,701"
+1424,INXT,Internxt,"$1,038,209"
+1425,DCN,Dentacoin,"$1,033,238"
+1426,EQZ,Equalizer,"$1,030,723"
+1427,DESU,Dexsport,"$1,027,725"
+1428,MIST,Mist,"$1,027,283"
+1429,PXC,Phoenixcoin,"$1,023,818"
+1430,CTCN,CONTRACOIN,"$1,019,272"
+1431,LET,LinkEye,"$1,014,975"
+1432,OLY,Olyverse,"$1,014,293"
+1433,CAT,Cat Token,"$1,012,579"
+1434,WHITE,Whiteheart,"$1,012,514"
+1435,SKILL,CryptoBlades,"$1,010,681"
+1436,XPC,eXPerience Chain,"$1,006,462"
+1437,YOU,YOU COIN,"$1,001,108"
+1438,BLANK,BlockWallet,"$1,000,142"
+1439,OWC,Oduwacoin,"$999,153"
+1440,BOTTO,Botto,"$995,905"
+1441,UAXIE,Unicly Mystic Axies Collection,"$993,857"
+1442,BXC,BonusCloud,"$989,429"
+1443,PRT,Portion,"$983,970"
+1444,HAND,ShowHand,"$983,212"
+1445,KLO,Kalao,"$982,025"
+1446,DIME,Dimecoin,"$980,131"
+1447,GLC,Goldcoin,"$979,971"
+1448,YFL,YF Link,"$975,672"
+1449,CND,Cindicator,"$975,049"
+1450,FAIR,FairGame,"$974,489"
+1451,FEAR,Fear,"$973,188"
+1452,GRLC,Garlicoin,"$970,099"
+1453,QRK,Quark,"$968,402"
+1454,BANKER,BankerDoge,"$966,274"
+1455,CHESS,ChessCoin,"$964,521"
+1456,ELMON,Elemon,"$962,055"
+1457,SILVA,Silva Token,"$960,926"
+1458,BOLLY,BollyCoin,"$960,012"
+1459,DUCK,Duck DAO (DLP Duck Token),"$959,096"
+1460,NEXT,ShopNEXT,"$959,002"
+1461,TCP,The Crypto Prophecies,"$958,782"
+1462,GVT,Genesis Vision,"$943,128"
+1463,TERC,TronEuropeRewardCoin,"$937,519"
+1464,AVL,Aston Villa Fan Token,"$935,309"
+1465,EFL,e-Gulden,"$933,981"
+1466,VPP,Virtue Poker,"$932,596"
+1467,YBO,Young Boys Fan Token,"$931,710"
+1468,XHI,HiCoin,"$931,302"
+1469,HAWK,Hawksight,"$921,568"
+1470,FINE,Refinable,"$917,490"
+1471,SKU,Sakura,"$907,269"
+1472,CYC,Cyclone Protocol,"$907,242"
+1473,UFR,Upfiring,"$907,234"
+1474,NYC,NewYorkCoin,"$907,197"
+1475,HYVE,Hyve,"$904,115"
+1476,CTI,ClinTex CTi,"$903,580"
+1477,EMC,Emercoin,"$902,465"
+1478,PEPS,PEPS Coin,"$901,184"
+1479,AIT,AICHAIN,"$899,826"
+1480,EXRN,EXRNchain,"$897,632"
+1481,REDPANDA,Redpanda Earth,"$884,076"
+1482,UMB,Umbrella Network,"$882,755"
+1483,BLK,BlackCoin,"$879,705"
+1484,LOCG,LOCGame,"$879,048"
+1485,DINU,Dogey-Inu,"$866,798"
+1486,KINGSHIB,King Shiba,"$864,831"
+1487,CRWNY,Crowny,"$864,238"
+1488,HGOLD,HollyGold,"$861,971"
+1489,XTAG,xHashtag DAO,"$861,264"
+1490,GALO,Clube Atlético Mineiro Fan Token,"$860,891"
+1491,HMQ,Humaniq,"$858,495"
+1492,MIT,Galaxy Blitz,"$858,246"
+1493,SWG,Swirge,"$853,527"
+1494,UBQ,Ubiq,"$852,558"
+1495,UDO,Unido EP,"$852,050"
+1496,KEX,Kira Network,"$851,547"
+1497,RVC,Ravencoin Classic,"$850,735"
+1498,XMV,MoneroV,"$850,532"
+1499,GSTS,Gunstar Metaverse,"$842,964"
+1500,HTML,HTMLCOIN,"$841,425"
+1501,FINA,Defina Finance,"$830,924"
+1502,COMBO,Furucombo,"$830,101"
+1503,ESD,Empty Set Dollar,"$828,360"
+1504,KGO,KIWIGO,"$828,227"
+1505,BONDLY,Forj(Bondly),"$825,524"
+1506,DAV,DAV Coin,"$820,859"
+1507,BTA,Bata,"$819,742"
+1508,HNST,Honest,"$818,656"
+1509,TRADE,Unitrade,"$818,506"
+1510,KICK,KickToken,"$816,720"
+1511,SOLX,Soldex,"$816,660"
+1512,SMT,Swarm Markets,"$812,762"
+1513,CSM,Crust Shadow,"$809,067"
+1514,THC,HempCoin,"$807,757"
+1515,ZAP,Zap,"$806,453"
+1516,SNY,Synthetify,"$806,187"
+1517,DGX,Digix Gold Token,"$803,735"
+1518,AXPR,Moola,"$801,639"
+1519,BIST,Bistroo,"$801,118"
+1520,BUY,Burency,"$799,789"
+1521,AGA,AGA Token,"$796,531"
+1522,HGET,Hedget,"$795,808"
+1523,FRKT,FRAKT Token,"$794,181"
+1524,PLF,PlayFuel,"$794,034"
+1525,BITB,Bean Cash,"$793,440"
+1526,SONO,SonoCoin,"$791,084"
+1527,STPL,Stream Protocol,"$790,972"
+1528,SPFC,Sao Paulo FC Fan Token,"$786,345"
+1529,OCN,Odyssey,"$785,547"
+1530,SHOPX,SHOPX,"$784,316"
+1531,ACK,AcknoLedger,"$781,116"
+1532,LAUNCH,SuperLauncher,"$780,967"
+1533,VIG,VIG,"$779,569"
+1534,OPIUM,Opium,"$775,763"
+1535,PERI,PERI Finance,"$774,404"
+1536,PPAY,Plasma Finance,"$773,947"
+1537,BGL,Bitgesell,"$772,279"
+1538,ASTRO,AstroSwap,"$772,018"
+1539,SMART,SmartCash,"$769,690"
+1540,POT,PotCoin,"$765,313"
+1541,VNLA,Vanilla Network,"$763,433"
+1542,BANK,Float Protocol (Bank),"$762,929"
+1543,HVN,Hiveterminal Token,"$761,462"
+1544,PVU,Plant Vs Undead,"$760,728"
+1545,PMA,PumaPay,"$757,936"
+1546,BLAST,SafeBlast,"$757,563"
+1547,ZDR,Zloadr,"$753,897"
+1548,ZEFU,Zenfuse,"$751,076"
+1549,GFI,Gravity Finance,"$750,824"
+1550,RHYTHM,Rhythm,"$744,715"
+1551,AMON,AmonD,"$743,186"
+1552,CRBN,Carbon,"$741,135"
+1553,PBX,Paribus,"$740,808"
+1554,AM,Aston Martin Cognizant Fan Token,"$737,473"
+1555,IGG,IG Gold,"$734,519"
+1556,MRS,Metars Genesis,"$731,250"
+1557,ARES,Ares Protocol,"$723,071"
+1558,SUMO,Sumokoin,"$722,740"
+1559,TXL,Autobahn Network,"$722,701"
+1560,FOTA,FOTA - Fight Of The Ages,"$721,344"
+1561,LINKA,LINKA,"$719,056"
+1562,DAPP,LiquidApps,"$713,881"
+1563,DOUGH,PieDAO DOUGH v2,"$710,160"
+1564,VIBE,VIBE,"$707,582"
+1565,TIPS,FedoraCoin,"$707,024"
+1566,IRD,Iridium,"$704,441"
+1567,FIU,beFITTER,"$704,217"
+1568,OPEN,Open Platform,"$703,527"
+1569,YOYOW,YOYOW,"$701,595"
+1570,SPORE,Spore,"$697,380"
+1571,ETHPAD,ETHPad,"$693,177"
+1572,GRG,RigoBlock,"$690,176"
+1573,WATCH,yieldwatch,"$689,915"
+1574,CFi,CyberFi Token,"$688,828"
+1575,BHD,BitcoinHD,"$687,110"
+1576,RYO,Ryo Currency,"$683,945"
+1577,XAMP,Antiample,"$683,833"
+1578,SAUBER,Alfa Romeo Racing ORLEN Fan Token,"$681,700"
+1579,XBC,Bitcoin Plus,"$681,301"
+1580,SCC,SiaCashCoin,"$680,671"
+1581,VDL,Vidulum,"$678,015"
+1582,AZ,Azbit,"$676,176"
+1583,MTN,Medicalchain,"$674,983"
+1584,CORN,Cornichon,"$672,934"
+1585,GSC,Global Social Chain,"$667,881"
+1586,LANA,LanaCoin,"$665,878"
+1587,TYPE,Typerium,"$662,719"
+1588,GLQ,Graphlinq Protocol,"$662,041"
+1589,XSR,Xensor,"$658,662"
+1590,KABY,Kaby Arena,"$658,558"
+1591,HAKKA,Hakka.Finance,"$658,365"
+1592,HUSH,Hush,"$657,454"
+1593,FYD,FYDcoin,"$657,313"
+1594,XPN,PANTHEON X,"$655,667"
+1595,OIN,OIN Finance,"$653,626"
+1596,STA,STATERA,"$651,059"
+1597,SAM,Samsunspor Fan Token,"$649,746"
+1598,RUN,RUN TOGETHER,"$647,889"
+1599,APIX,APIX,"$638,798"
+1600,WSG,Wall Street Games,"$636,788"
+1601,XLT,Nexalt,"$632,967"
+1602,XNL,Chronicle,"$630,376"
+1603,GTC,Game.com,"$630,139"
+1604,CHAT,ChatCoin,"$630,028"
+1605,HIT,HitChain,"$625,549"
+1606,QCH,QChi,"$624,920"
+1607,OCE,OceanEx Token,"$624,413"
+1608,WAG,WagyuSwap,"$622,771"
+1609,HUSL,The HUSL,"$620,452"
+1610,ADM,ADAMANT Messenger,"$619,497"
+1611,LEVL,Levolution,"$618,548"
+1612,SETH,Sether,"$615,585"
+1613,XIO,Blockzero Labs,"$614,512"
+1614,ATL,ATLANT,"$613,865"
+1615,PWAR,PolkaWar,"$607,648"
+1616,STV,Sint-Truidense Voetbalvereniging Fan Token,"$607,328"
+1617,TRL,Triall,"$604,824"
+1618,TERA,TERA,"$604,428"
+1619,RBLX,Rublix,"$603,796"
+1620,IF,Impossible Finance,"$598,804"
+1621,GOF,Golff,"$597,758"
+1622,ASAP,Chainswap,"$594,725"
+1623,STND,Standard Protocol,"$592,962"
+1624,ZOON,CryptoZoon,"$591,549"
+1625,FAM,Famcentral,"$590,856"
+1626,XMX,XMax,"$586,306"
+1627,URQA,UREEQA,"$585,482"
+1628,NAX,NextDAO,"$583,777"
+1629,FYP,FlypMe,"$581,310"
+1630,LXT,Litex,"$580,298"
+1631,CUT,CUTcoin,"$578,115"
+1632,ESS,Essentia,"$571,342"
+1633,TOK,Tokenplace,"$570,147"
+1634,1MT,1Million Token,"$569,625"
+1635,UMASK,Unicly Hashmasks Collection,"$568,829"
+1636,IETH,iEthereum,"$566,297"
+1637,NCash,Nitro Network,"$565,850"
+1638,SHARD,Shard,"$565,739"
+1639,LANC,Lanceria,"$564,531"
+1640,XPD,PetroDollar,"$564,442"
+1641,DNXC,DinoX,"$557,888"
+1642,GDAO,Governor DAO,"$556,853"
+1643,PROPS,Props Token,"$556,623"
+1644,$ANRX,AnRKey X,"$555,882"
+1645,VNXLU,VNX,"$554,808"
+1646,TONS,Thisoption,"$552,603"
+1647,1-UP,1-UP Platform,"$552,325"
+1648,BRKL,Brokoli Network,"$551,962"
+1649,PPP,PayPie,"$551,434"
+1650,WELT,Fabwelt,"$546,215"
+1651,PFL,Professional Fighters League Fan Token,"$540,149"
+1652,CLH,ClearDAO,"$538,951"
+1653,RHT,Reward Hunters Token,"$536,575"
+1654,XDN,DigitalNote,"$535,001"
+1655,BBANK,blockbank,"$534,988"
+1656,PETS,MicroPets,"$534,072"
+1657,XCUR,Curate,"$529,624"
+1658,SWM,Swarm,"$529,564"
+1659,GLS,Golos Blockchain,"$527,582"
+1660,NCDT,Nuco.cloud,"$527,273"
+1661,LBP,Launchblock.com,"$526,737"
+1662,D,Denarius,"$526,628"
+1663,DOSE,DOSE,"$526,064"
+1664,STEP,STEP,"$526,004"
+1665,FTX,FintruX Network,"$523,718"
+1666,XLA,Scala,"$521,100"
+1667,XCV,XCarnival,"$520,827"
+1668,SFX,Safex Cash,"$520,421"
+1669,PXL,PIXEL,"$518,169"
+1670,NAFT,Nafter,"$518,097"
+1671,APL,Apollon Limassol,"$516,911"
+1672,RAZE,Raze Network,"$516,585"
+1673,KCASH,Kcash,"$515,579"
+1674,KAMPAY,KamPay,"$514,382"
+1675,S4F,S4FE,"$514,297"
+1676,XTP,Tap,"$511,897"
+1677,GXT,Gem Exchange and Trading,"$511,700"
+1678,ANW,Anchor Neural World,"$510,918"
+1679,CORA,Corra.Finance,"$510,047"
+1680,SPUME,Spume Protocol,"$509,103"
+1681,LEDU,Education Ecosystem,"$508,944"
+1682,DMG,DMM: Governance,"$508,747"
+1683,IXC,Ixcoin,"$505,207"
+1684,BTB,BitBall,"$502,438"
+1685,DWEB,DecentraWeb,"$500,924"
+1686,UIP,UnlimitedIP,"$500,541"
+1687,GEO,GeoDB,"$498,932"
+1688,CHEEMS,Cheems,"$497,850"
+1689,PHNX,PhoenixDAO,"$492,307"
+1690,HELMET,Helmet.insure,"$486,345"
+1691,JRT,Jarvis Network,"$484,670"
+1692,MXX,Multiplier,"$483,290"
+1693,LZ,LaunchZone,"$481,982"
+1694,FSW,Falconswap,"$480,400"
+1695,SNET,Snetwork,"$478,445"
+1696,MARSH,UnMarshal,"$478,119"
+1697,AME,AME Chain,"$477,338"
+1698,MIN,Minswap,"$474,262"
+1699,PAR,Parachute,"$474,248"
+1700,SKM,Skrumble Network,"$473,674"
+1701,FNT,Falcon Project,"$473,314"
+1702,DRF,DRIFE,"$472,344"
+1703,NBOT,Naka Bodhi Token,"$471,533"
+1704,ORB,Orbitcoin,"$471,419"
+1705,BASE,Base Protocol,"$470,882"
+1706,CANN,CannabisCoin,"$470,356"
+1707,BLKC,BlackHat,"$470,319"
+1708,USDS,Stably USD,"$462,898"
+1709,NAVI,Natus Vincere Fan Token,"$462,646"
+1710,1X2,1X2 COIN,"$461,453"
+1711,MND,Mind Music,"$459,942"
+1712,WOA,Wrapped Origin Axie,"$459,845"
+1713,RNT,OneRoot Network,"$459,673"
+1714,TELOS,Teloscoin,"$457,059"
+1715,DDOS,disBalancer,"$456,374"
+1716,STM,Streamity,"$454,597"
+1717,IPX,Tachyon Protocol,"$453,903"
+1718,RAINBOW,Rainbow Token,"$451,083"
+1719,CANDY,TripCandy,"$449,871"
+1720,MDS,MediShares,"$449,427"
+1721,SIN,SINOVATE,"$448,011"
+1722,PST,Primas,"$445,872"
+1723,EZ,EasyFi,"$443,063"
+1724,KTON,Darwinia Commitment Token,"$442,857"
+1725,CRW,Crown,"$437,327"
+1726,VEIL,Veil,"$436,270"
+1727,WPR,WePower,"$432,807"
+1728,DAC,Davinci Coin,"$431,853"
+1729,UMX,UniMex Network,"$430,535"
+1730,APYS,APYSwap,"$429,774"
+1731,BZE,BZEdge,"$428,085"
+1732,KRB,Karbo,"$425,594"
+1733,PAINT,MurAll,"$424,790"
+1734,UCA,UCA Coin,"$424,778"
+1735,DHV,DeHive,"$423,153"
+1736,SWT,Swarm City,"$423,112"
+1737,UTU,UTU Protocol,"$422,572"
+1738,SPO,Spores Network,"$421,297"
+1739,COR,Coreto,"$419,551"
+1740,DTA,DATA,"$418,523"
+1741,METAX,MetaverseX,"$417,949"
+1742,CNTR,Centaur,"$416,153"
+1743,X8X,X8X Token,"$415,845"
+1744,PPBLZ,Pepemon Pepeballs,"$415,355"
+1745,AIRT,AirNFTs,"$413,800"
+1746,BOB,Bob's Repair,"$412,935"
+1747,BOX,ContentBox,"$412,531"
+1748,LDOGE,LiteDoge,"$412,360"
+1749,DEPAY,DePay,"$411,718"
+1750,CRP,CropperFinance,"$408,021"
+1751,AITRA,Aitra,"$407,418"
+1752,EVED,Evedo,"$406,735"
+1753,CSP,Caspian,"$406,074"
+1754,WNDR,Wonderman Nation,"$404,902"
+1755,PHI,PHI Token,"$402,686"
+1756,LKR,Lokr,"$401,298"
+1757,PCNT,Playcent,"$398,667"
+1758,DOGEC,DogeCash,"$398,644"
+1759,FLP,FLIP,"$396,184"
+1760,EDN,Eden,"$394,272"
+1761,DEV,Dev Protocol,"$393,557"
+1762,COOK,Cook Finance,"$391,619"
+1763,RUNE,Rune,"$390,198"
+1764,BPS,BitcoinPoS,"$386,078"
+1765,PLSPAD,PulsePad,"$384,263"
+1766,SDT,Stake DAO,"$384,104"
+1767,XMY,Myriad,"$384,000"
+1768,FCL,Fractal,"$383,381"
+1769,APY,APY.Finance,"$382,974"
+1770,OST,OST,"$380,754"
+1771,ALL,Alliance Fan Token,"$379,122"
+1772,X42,x42 Protocol,"$378,869"
+1773,ATP,Atlas Protocol,"$378,861"
+1774,vBCH,Venus BCH,"$377,985"
+1775,ZORA,Zoracles,"$375,973"
+1776,OMC,omchain,"$374,249"
+1777,DDD,Scry.info,"$374,045"
+1778,ETHYS,Ethereum Stake,"$372,497"
+1779,SNOW,SnowSwap,"$372,432"
+1780,HBX,HashBX,"$372,279"
+1781,IBP,Innovation Blockchain Payment,"$372,009"
+1782,TCH,TigerCash,"$371,600"
+1783,WINGS,Wings,"$371,172"
+1784,8PAY,8PAY,"$370,888"
+1785,CAI,Club Atletico Independiente,"$369,525"
+1786,TH,Team Heretics Fan Token,"$367,754"
+1787,XRC,xRhodium,"$367,401"
+1788,BEER,Beer Money,"$367,104"
+1789,PASC,Pascal,"$365,396"
+1790,NIOX,Autonio,"$364,259"
+1791,ADB,adbank,"$362,170"
+1792,UBXS,UBXS Token,"$360,343"
+1793,ELEC,Electrify.Asia,"$359,329"
+1794,YETIC,YetiCoin,"$358,858"
+1795,ORION,Orion Money,"$355,057"
+1796,GARD,Hashgard,"$353,567"
+1797,PHR,Phore,"$351,573"
+1798,ASKO,ASKO,"$350,006"
+1799,SNB,SynchroBitcoin,"$348,639"
+1800,SAKE,SakeToken,"$347,780"
+1801,SHIBX,SHIBAVAX,"$346,958"
+1802,LUC,Lucretius,"$343,873"
+1803,ONX,ownix,"$343,231"
+1804,FXF,Finxflo,"$343,111"
+1805,AOK,AOK,"$341,933"
+1806,EBST,eBoost,"$340,525"
+1807,RXS,Rune Shards,"$338,640"
+1808,APPC,AppCoins,"$337,794"
+1809,TRC,Terracoin,"$337,143"
+1810,CAPP,Cappasity,"$336,872"
+1811,RET,RealTract,"$336,671"
+1812,PTF,PowerTrade Fuel,"$336,007"
+1813,DOWS,Shadows,"$334,191"
+1814,2CRZ,2crazyNFT,"$334,158"
+1815,ASPO,ASPO World,"$333,544"
+1816,CHX,WeOwn,"$332,654"
+1817,POLIS,Polis,"$332,104"
+1818,TRTL,TurtleCoin,"$331,851"
+1819,TYC,Tycoon,"$331,422"
+1820,XPNET,XP NETWORK,"$330,429"
+1821,SPWN,Bitspawn,"$329,788"
+1822,TRAVA,TRAVA.FINANCE,"$329,279"
+1823,VSO,Verso,"$326,443"
+1824,DVP,Decentralized Vulnerability Platform,"$324,190"
+1825,SPD,SPINDLE,"$322,083"
+1826,DZG,Dinamo Zagreb Fan Token,"$322,050"
+1827,UUU,U Network,"$321,356"
+1828,IDEA,Ideaology,"$320,454"
+1829,WTN,Waletoken,"$316,323"
+1830,MVP,Merculet,"$315,571"
+1831,UCH,Universidad de Chile Fan Token,"$315,511"
+1832,BLINK,BLink,"$315,333"
+1833,MAT,My Master War,"$314,652"
+1834,KANGAL,Kangal,"$314,264"
+1835,FOUR,4THPILLAR TECHNOLOGIES,"$313,829"
+1836,VGW,VegaWallet Token,"$313,820"
+1837,SKB,Sakura Bloom,"$312,241"
+1838,BXY,Beaxy,"$310,768"
+1839,UDOO,Hyprr,"$310,578"
+1840,DPY,Delphy,"$309,642"
+1841,DIT,Digital Insurance Token,"$308,911"
+1842,BLUE,Blue Protocol,"$307,672"
+1843,NANJ,NANJCOIN,"$307,480"
+1844,SCR,Scorum Coins,"$305,354"
+1845,NINO,Ninneko,"$304,519"
+1846,WGP,W Green Pay,"$303,605"
+1847,PINK,Pinkcoin,"$303,203"
+1848,BZNT,Bezant,"$302,619"
+1849,RATING,DPRating,"$300,136"
+1850,BRD,Bread,"$298,590"
+1851,HYDRO,Hydro,"$298,249"
+1852,HTZ,Hertz Network,"$297,675"
+1853,AG8,AtromG8,"$294,027"
+1854,APN,Apron Network,"$293,717"
+1855,DAPS,DAPS Coin,"$292,945"
+1856,HYC,HYCON,"$291,774"
+1857,PEG,PegNet,"$291,746"
+1858,BHO,BHO Network,"$289,952"
+1859,SUB,Substratum,"$288,762"
+1860,KTLYO,Katalyo,"$287,667"
+1861,POLI,Polinate,"$286,859"
+1862,BTO,Bottos,"$286,360"
+1863,TIDAL,Tidal Finance,"$285,441"
+1864,A,Alpha Token,"$283,946"
+1865,TRIO,Tripio,"$283,274"
+1866,SIGN,Signature Chain,"$281,981"
+1867,CRX,CryptEx,"$281,443"
+1868,ZCL,ZClassic,"$280,850"
+1869,BBP,BiblePay,"$278,797"
+1870,NRV,Nerve Finance,"$278,612"
+1871,ALA,Alanyaspor Fan Token,"$278,510"
+1872,MANNA,Manna,"$278,053"
+1873,AYA,Aryacoin,"$277,639"
+1874,CRE8,Creaticles,"$276,116"
+1875,SMLY,SmileyCoin,"$275,676"
+1876,BNU,ByteNext,"$272,575"
+1877,MONK,MONK,"$271,794"
+1878,ORARE,OneRare,"$271,454"
+1879,CURE,Curecoin,"$271,407"
+1880,WAB,WABnetwork,"$269,885"
+1881,HTDF,Orient Walt,"$269,563"
+1882,FUEL,Etherparty,"$266,550"
+1883,GCC,Global Cryptocurrency,"$266,181"
+1884,FRC,Freicoin,"$265,670"
+1885,CLAM,OtterClam Finance,"$263,755"
+1886,DMT,DMarket,"$262,989"
+1887,BCPT,Blockmason Credit Protocol,"$262,414"
+1888,PXG,PlayGame,"$261,991"
+1889,VISION,VisionGame,"$261,582"
+1890,MNC,Moneynet,"$261,061"
+1891,LML,Link Machine Learning,"$261,010"
+1892,WOW,WOWswap,"$260,932"
+1893,DRC,Digital Reserve Currency,"$260,879"
+1894,BAC,Basis Cash,"$259,624"
+1895,PIN,Public Index Network,"$259,139"
+1896,RED,RED,"$259,122"
+1897,KART,Dragon Kart,"$258,760"
+1898,ETNA,ETNA Network,"$258,192"
+1899,WSPP,Wolf Safe Poor People,"$256,924"
+1900,WISH,MyWish,"$255,270"
+1901,EOSDAC,eosDAC,"$252,937"
+1902,COFI,CoinFi,"$252,693"
+1903,OK,OKCash,"$252,527"
+1904,CNN,Content Neutrality Network,"$250,850"
+1905,OCT,OracleChain,"$250,597"
+1906,BATH,Battle Hero,"$250,245"
+1907,AAC,Double-A Chain,"$250,023"
+1908,FEX,FidexToken,"$248,198"
+1909,EVX,Everex,"$247,979"
+1910,CUMSTAR,CumStar,"$246,925"
+1911,LEAD,Lead Wallet,"$246,648"
+1912,LEG,Legia Warsaw Fan Token,"$246,376"
+1913,BIRD,Birdchain,"$246,197"
+1914,BITS,Bitswift,"$244,741"
+1915,MOTO,Motocoin,"$243,382"
+1916,REM,Remme,"$242,346"
+1917,ROOM,OptionRoom,"$239,803"
+1918,ATMOS,Atmos,"$239,716"
+1919,SWACE,Swace,"$238,865"
+1920,FORM,Formation Fi,"$238,703"
+1921,PRCY,PRivaCY Coin,"$238,639"
+1922,TRTT,Trittium,"$238,245"
+1923,CPO,Cryptopolis,"$237,339"
+1924,KNIGHT,Forest Knight,"$237,017"
+1925,INK,Ink,"$235,246"
+1926,HEC,Heroes Chained,"$234,694"
+1927,TUBE,BitTube,"$234,330"
+1928,WG0,Wrapped Gen-0 CryptoKitties,"$234,079"
+1929,ONG,SoMee.Social [OLD],"$234,022"
+1930,LFW,Legend of Fantasy War,"$231,801"
+1931,NYZO,Nyzo,"$228,721"
+1932,EQL,Equal,"$226,917"
+1933,EDR,Endor Protocol,"$225,915"
+1934,XCT,Citadel.one,"$225,307"
+1935,EXP,Expanse,"$225,075"
+1936,DINO,DinoSwap,"$224,121"
+1937,PAK,Pakcoin,"$223,680"
+1938,STAR,Starbase,"$222,770"
+1939,N1,NFTify,"$221,634"
+1940,COT,CoTrader,"$221,589"
+1941,AIRI,aiRight,"$220,915"
+1942,FACE,Faceter,"$219,588"
+1943,DRT,DomRaider,"$219,463"
+1944,eYe,MEDIA EYE NFT Portal,"$218,373"
+1945,SET,Save Environment Token,"$218,256"
+1946,SYP,Sypool,"$218,008"
+1947,GMAT,GoWithMi,"$216,163"
+1948,GLINT,BeamSwap,"$215,755"
+1949,TIP,SugarBounce,"$215,632"
+1950,RENA,Warena,"$215,567"
+1951,RFI,reflect.finance,"$215,388"
+1952,CLR,Color Platform,"$214,099"
+1953,AC,ACoconut,"$211,967"
+1954,QUIN,QUINADS,"$211,134"
+1955,ZENI,Zennies,"$210,179"
+1956,XIV,Planet Inverse,"$210,099"
+1957,ADABOY,ADA BOY,"$209,297"
+1958,ACM,Actinium,"$209,270"
+1959,BANCA,Banca,"$208,674"
+1960,DOP,Drops Ownership Power,"$206,881"
+1961,CNB,Coinsbit Token,"$206,765"
+1962,FDZ,Friendz,"$206,669"
+1963,NIX,NIX,"$206,304"
+1964,OGO,Origo,"$206,181"
+1965,ADC,AudioCoin,"$205,962"
+1966,BOMB,BOMB,"$204,326"
+1967,YUSRA,YUSRA,"$203,834"
+1968,CREDIT,CREDIT,"$203,795"
+1969,ACCEL,ACCEL,"$201,459"
+1970,ALN,Aluna.Social,"$201,434"
+1971,PAD,NearPad,"$200,882"
+1972,KEYFI,KeyFi,"$200,844"
+1973,MAX,Maxcoin,"$200,014"
+1974,BUZZ,BUZZCoin,"$199,800"
+1975,BCUG,Blockchain Cuties Universe Governance,"$198,988"
+1976,SHIP,ShipChain,"$198,973"
+1977,COGI,9D NFT,"$198,396"
+1978,BSTY,GlobalBoost-Y,"$198,256"
+1979,L2,Leverj Gluon,"$197,962"
+1980,ZUM,ZUM TOKEN,"$197,898"
+1981,TOL,Tolar,"$197,876"
+1982,CDL,CoinDeal Token,"$196,746"
+1983,XLAB,XcelToken Plus,"$196,745"
+1984,ETHY,Ethereum Yield,"$196,723"
+1985,IHT,IHT Real Estate Protocol,"$196,679"
+1986,FLIXX,Flixxo,"$195,705"
+1987,BNTY,Bounty0x,"$195,705"
+1988,MBC,MicroBitcoin,"$195,208"
+1989,UBEX,Ubex,"$195,198"
+1990,LEPA,Lepasa,"$195,124"
+1991,DYNA,Dynamix,"$193,668"
+1992,SSTX,Silver Stonks,"$192,331"
+1993,PASS,Blockpass,"$190,802"
+1994,INFI,Insured Finance,"$190,652"
+1995,ZNT,Zenswap Network Token,"$190,590"
+1996,OSWAP,OpenSwap,"$188,259"
+1997,ELAND,Etherland,"$187,623"
+1998,TRST,WeTrust,"$187,036"
+1999,FTI,FansTime,"$186,634"
+2000,BRY,Berry Data,"$185,729"
+2001,POSW,PoSW Coin,"$185,227"
+2002,IXT,IXT,"$184,347"
+2003,QBT,Qbao,"$184,268"
+2004,MAKI,MakiSwap,"$184,193"
+2005,WTF,Waterfall DeFi,"$184,140"
+2006,PIRATE,PirateCash,"$183,994"
+2007,MTLX,Mettalex,"$182,514"
+2008,UGAS,UGAS,"$182,400"
+2009,ZPT,Zeepin,"$182,343"
+2010,CTL,Citadel,"$181,987"
+2011,SOUL,CryptoSoul,"$181,502"
+2012,WCK,Wrapped Basic CryptoKitties,"$180,876"
+2013,NNI,NeoNomad,"$180,487"
+2014,ROCKI,ROCKI,"$180,463"
+2015,PLA,Plair,"$180,356"
+2016,JAR,Jarvis+,"$179,950"
+2017,GSAIL,SolanaSail Governance Token,"$179,096"
+2018,BITS,Bitstar,"$177,626"
+2019,NTK,Neurotoken,"$176,341"
+2020,OLXA,OLXA,"$175,127"
+2021,HTN,Heart Number,"$174,732"
+2022,TN,TurtleNetwork,"$174,620"
+2023,NETKO,Netko,"$174,557"
+2024,CNTM,Connectome,"$173,378"
+2025,YEE,YEE,"$173,098"
+2026,INEX,Inex Project,"$172,941"
+2027,INN,Innova,"$172,546"
+2028,RENDOGE,renDOGE,"$172,408"
+2029,ROYA,Royale Finance,"$172,384"
+2030,TOTM,TotemFi,"$170,954"
+2031,PIPT,Power Index Pool Token,"$168,951"
+2032,VLXPAD,VelasPad,"$168,373"
+2033,DINGO,DINGO TOKEN,"$167,861"
+2034,LTHN,Lethean,"$167,122"
+2035,TCORE,Tornado,"$167,099"
+2036,ADD,Add.xyz,"$166,171"
+2037,COVA,COVA,"$166,166"
+2038,BXX,Baanx,"$165,645"
+2039,PGN,Pigeoncoin,"$165,490"
+2040,IND,Indorse Token,"$164,764"
+2041,CVR,CoverCompared,"$164,522"
+2042,GS,Genesis Shards,"$164,015"
+2043,DONUT,Donut,"$163,540"
+2044,CLS,Coldstack,"$162,893"
+2045,NDX,Indexed Finance,"$161,697"
+2046,RIO,Realio Network,"$161,323"
+2047,2KEY,2key.network,"$160,544"
+2048,CERES,Ceres,"$160,392"
+2049,ENG,Enigma,"$159,315"
+2050,NAME,PolkaDomain,"$158,271"
+2051,NOV,Novara Calcio Fan Token,"$158,051"
+2052,STX,Stox,"$157,977"
+2053,SNOB,Snowball,"$157,354"
+2054,MILK2,Spaceswap MILK2,"$157,241"
+2055,1EARTH,EarthFund,"$156,951"
+2056,WQT,WorkQuest Token,"$155,051"
+2057,CTT,CryptoTycoon,"$154,918"
+2058,DVD,DAOventures,"$154,752"
+2059,MES,MesChain,"$153,816"
+2060,PWR,PWR Coin,"$153,479"
+2061,SUB,Subme,"$153,468"
+2062,L3P,Lepricon,"$151,854"
+2063,KFX,KnoxFS,"$151,350"
+2064,MOTA,MotaCoin,"$150,875"
+2065,NRP,Neural Protocol,"$150,835"
+2066,BITG,Bitcoin Green,"$150,593"
+2067,PYRO,PYRO Network,"$149,579"
+2068,MPAY,MenaPay,"$149,301"
+2069,XCN,Cryptonite,"$148,792"
+2070,DOPE,DopeCoin,"$147,231"
+2071,TAP,Tapx,"$147,127"
+2072,VIT,Team Vitality Fan Token,"$147,125"
+2073,YSEC,Yearn Secure,"$146,988"
+2074,TTN,Titan Coin,"$146,806"
+2075,MODX,MODEL-X-coin,"$146,785"
+2076,PVT,Pivot Token,"$146,435"
+2077,GOLD,Golden Goose,"$146,087"
+2078,ETHA,ETHA Lend,"$145,905"
+2079,JADE,Jade Currency,"$145,337"
+2080,MICRO,Micromines,"$144,355"
+2081,SHARE,Seigniorage Shares,"$144,205"
+2082,STEP,Step Finance,"$143,941"
+2083,YIELD,Yield Protocol,"$143,040"
+2084,SHAKE,Spaceswap SHAKE,"$143,018"
+2085,DOS,DOS Network,"$142,867"
+2086,DEB,Debitum,"$142,136"
+2087,ZNZ,ZENZO,"$141,479"
+2088,BCV,BitCapitalVendor,"$141,286"
+2089,PHT,Lightstreams,"$138,697"
+2090,DOM,Ancient Kingdom,"$138,632"
+2091,MNTP,GoldMint,"$138,506"
+2092,FNB,FNB Protocol,"$136,926"
+2093,STBU,Stobox Token,"$136,872"
+2094,NFXC,NFX Coin,"$135,254"
+2095,LMY,LunchMoney,"$134,487"
+2096,XWP,Swap,"$133,648"
+2097,SWING,Swing,"$133,135"
+2098,XBP,BlitzPick,"$132,996"
+2099,EBA,Elpis Battle,"$132,922"
+2100,TIK,ChronoBase,"$132,184"
+2101,DOKI,Doki Doki Finance,"$132,155"
+2102,RINGX,RING X PLATFORM,"$131,546"
+2103,BYN,Beyondfi,"$131,497"
+2104,MYRA,Mytheria,"$131,166"
+2105,DRC,Dracula Token,"$130,963"
+2106,HAVY,Havy,"$130,222"
+2107,OKS,Oikos,"$128,995"
+2108,KDG,Kingdom Game 4.0,"$128,962"
+2109,GEM,Gems,"$128,892"
+2110,KURT,Kurrent,"$128,871"
+2111,MOMA,Mochi Market,"$128,796"
+2112,CNS,Centric Swap,"$128,738"
+2113,NIFT,Niftify,"$128,388"
+2114,DONU,Donu,"$127,791"
+2115,ARGON,Argon,"$126,847"
+2116,TROLL,Trollcoin,"$124,495"
+2117,GRFT,Graft,"$124,216"
+2118,ZSC,Zeusshield,"$123,756"
+2119,QUAI,QUAI DAO,"$123,405"
+2120,NUX,Peanut,"$122,723"
+2121,NBC,Niobium Coin,"$122,508"
+2122,BLU,BlueCoin,"$120,688"
+2123,TSX,TradeStars,"$120,670"
+2124,IFT,InvestFeed,"$120,575"
+2125,BC,Bitcoin Confidential,"$120,331"
+2126,HSC,HashCoin,"$119,837"
+2127,LAND,Landbox,"$119,432"
+2128,EOST,EOS TRUST,"$119,404"
+2129,SCL,Sociall,"$119,343"
+2130,KOBO,Kobocoin,"$119,307"
+2131,BTR,Bitether,"$119,149"
+2132,BALPHA,bAlpha,"$118,857"
+2133,MX,MarsX,"$118,615"
+2134,NOR,Noir,"$117,278"
+2135,PLURA,PluraCoin,"$116,292"
+2136,COLL,Collateral Pay,"$115,582"
+2137,AZUKI,Azuki,"$115,555"
+2138,LDFI,Lendefi,"$115,435"
+2139,XNV,Nerva,"$114,363"
+2140,IPL,VouchForMe,"$113,500"
+2141,CTRT,Cryptrust,"$112,638"
+2142,TSL,Energo,"$112,474"
+2143,TAG,TagCoin,"$112,147"
+2144,AMN,Amon,"$111,275"
+2145,NSURE,Nsure.Network,"$111,017"
+2146,2GIVE,2GIVE,"$110,978"
+2147,ETGP,Ethereum Gold Project,"$110,426"
+2148,ZER,Zero,"$109,833"
+2149,EGEM,EtherGem,"$109,445"
+2150,ZEBI,Zebi Token,"$108,325"
+2151,RAGE,Rage Fan,"$108,218"
+2152,RPZX,Rapidz,"$108,196"
+2153,SIG,xSigma,"$107,674"
+2154,GENESIS,Genesis Worlds,"$107,639"
+2155,CORGIB,The Corgi of PolkaBridge,"$107,605"
+2156,GEAR,Bitgear,"$107,261"
+2157,SNN,SeChain,"$107,154"
+2158,AUC,Auctus,"$106,984"
+2159,FREED,Freedomcoin,"$106,666"
+2160,FIC,Filecash,"$106,041"
+2161,WFX,Webflix Token,"$105,635"
+2162,MSR,Masari,"$105,382"
+2163,RBIES,Rubies,"$104,990"
+2164,HEAT,HEAT,"$104,118"
+2165,MTX,Matryx,"$102,196"
+2166,TNC,Trinity Network Credit,"$101,839"
+2167,ORAO,ORAO Network,"$101,077"
+2168,RISE,Rise,"$101,035"
+2169,VISR,Visor.Finance,"$100,908"
+2170,ARQ,Arqma,"$100,576"
+2171,ARCO,AquariusCoin,"$100,463"
+2172,PTD,Peseta Digital,"$100,264"
+2173,HTD,HeroesTD,"$99,399"
+2174,VEKTOR,VEKTOR,"$99,101"
+2175,UPX,uPlexa,"$98,633"
+2176,IOEN,Internet of Energy Network,"$98,379"
+2177,ROUSH,Roush Fenway Racing Fan Token,"$97,724"
+2178,HEROEGG,HeroFi,"$96,750"
+2179,ESH,Switch,"$96,672"
+2180,FONT,Font,"$96,623"
+2181,YF-DAI,YFDAI.FINANCE,"$96,302"
+2182,XAS,Asch,"$95,418"
+2183,CBM,CryptoBonusMiles,"$94,486"
+2184,FS,FantomStarter,"$94,177"
+2185,LEV,Levante U.D. Fan Token,"$93,449"
+2186,KUV,Kuverit,"$92,911"
+2187,SSP,Smartshare,"$92,807"
+2188,VOX,Vox.Finance,"$92,798"
+2189,AMA,AMATEN,"$92,466"
+2190,NFY,Non-Fungible Yearn,"$91,777"
+2191,UFARM,UniFarm,"$91,773"
+2192,DFSG,DFSocial Gaming,"$91,753"
+2193,VDR,Vodra,"$91,478"
+2194,PGO,PengolinCoin,"$91,437"
+2195,DGC,Digitalcoin,"$91,293"
+2196,VAULT,VAULT,"$91,239"
+2197,FOR,Fortuna Sittard Fan Token,"$91,219"
+2198,FXT,FuzeX,"$90,760"
+2199,GPYX,GoldenPyrex,"$90,303"
+2200,XDOGE,ClassicDoge,"$89,103"
+2201,NTRN,Neutron,"$88,731"
+2202,MIB,MIB Coin,"$88,666"
+2203,EVY,EveryCoin,"$88,605"
+2204,SAMU,Samusky,"$88,397"
+2205,EKT,EDUCare,"$87,899"
+2206,KIMCHI,KIMCHI.finance,"$87,548"
+2207,PNT,Penta,"$87,381"
+2208,RGP,Rigel Protocol,"$87,006"
+2209,KNDC,KanadeCoin,"$86,884"
+2210,COB,Cobinhood,"$86,313"
+2211,TOTO,Tourist Token,"$86,285"
+2212,CJ,Cryptojacks,"$85,383"
+2213,SENC,Sentinel Chain,"$84,255"
+2214,MNC,Maincoin,"$84,143"
+2215,CREO,Creo Engine,"$83,384"
+2216,AUX,Auxilium,"$83,379"
+2217,N8V,NativeCoin,"$83,362"
+2218,VIPS,Vipstar Coin,"$82,105"
+2219,PKT,Playkey,"$82,076"
+2220,GUM,Gourmet Galaxy,"$81,931"
+2221,DLT,Agrello,"$81,318"
+2222,GBX,GoByte,"$80,431"
+2223,BDP,BidiPass,"$80,384"
+2224,BUNI,Bunicorn,"$79,782"
+2225,DMST,DMScript,"$79,760"
+2226,CSPN,Crypto Sports Network,"$79,396"
+2227,SHDW,Shadow Token,"$79,383"
+2228,MAS,MidasProtocol,"$79,376"
+2229,POE,Po.et,"$79,171"
+2230,LUX,LUXCoin,"$79,093"
+2231,FOC,TheForce Trade,"$79,072"
+2232,SHND,StrongHands,"$78,284"
+2233,DDK,DDKoin,"$77,568"
+2234,PKG,PKG Token,"$77,521"
+2235,MOJO,MojoCoin,"$77,347"
+2236,SKYRIM,Skyrim Finance,"$77,196"
+2237,ARGO,ArGo,"$77,038"
+2238,ENT,Eternity,"$76,024"
+2239,YVS,YVS.Finance,"$75,580"
+2240,XSH,SHIELD,"$75,410"
+2241,AXIS,Axis DeFi,"$75,402"
+2242,SHIELD,Shield Protocol,"$74,455"
+2243,USDX,USDX [Lighthouse],"$74,368"
+2244,PRARE,POLKARARE,"$74,140"
+2245,GRIMM,Grimm,"$73,546"
+2246,aWSB,aWSB,"$72,990"
+2247,ION,ION,"$72,948"
+2248,PIPL,PiplCoin,"$72,468"
+2249,NAAL,Ethernaal,"$72,458"
+2250,YOC,Yocoin,"$72,085"
+2251,AID,AidCoin,"$72,016"
+2252,RITO,Ritocoin,"$71,698"
+2253,BERRY,Rentberry,"$71,624"
+2254,LITHO,Lithosphere,"$71,203"
+2255,CRACE,Coinracer,"$70,650"
+2256,RBT,Robust Token,"$70,498"
+2257,XGT,Xion Finance,"$70,220"
+2258,PHT,Phoneum,"$70,123"
+2259,INX,Insight Protocol,"$69,655"
+2260,TANGO,keyTango,"$68,831"
+2261,NBX,Netbox Coin,"$68,825"
+2262,SAO,Sator,"$68,148"
+2263,IG,IGToken,"$68,113"
+2264,MMO,MMOCoin,"$67,998"
+2265,BREW,CafeSwap Token,"$67,012"
+2266,DYT,DoYourTip,"$66,597"
+2267,CUR,Curio,"$66,549"
+2268,PLAT,BitGuild PLAT,"$66,495"
+2269,AXE,Axe,"$66,291"
+2270,WARP,Warp Finance,"$66,275"
+2271,CATT,Catex Token,"$66,207"
+2272,SMTY,Smoothy,"$65,874"
+2273,SCONEX,Sportcash One,"$64,808"
+2274,PEOS,pEOS,"$64,381"
+2275,DATP,Decentralized Asset Trading Platform,"$64,026"
+2276,CLX,Celeum,"$63,512"
+2277,EGG,Goose Finance,"$63,244"
+2278,SACT,srnArt Gallery,"$63,211"
+2279,FLOT,Fire Lotto,"$63,068"
+2280,ELAMA,Elamachain,"$62,663"
+2281,ATB,ATBCoin,"$61,799"
+2282,BID,DeFi Bids,"$61,449"
+2283,AMM,MicroMoney,"$61,379"
+2284,yTSLA,yTSLA Finance,"$61,048"
+2285,INSN,InsaneCoin,"$60,124"
+2286,ART,Maecenas,"$60,005"
+2287,BECN,Beacon,"$59,510"
+2288,TYPH,Typhoon Network,"$59,348"
+2289,VIKKY,VikkyToken,"$59,189"
+2290,LHT,LHT,"$58,529"
+2291,JET,Jetcoin,"$58,015"
+2292,SHOE,ShoeFy,"$57,743"
+2293,TZC,TrezarCoin,"$57,500"
+2294,ROAD,ROAD,"$56,943"
+2295,DOGES,Dogeswap,"$56,721"
+2296,LIT,Lition,"$56,443"
+2297,YTN,YENTEN,"$56,386"
+2298,ROCK2,ICE ROCK MINING,"$55,945"
+2299,TAN,Taklimakan Network,"$55,616"
+2300,DCNTR,Decentrahub Coin,"$55,047"
+2301,2LC,2local,"$54,480"
+2302,FTXT,FUTURAX,"$54,096"
+2303,BTZC,BeatzCoin,"$53,984"
+2304,LFG,Gamerse,"$53,927"
+2305,PHX,Phoenix Token,"$53,517"
+2306,SNRG,Synergy,"$53,485"
+2307,ZCR,ZCore,"$53,315"
+2308,CORX,CorionX,"$52,992"
+2309,EVIL,Evil Coin,"$52,973"
+2310,ITL,Italian Lira,"$52,502"
+2311,SVX,Savix,"$52,032"
+2312,UBN,Ubricoin,"$51,971"
+2313,IQ,IQ.cash,"$51,726"
+2314,CHI,Chi Gastoken,"$51,578"
+2315,CHEESE,Cheesecoin,"$51,520"
+2316,SFUEL,SparkPoint Fuel,"$51,105"
+2317,MEC,Megacoin,"$50,559"
+2318,SKIN,SkinCoin,"$50,415"
+2319,ZET,Zetacoin,"$50,164"
+2320,SPD,Stipend,"$50,140"
+2321,ADI,Aditus,"$49,165"
+2322,EXCL,ExclusiveCoin,"$49,156"
+2323,DVC,DragonVein,"$48,407"
+2324,MCC,MultiCoinCasino,"$48,371"
+2325,TCS,Timechain Swap Token,"$47,913"
+2326,BBK,Bitblocks,"$47,580"
+2327,NASH,NeoWorld Cash,"$47,424"
+2328,AFEN,AFEN Blockchain,"$46,386"
+2329,BUNNY,Pancake Bunny,"$46,291"
+2330,AIX,Aigang,"$46,075"
+2331,ICR,InterCrone,"$45,552"
+2332,CBIX,Cubiex,"$45,099"
+2333,BOLI,Bolivarcoin,"$45,022"
+2334,PYM,Playermon,"$44,760"
+2335,BTW,BitWhite,"$44,419"
+2336,SHMN,StrongHands Masternode,"$44,182"
+2337,GFX,GamyFi Platform,"$44,100"
+2338,WCC,WinCash,"$44,095"
+2339,ROAD,Yellow Road,"$43,928"
+2340,ZUKI,Zuki Moba,"$43,361"
+2341,DTRC,Datarius Credit,"$42,589"
+2342,ISA,Islander,"$42,477"
+2343,BBS,BBSCoin,"$42,302"
+2344,MOWA,Moniwar,"$42,183"
+2345,PAYB,Paybswap,"$41,815"
+2346,RBT,Rimbit,"$41,494"
+2347,OPAL,Opal,"$41,378"
+2348,NVC,Novacoin,"$41,204"
+2349,ASAFE,AllSafe,"$40,333"
+2350,DAY,Chronologic,"$39,892"
+2351,RASKO,rASKO,"$39,726"
+2352,1UP,Uptrennd,"$39,541"
+2353,ERO,Eroscoin,"$39,218"
+2354,KOI,Koi Network,"$39,064"
+2355,STEEP,SteepCoin,"$38,118"
+2356,EKO,EchoLink,"$38,114"
+2357,PRIX,Privatix,"$38,053"
+2358,UP,UpToken,"$37,782"
+2359,LUN,Lunyr,"$37,158"
+2360,LMT,Lympo Market Token,"$37,148"
+2361,BOUTS,BoutsPro,"$36,551"
+2362,KWT,Kawaii Islands,"$36,265"
+2363,DBET,DecentBet,"$35,820"
+2364,MEL,MELX,"$35,671"
+2365,KWS,Knight War - The Holy Trio,"$34,996"
+2366,FBN,Fivebalance,"$34,699"
+2367,WSPP,Wolf Safe Poor People (Polygon),"$34,592"
+2368,ENTS,EUNOMIA,"$34,485"
+2369,UNIFY,Unify,"$34,371"
+2370,ELY,Elysian,"$34,227"
+2371,1MIL,1MillionNFTs,"$34,167"
+2372,SCHO,Scholarship Coin,"$34,126"
+2373,DEM,Deutsche eMark,"$33,803"
+2374,RNBW,HaloDAO,"$33,658"
+2375,APC,Alpha Coin,"$33,507"
+2376,INFS,Infinity Esaham,"$33,345"
+2377,VIVID,Vivid Coin,"$33,139"
+2378,HERON,Heron Asia,"$33,023"
+2379,QRT,Qrkita Token,"$32,997"
+2380,NUTS,Squirrel Finance,"$32,886"
+2381,TDP,TrueDeck,"$32,684"
+2382,PRX,ProxyNode,"$32,496"
+2383,ISLE,Island Coin,"$32,170"
+2384,GRO,Growth DeFi,"$31,980"
+2385,TNS,Transcodium,"$31,826"
+2386,XPA,XPA,"$31,781"
+2387,ALP,CoinAlpha,"$31,661"
+2388,ARAW,ARAW,"$31,659"
+2389,NSD,Nasdacoin,"$31,603"
+2390,LYRA,Scrypta,"$31,155"
+2391,EXE,8X8 PROTOCOL,"$31,003"
+2392,SPK,SparksPay,"$30,936"
+2393,SXUT,Spectre.ai Utility Token,"$30,908"
+2394,MORE,More Coin,"$30,241"
+2395,ANC,Anoncoin,"$30,136"
+2396,BMH,BlockMesh,"$30,126"
+2397,GCN,GCN Coin,"$29,777"
+2398,EVC,EventChain,"$29,721"
+2399,CHART,ChartEx,"$29,136"
+2400,NEVA,NevaCoin,"$29,087"
+2401,XPTX,PlatinumBAR,"$29,033"
+2402,BNF,BonFi,"$28,942"
+2403,ACA,ACA Token,"$28,942"
+2404,WRC,Worldcore,"$28,601"
+2405,ELTCOIN,ELTCOIN,"$28,585"
+2406,BURN,Blockburn,"$28,303"
+2407,AKA,Akroma,"$28,192"
+2408,GLT,GlobalToken,"$27,881"
+2409,BEM,BEMIL Coin,"$27,588"
+2410,COSM,Cosmo Coin,"$27,511"
+2411,UUNICLY,Unicly Genesis Collection,"$27,376"
+2412,BLOC,BLOC.MONEY,"$27,355"
+2413,BIT,BitRewards,"$27,268"
+2414,ECO,Ormeus Ecosystem,"$27,140"
+2415,MBN,Membrana,"$26,945"
+2416,CTT,Castweet,"$26,824"
+2417,VAL,SORA Validator Token,"$26,709"
+2418,HERO,Step Hero,"$26,629"
+2419,AREPA,Arepacoin,"$26,325"
+2420,VIDZ,PureVidz,"$26,310"
+2421,GB,GoldBlocks,"$26,148"
+2422,ALPHR,Alphr finance,"$25,953"
+2423,CCN,CustomContractNetwork,"$25,740"
+2424,XRA,Ratecoin,"$25,715"
+2425,MEDIC,MedicCoin,"$25,062"
+2426,ARO,Arionum,"$24,853"
+2427,MYB,MyBit,"$24,664"
+2428,XDNA,extraDNA,"$24,017"
+2429,KFT,Knit Finance,"$23,617"
+2430,ZPR,ZPER,"$23,579"
+2431,EUC,Eurocoin,"$23,468"
+2432,UNIT,Universal Currency,"$23,446"
+2433,IMG,ImageCoin,"$23,399"
+2434,KOMBAT,Crypto Kombat,"$23,384"
+2435,DGTX,Digitex,"$23,330"
+2436,BITC,BitCash,"$23,211"
+2437,BXC,Bitcoin Classic,"$23,191"
+2438,NTR,Netrum,"$23,008"
+2439,IC,Ignition,"$22,659"
+2440,ONX,Onix,"$22,486"
+2441,ICOB,ICOBID,"$22,481"
+2442,GCR,Global Currency Reserve,"$22,476"
+2443,TCAT,The Currency Analytics,"$22,309"
+2444,YAXIS,yAxis,"$22,230"
+2445,ARCT,ArbitrageCT,"$21,979"
+2446,GCC,GuccioneCoin,"$21,301"
+2447,MAY,Theresa May Coin,"$21,005"
+2448,DDL,DeFi Degen Land,"$21,002"
+2449,ADZ,Adzcoin,"$20,928"
+2450,BELA,Bela,"$20,880"
+2451,ZUM,ZumCoin,"$20,766"
+2452,BDS,Big Digital Shares,"$20,622"
+2453,PUPPY,Shar Pei,"$20,596"
+2454,TVNT,TravelNote,"$20,350"
+2455,XPY,PayCoin,"$20,153"
+2456,OPT,Opus,"$20,004"
+2457,POST,PostCoin,"$19,995"
+2458,XBTC21,Bitcoin 21,"$19,987"
+2459,FNX,FinNexus,"$19,736"
+2460,VOTE,Agora,"$19,534"
+2461,DSR,Desire,"$19,410"
+2462,LUS,Luna Rush,"$19,183"
+2463,WON,WeBlock,"$19,150"
+2464,START,Startcoin,"$18,934"
+2465,SFCP,SF Capital,"$18,731"
+2466,BEET,Beetlecoin,"$18,420"
+2467,BSD,BitSend,"$18,299"
+2468,FUZZ,FuzzBalls,"$18,258"
+2469,SMG,Smaugs NFT,"$18,239"
+2470,KSEED,Kush Finance,"$18,098"
+2471,ORMEUS,Ormeus Coin,"$18,066"
+2472,BBKFI,BitBlocks Finance,"$17,926"
+2473,KNT,Knekted,"$17,827"
+2474,PEX,PosEx,"$17,002"
+2475,TIX,Blocktix,"$16,801"
+2476,FMTA,Fundamenta,"$16,665"
+2477,ETHPLO,ETHplode,"$16,531"
+2478,ZNY,Bitzeny,"$16,495"
+2479,C2,Coin2.1,"$16,432"
+2480,CALL,Global Crypto Alliance,"$16,403"
+2481,CNT,Centurion,"$16,310"
+2482,FRST,FirstCoin,"$16,218"
+2483,SINS,SafeInsure,"$16,152"
+2484,XGS,GenesisX,"$15,920"
+2485,HOR,Horde,"$15,899"
+2486,TBX,Tokenbox,"$15,894"
+2487,REW,Rewardiqa,"$15,881"
+2488,ESCE,Escroco Emerald,"$15,881"
+2489,RVT,Rivetz,"$15,786"
+2490,DCTO,Decentralized Crypto Token,"$15,771"
+2491,XUEZ,Xuez,"$15,703"
+2492,FGC,FantasyGold,"$15,545"
+2493,KIND,Kind Ads Token,"$15,431"
+2494,NAVY,BoatPilot Token,"$15,380"
+2495,OMC,Ormeus Cash,"$15,231"
+2496,BERN,BERNcash,"$14,960"
+2497,ALLOY,HyperAlloy,"$14,949"
+2498,BLTG,Block-Logic,"$14,908"
+2499,EVN,EvenCoin,"$14,887"
+2500,DEP,Depth Token,"$14,770"
+2501,ZEUS,ZeusNetwork,"$14,701"
+2502,CMM,Commercium,"$14,503"
+2503,KKO,Kineko,"$14,211"
+2504,MST,MustangCoin,"$14,164"
+2505,GAJ,Gaj Finance,"$13,851"
+2506,ZFL,Zuflo Coin,"$13,639"
+2507,BPC,BackPacker Coin,"$13,475"
+2508,NPLC,Plus-Coin,"$13,434"
+2509,GMC,GokuMarket Credit,"$13,391"
+2510,BSL,BSClaunch,"$13,159"
+2511,ELET,Elementeum,"$12,931"
+2512,KALA,Kalata,"$12,852"
+2513,BSC,BowsCoin,"$12,821"
+2514,DJV,DEJAVE,"$12,643"
+2515,ABX,Arbidex,"$12,203"
+2516,YLC,YoloCash,"$12,180"
+2517,KWIK,Kwikswap Protocol,"$12,130"
+2518,TAJ,TajCoin,"$11,982"
+2519,TWIN,Twinci,"$11,894"
+2520,INNBC,Innovative Bioresearch Coin,"$11,515"
+2521,SHVR,Shivers,"$11,436"
+2522,PNX,Phantomx,"$11,203"
+2523,STAC,StarterCoin,"$11,120"
+2524,CIV,Civitas,"$10,982"
+2525,XBI,Bitcoin Incognito,"$10,947"
+2526,XDNA,XDNA,"$10,746"
+2527,BISON,BiShares,"$10,605"
+2528,AMS,AmsterdamCoin,"$10,543"
+2529,RUP,Rupee,"$10,201"
+2530,DFT,DraftCoin,"$10,043"
+2531,CSTL,Castle,"$9,862"
+2532,SCS,SpeedCash,"$9,777"
+2533,VLS,Veles,"$9,753"
+2534,DRM,Dreamcoin,"$9,440"
+2535,SCRIV,SCRIV NETWORK,"$9,354"
+2536,BELLY,Crypto Piece,"$9,287"
+2537,EDRC,EDRCoin,"$9,234"
+2538,PKB,ParkByte,"$9,004"
+2539,FUZE,FUZE Token,"$8,971"
+2540,EVT,EveriToken,"$8,621"
+2541,MARTK,Martkist,"$8,544"
+2542,STREAM,Streamit Coin,"$8,524"
+2543,AIM,ModiHost,"$8,507"
+2544,BMXX,Multiplier,"$8,507"
+2545,XGM,Defis,"$8,478"
+2546,EXO,Exosis,"$8,457"
+2547,ACOIN,Acoin,"$8,456"
+2548,QUAN,Quantis Network,"$8,354"
+2549,TM2,TRAXIA,"$8,344"
+2550,DTC,Datacoin,"$8,340"
+2551,CCO,Ccore,"$7,910"
+2552,GENE,Gene Source Code Chain,"$7,880"
+2553,XCO,X-Coin,"$7,803"
+2554,DLC,Dollarcoin,"$7,650"
+2555,CREVA,CrevaCoin,"$7,642"
+2556,HERB,Herbalist Token,"$7,543"
+2557,KUN,KUN,"$7,501"
+2558,LCMS,LCMS,"$7,462"
+2559,CNNC,Cannation,"$7,282"
+2560,CF,Californium,"$7,194"
+2561,BON,Bonpay,"$7,113"
+2562,NZL,Zealium,"$7,113"
+2563,SONG,SongCoin,"$6,839"
+2564,GOSS,Gossip Coin,"$6,821"
+2565,MDTK,MDtoken,"$6,817"
+2566,XOV,XOVBank,"$6,754"
+2567,RBT,Rabbit token,"$6,672"
+2568,VTX,Vortex Defi,"$6,574"
+2569,ZYD,Zayedcoin,"$6,556"
+2570,CYMT,CyberMusic,"$6,510"
+2571,GSR,GeyserCoin,"$6,473"
+2572,IBTC,iBTC,"$6,440"
+2573,LTCR,Litecred,"$6,348"
+2574,HLIX,Helix,"$6,336"
+2575,PYN,PAYCENT,"$6,264"
+2576,KEMA,Kemacoin,"$6,139"
+2577,VLT,Veltor,"$6,059"
+2578,HB,HeartBout,"$6,042"
+2579,DAM,Datamine,"$5,980"
+2580,PYRK,Pyrk,"$5,954"
+2581,SFG,S.Finance,"$5,835"
+2582,HOMI,HOMIHELP,"$5,822"
+2583,WXC,WXCOINS,"$5,815"
+2584,CRM,Cream,"$5,684"
+2585,IMS,Independent Money System,"$5,638"
+2586,JS,JavaScript Token,"$5,539"
+2587,GPKR,Gold Poker,"$5,524"
+2588,3DC,3DCoin,"$5,496"
+2589,BTAD,Bitcoin Adult,"$5,416"
+2590,ELD,Electrum Dark,"$5,387"
+2591,MXT,MarteXcoin,"$5,343"
+2592,EGG,NestEGG Coin,"$5,335"
+2593,SHB,SkyHub Coin,"$5,270"
+2594,HELP,GoHelpFund,"$5,102"
+2595,PAYX,Paypex,"$4,764"
+2596,COAL,BitCoal,"$4,725"
+2597,ALLBI,ALL BEST ICO,"$4,705"
+2598,SPR,SpreadCoin,"$4,687"
+2599,MAC,Matrexcoin,"$4,657"
+2600,SWIFT,SwiftCash,"$4,654"
+2601,PXI,Prime-XI,"$4,606"
+2602,RIGEL,Rigel Finance,"$4,535"
+2603,UNI,UNICORN Token,"$4,490"
+2604,CAB,Cabbage,"$4,410"
+2605,SEFA,Mesefa,"$4,307"
+2606,NOTE,DNotes,"$4,289"
+2607,QBC,Quebecoin,"$4,223"
+2608,GDR,Guider,"$4,192"
+2609,SCAP,SafeCapital,"$4,169"
+2610,MERI,Merebel,"$4,163"
+2611,KLKS,Kalkulus,"$4,108"
+2612,DYNMT,Dynamite,"$4,100"
+2613,KTS,Klimatas,"$3,985"
+2614,VEC2,VectorAI,"$3,864"
+2615,ZINC,ZINC,"$3,828"
+2616,CRDT,CRDT,"$3,625"
+2617,PLNC,PLNcoin,"$3,589"
+2618,ARION,Arion,"$3,580"
+2619,SWC,Scanetchain,"$3,526"
+2620,TCH,Thore Cash,"$3,497"
+2621,VOLT,Bitvolt,"$3,484"
+2622,HVCO,High Voltage,"$3,345"
+2623,CARE,Carebit,"$3,315"
+2624,PAXEX,PAXEX,"$3,296"
+2625,XAP,Apollon,"$3,120"
+2626,JOINT,Joint Ventures,"$3,043"
+2627,CMT,Comet,"$2,933"
+2628,CBIX-P,Cubiex Power,"$2,899"
+2629,BTCT,Bitcoin Token,"$2,896"
+2630,IBANK,iBank,"$2,852"
+2631,GTM,Gentarium,"$2,824"
+2632,LTK,LitecoinToken,"$2,814"
+2633,ROFI,HeroFi (ROFI),"$2,565"
+2634,ENTRC,EnterCoin,"$2,393"
+2635,LCP,Litecoin Plus,"$2,312"
+2636,ARB,ARbit,"$2,274"
+2637,SOCC,SocialCoin,"$2,105"
+2638,MATE,Mate,"$1,832"
+2639,CXT,Coinonat,"$1,811"
+2640,FLL,Feellike,"$1,786"
+2641,ECU,ECOSC,"$1,723"
+2642,DASHG,Dash Green,"$1,691"
+2643,WBB,Wild Beast Block,"$1,681"
+2644,GXX,GravityCoin,"$1,581"
+2645,BLIZZ,Blizzard Network,"$1,535"
+2646,LTCU,LiteCoin Ultra,"$1,516"
+2647,STAK,STRAKS,"$1,503"
+2648,ICON,Iconic,"$1,494"
+2649,IUT,ITO Utility Token,"$1,464"
+2650,MCPC,Mobile Crypto Pay Coin,"$1,418"
+2651,CYL,Crystal Token,"$1,363"
+2652,KZC,KZ Cash,"$1,182"
+2653,XPT,Cryptobuyer,"$1,146"
+2654,SANDG,Save and Gain,"$1,130"
+2655,IBS,IBStoken,$939
+2656,BCZ,Bitcoin CZ,$888
+2657,HELP,Helpico,$819
+2658,CONX,Concoin,$782
+2659,ARGUS,Argus,$723
+2660,ARNX,Aeron,$680
+2661,IFX24,IFX24,$630
+2662,DIN,Dinero,$564
+2663,PONZI,PonziCoin,$543
+2664,HALV,Halving Token,$509
+2665,SONO,SONO,$455
+2666,IRA,Diligence,$441
+2667,STR,Staker,$357
+2668,STO,Storeum,$265
+2669,AAA,Abulaba,$240
+2670,BUL,Bulleon,$230
+2671,TREX,Trexcoin,$211
+2672,FAB,Fabric,$89
+2673,NBXC,Nibble,$51
+2674,NFT,NFT,$21
+2675,MEME,Degenerator Meme,$20
+2676,CPAN,CryptoPlanes,$15
+2677,YFFII,YFFII Finance,$1
+2678,INNBCL,Innovative Bioresearch Classic,$0
+2679,MFTU,Mainstream For The Underground,$0

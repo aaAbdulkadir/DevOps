@@ -1,0 +1,8 @@
+streamlit==1.12.2
+pandas==1.4.4
+plotly==5.10.0
+graphviz==0.20.1
+pydeck==0.8.0b3
+geopandas==0.11.1
+matplotlib==3.6.0
+numpy==1.23.3
