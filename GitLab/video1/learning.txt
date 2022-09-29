@@ -1,0 +1,8 @@
+CI:CD PIPELINE LEARNING
+
+DEMO PROJECT: RUN TESTS, BUILD DOCKER IMAGE, PUSH TO DOCKER REGISTRY, DEPLOY APP
+
+    get project repo
+
+        git clone https://gitlab.com/nanuchi/gitlab-cicd-crash-course.git
+
