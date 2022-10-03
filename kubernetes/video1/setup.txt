@@ -148,6 +148,8 @@ PROJECT 1: DEPLOY WEB APP WITH DB
 
         kubectl pod
 
+more commands
+
     kubectl describe pod {id}
 
     kubectl logs 
@@ -160,11 +162,25 @@ PROJECT 1: DEPLOY WEB APP WITH DB
 
     kubectl get pod -o wide
 
+delete a pod 
+
+    kubectl get pods 
+    kubectl delete pods {name}
+
+    OR
+
+    kubectl get deployment
+    kubectl delete deployment {name}
+
 with minikube ip address you can open web page
 
     ip:30000
 
     
+can check if it works by port forwarding the web app 
+
+kubectl port-forward webapp-deployment-65d4754f9d-zbzth  3000:3000
+
 
 
 

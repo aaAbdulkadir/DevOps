@@ -1,34 +1,37 @@
-buiild docker image
- 
-    docker build -t streamlit:v1 .
+turning app into docker image
 
-    docker run -it -d -p 8501:8501 --name portfolio-webapp streamlit:v1
-
-push this docker image to dockerhub
-
-    - go to dockerhub 
-    - go to repositories
-
-    in your cli
-
-        docker login
-
-    push image using repo name and image name
-
-    first tag the image: 
-
-        docker tag streamlit:v1 aaabdulkadir/portfolio-webapp 
+    buiild docker image
     
-    it will have the repo name aaabdulkadir/portfolio-webapp
+        docker build -t streamlit:v1 .
 
-    push the image
+        docker run -it -d -p 8501:8501 --name portfolio-webapp streamlit:v1
 
-        docker push aaabdulkadir/portfolio-webapp
+    push this docker image to dockerhub
 
-    pull image
+        - go to dockerhub 
+        - go to repositories
 
-        docker pull aaabdulkadir/portfolio-webapp
+        in your cli
 
+            docker login
+
+        push image using repo name and image name
+
+        first tag the image: 
+
+            docker tag streamlit:v1 aaabdulkadir/portfolio-webapp 
+        
+        it will have the repo name aaabdulkadir/portfolio-webapp
+
+        push the image
+
+            docker push aaabdulkadir/portfolio-webapp
+
+        pull image
+
+            docker pull aaabdulkadir/portfolio-webapp
+
+put webapp into kubernetes
 
     add image to kubernetes deployment yaml file
 
@@ -44,6 +47,11 @@ push this docker image to dockerhub
         - pods
         - service 
 
+        e.g. kubectl get deploy
+            kubectl delete deploy {name}
+
+            same with svc
+
     get service 
 
         kubectl get svc
@@ -56,3 +64,45 @@ push this docker image to dockerhub
 
                 ip:30000
 
+    did not work. :(
+
+    forward the port 
+
+        kubectl port-forward portfolioapp-deployment-56d955589-trr87  8501:8501
+
+    it worked, but this is using localhost.. how do I go about deploying it?
+
+    use a load balancer on cloud 
+
+
+How to deploy streamlit website using azure container registry:
+https://towardsdatascience.com/deploying-a-streamlit-web-app-with-azure-app-service-1f09a2159743
+
+    login 
+
+        az login
+
+    Next, create a Resource Group to house the Container Registry and 
+    the Web App Service that we will create in the following steps
+
+        az group create -l eastus -n mywebapp
+
+    Create a Container Registry under the mywebapp resource group.
+
+        az acr create --name mystreamlitportfoliowebapp --resource-group mywebapp --sku basic --admin-enabled true
+
+    Build the docker image and save to Azure Container Registry
+
+        create .dockerignore to only pull relevant files to azure container
+
+        az acr build --registry mystreamlitportfoliowebapp --resource-group mywebapp --image portfolio-webapp .
+
+    Create an app service plan for web app
+
+        az appservice plan create -g mywebapp -n webappserviceplan -l eastus --is-linux --sku B1
+
+    Create the Azure web app from the docker container in the Container Registry
+
+        az webapp create -g mywebapp -p webappserviceplan -n streamlitwebapp -i mystreamlitportfoliowebapp.azurecr.io/portfolio-app:latest
+
+    again, website did not run.
