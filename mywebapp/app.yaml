@@ -25,7 +25,7 @@ kind: Service
 metadata:
   name: portfoliowebapp-service
 spec:
-  type: NodePort
+  type: LoadBalancer # change from node port to load balancer
   selector:
     app: streamlit
   ports:

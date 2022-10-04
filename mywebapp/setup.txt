@@ -68,11 +68,21 @@ put webapp into kubernetes
 
     forward the port 
 
+        kubectl port-forward {deployment_name} port:port
+
         kubectl port-forward portfolioapp-deployment-56d955589-trr87  8501:8501
 
     it worked, but this is using localhost.. how do I go about deploying it?
 
-    use a load balancer on cloud 
+        - use a load balancer on cloud 
+
+        - change node port to balancer under spec in yaml file
+
+        - get url 
+
+            minikube service portfoliowebapp-service --url
+
+                - do not need to port forward with this, gives working url
 
 
 How to deploy streamlit website using azure container registry:
