@@ -1,0 +1,96 @@
+Can either install jenkins on my machine or run it as a docker image...
+
+Going to run it as a docker image
+https://hub.docker.com/_/jenkins
+
+    - docker pull jenkins:{version}
+
+run jenkins docker 
+
+    - docker run -p 8080:8080 -p 50000:50000 -v ~/jenkins/:/var/jenkins_home jenkins:2.60.3
+
+access local host 8080
+
+    need administrator password to acess jenkins web
+
+        - docker logs containerId
+
+click on install suggested plugins
+
+    ran into error 
+
+        "An error occurred during installation: No such plugin: cloudbees-folder"
+
+        may have something to do with volumes
+
+        http://localhost:8080/restart
+
+        allows you to access jenkins (has no plugins)
+
+    use the version which is updated
+
+    https://hub.docker.com/r/jenkins/jenkins/tags
+
+    docker pull jenkins/jenkins:latest <-- dont even have to pull, can just run the command below and itll do both
+
+    docker run -p 8080:8080 -p 50000:50000 --restart=on-failure -v jenkins_home:/var/jenkins_home jenkins/jenkins:lts-jdk11
+
+Create First Admin User
+
+---------------------------
+
+Creating a project and connecting to github
+
+    - create multibranch pipeline
+
+        -- branch source: project to build. select git
+
+        -- paste link of repo 
+
+        -- get credentials
+
+            go to manage credentials in jenkins
+
+                click on system global and add credential
+
+                    set a global scope
+
+                    use kind: username with password
+
+                        set username and password to global and id 
+
+                create a system credential
+
+                    name username, id and password: system
+
+                go to dashboard created and click on the newly craeted project,
+                inside it click on credentials
+
+                    this scope is limited to the project
+
+                    inside this domain, add credential
+
+                        call username, password, id: my-pipeline
+
+                    then, it was deleted... 
+
+                    deleted to create a uername and password for the git repo (not just a dummy)
+
+
+        -- back on the config page, 
+
+            add the git repo credentials
+
+            save
+
+    -- create jenkins file and push to github repo
+
+
+
+
+
+
+
+    
+
+
