@@ -33,7 +33,7 @@ click on install suggested plugins
 
     docker pull jenkins/jenkins:latest <-- dont even have to pull, can just run the command below and itll do both
 
-    docker run -p 8080:8080 -p 50000:50000 --restart=on-failure -v jenkins_home:/var/jenkins_home jenkins/jenkins:lts-jdk11
+    docker run -p 8080:8080 -p 50000:50000 --restart=on-failure -v ~/jenkins/:/var/jenkins_home jenkins/jenkins:lts-jdk11
 
 Create First Admin User
 
@@ -41,52 +41,34 @@ Create First Admin User
 
 Creating a project and connecting to github
 
-    - create multibranch pipeline
 
-        -- branch source: project to build. select git
+    create multibranch pipeline
 
-        -- paste link of repo 
+        add git clone link
 
-        -- get credentials
+            https://github.com/aaAbdulkadir/DevOps.git
 
-            go to manage credentials in jenkins
+        add credentials
 
-                click on system global and add credential
+            github username and password
 
-                    set a global scope
+        run
 
-                    use kind: username with password
+    add webhook for github to jenkins
 
-                        set username and password to global and id 
+        on jenkins:
 
-                create a system credential
+            configure system
 
-                    name username, id and password: system
+            override hook url
 
-                go to dashboard created and click on the newly craeted project,
-                inside it click on credentials
+                http://localhost:8080/github-webhook/
 
-                    this scope is limited to the project
+        on github:
 
-                    inside this domain, add credential
+            go to add webhook. the url link cannot be local host, must be public domain
 
-                        call username, password, id: my-pipeline
-
-                    then, it was deleted... 
-
-                    deleted to create a uername and password for the git repo (not just a dummy)
-
-
-        -- back on the config page, 
-
-            add the git repo credentials
-
-            save
-
-    -- create jenkins file and push to github repo
-
-
-
+            deploy on cloud.
 
 
 
