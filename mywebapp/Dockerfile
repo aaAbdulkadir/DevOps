@@ -14,4 +14,4 @@ COPY app/ .
 
 RUN pip3 install -r requirements.txt
 
-ENTRYPOINT ["streamlit", "run", "1_🏠_Home.py", "--server.port=8501", "--server.address=0.0.0.0"]
+ENTRYPOINT ["streamlit", "run", "1_🏠_Home.py"]

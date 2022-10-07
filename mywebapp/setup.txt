@@ -116,3 +116,25 @@ https://towardsdatascience.com/deploying-a-streamlit-web-app-with-azure-app-serv
         az webapp create -g mywebapp -p webappserviceplan -n streamlitwebapp -i mystreamlitportfoliowebapp.azurecr.io/portfolio-app:latest
 
     again, website did not run.
+
+
+-----------------------
+
+.streamlit folder to customise app settings
+
+needs to be in same location as main python file
+
+config.toml file needs to be inside .streamlit folder
+
+can configure porting, etc.
+
+TO RUN ON AZURE, CHANGE "The port where the server will listen for browser connections."
+TO 8081 as this can be used for azure.
+
+Another way of mapping ports is to create a docker compose file and map the ports
+8081:8051
+
+
+DEPLOYING THE APP TO AZURE...
+
+    Need a container registrty and app service plan
