@@ -72,6 +72,26 @@ Creating a project and connecting to github
 
 
 
+    rather than multibranch, you can use pipeline
+
+        just need to fill in the pipeline section, 
+
+            pipeline script from scm
+
+            git
+
+            git clone link
+
+            change branch to main as master is old
+
+            change jenkins filepath
+
+        run
+
+            set up github webhook using personal access token
+
+
+
 
     
 
