@@ -83,7 +83,6 @@ with final_result:
             div[data-testid="metric-container"] > label[data-testid="stMetricLabel"] > div {
             overflow-wrap: break-word;
             white-space: break-spaces;
-            color: White;
             }
             </style>
         """
