@@ -1,0 +1,79 @@
+﻿StockCode,Name,Description,Price,CreateTimestamp,UpdateTimestamp
+APP001,Assiette de pate,3 pates with cornichons & moutarde,12,11/08/2022 15:08,11/08/2022 15:08
+APP002,Assiette de fromages,Monthy selection of 3 cheeses,11,11/08/2022 15:08,11/08/2022 15:08
+BK0101,Eggs Florentine,,5,11/08/2022 15:08,11/08/2022 15:08
+BK0102,Eggs Benedict,,5,11/08/2022 15:08,11/08/2022 15:08
+BK0103,Eggs Royale,,5,11/08/2022 15:08,11/08/2022 15:08
+BK0110,Belgian waffle,,5,11/08/2022 15:08,11/08/2022 15:08
+BK0160,chicken 'n cheese omelette,"Sauteed chicken, broccoli & cheddar",8,11/08/2022 15:08,11/08/2022 15:08
+BK0161,Scrambled eggs,"Scrambled eggs, spinach & cheddar",8,11/08/2022 15:08,11/08/2022 15:08
+BK0162,Ham 'n Cheese Omelette,Ham & Gruyere,7,11/08/2022 15:08,11/08/2022 15:08
+CP0101,La Superbe Banane Quebec,"Banana, walnuts, butter, cream, with real Canadian Maple Syrup poured all over, and splashed with Cointreau.",5,11/08/2022 15:08,11/08/2022 15:08
+CP0102,Hazelnut Chocolate Cream,"Hazelnuts, butter, cream, with Belgian chocolate (milk, dark or white).",4,11/08/2022 15:08,11/08/2022 15:08
+CP0105,Epinards creme/creamed spinach,Sauteed in a butter cream sauce,9,11/08/2022 15:08,11/08/2022 15:08
+CP0107,La Vegetarienne,"Sauteed broccoli, tomatoes, & cheese",11,11/08/2022 15:08,11/08/2022 15:08
+CP0108,Poulet et fromage de chevre,Chicken breast with roasted tomatoes & goat cheese,12,11/08/2022 15:08,11/08/2022 15:08
+CP0110,creme caramel,Caramel sauce *amp; vanilla flan,9,11/08/2022 15:08,11/08/2022 15:08
+CP0111,Asperges et Champignons Mornay,Asparagus & mushrooms in a mornay sauce,13,11/08/2022 15:08,11/08/2022 15:08
+CP0112,Poulet au curry,Chicken in creamy Madras curry with chutney & wold rice,13,11/08/2022 15:08,11/08/2022 15:08
+CP0113,Coq au vin,"Chicken stewed with red wine, onions, tomatoes, mushrooms & carrots",13,11/08/2022 15:08,11/08/2022 15:08
+CP0117,Chocolate or Nutella,(Chocolate hazelnut),7,11/08/2022 15:08,11/08/2022 15:08
+CP0118,Bananas or Strawberries,Your choice!,7,11/08/2022 15:08,11/08/2022 15:08
+CP0119,La Pomme,Apples sauteed in butter & cinnamon,8,11/08/2022 15:08,11/08/2022 15:08
+CP0125,The Sicilian Crepe,"Tuna, black olives, cheddar cheese, spinach and our special tomato sauce!",7,11/08/2022 15:08,11/08/2022 15:08
+CP0134,Italian crepe,"Cheddar cheese topped with Mozzarella, cherry tomatoes and basil, served with a green salad.",7,11/08/2022 15:08,11/08/2022 15:08
+CP0137,Tartiflette Galette,"Bacon, cheese, potatoes, raclette cheese, cream, onion, white wine on a buckwheat crepe.",6,11/08/2022 15:08,11/08/2022 15:08
+CP0151,La Noix de Coco,Chocolate & toasted coconut,9,11/08/2022 15:08,11/08/2022 15:08
+CP0156,Suzette a la Germain,An orange Grand Marnier amd curacao reduction,9,11/08/2022 15:08,11/08/2022 15:08
+CP0157,Banana Sara,Bananas in a brown sugar caramel sauce topped with rum & vanilla ice cream,10,11/08/2022 15:08,11/08/2022 15:08
+CP0158,Caramel & Salted Butter,Carmel sauce in a salted butter,10,11/08/2022 15:08,11/08/2022 15:08
+CP0159,Chocolate & Grand Marnier,Chocolate and orange liqueur - Heaven!,10,11/08/2022 15:08,11/08/2022 15:08
+CP0160,La cacahuete,"Peanut butter, chocolate and bananas",11,11/08/2022 15:08,11/08/2022 15:08
+CP0163,The Two Cheeses crepe,Swiss and cheddar cheese,7,11/08/2022 15:08,11/08/2022 15:08
+CP0170,Crepe Japonnais,"Teriyaky Salmon & Shitake Mushrooms, with salad",7,11/08/2022 15:08,11/08/2022 15:08
+CP0256,Chicken and Vegetable crepe,"Chicken, peppers, sweetcorn, cheese, mustard dressing.",6,11/08/2022 15:08,11/08/2022 15:08
+DAB001,Black Coffee,,3,11/08/2022 15:08,11/08/2022 15:08
+DAB002,Latte,,3,11/08/2022 15:08,11/08/2022 15:08
+DAB003,Cappuccino,,3,11/08/2022 15:08,11/08/2022 15:08
+DAB004,Latte,,3,11/08/2022 15:08,11/08/2022 15:08
+DAB005,Espresso,,3,11/08/2022 15:08,11/08/2022 15:08
+DAB006,Hot Chocolate,,3,11/08/2022 15:08,11/08/2022 15:08
+DAB007,Tea,,4,11/08/2022 15:08,11/08/2022 15:08
+DAB008,Hot Cider,,4,11/08/2022 15:08,11/08/2022 15:08
+DAB009,juices / Orangina,,3,11/08/2022 15:08,11/08/2022 15:08
+DAB010,Mimosa,,7,11/08/2022 15:08,11/08/2022 15:08
+DAB011,Reveil Royal,Chartreuse with hot milk,7,11/08/2022 15:08,11/08/2022 15:08
+DAB012,Kir Normand,Normandy Cider and creme de cassis,7,11/08/2022 15:08,11/08/2022 15:08
+DAB013,Bloody Mary,"Vodka, Tomato Juice and Tabasco - what elsee",8,11/08/2022 15:08,11/08/2022 15:08
+ENT0115,Boeuf bourguignon,"Beef braised with burgundy, mushrooms, carrots, leeks & tomatoes",13,11/08/2022 15:08,11/08/2022 15:08
+ENT0116,Fruits de mer/seafood,Scallops & shrimp in a bechamel sauce with a side of rice,14,11/08/2022 15:08,11/08/2022 15:08
+ENT120,Fish of the day,"Sauteed or grilled served with a side of broccoli, rice &, cream dill reduction",14,11/08/2022 15:08,11/08/2022 15:08
+ENT121,Steak Frites,Grilled Ribeye steak served with French fries,16,11/08/2022 15:08,11/08/2022 15:08
+ICE002,Red Passion,"Amarena cherries, 2 scoops of ice cream: vanilla and chocolate, hazelnuts, meringues, hazelnuts, chocolate sauce, wafers, whipped cream",5,11/08/2022 15:08,11/08/2022 15:08
+ICE004,Pure Wellness,"Raspberry, blueberry, strawberry, scoop of natural yoghurt ice cream, scoop of fruit yoghurt ice cream, raspberry sauce, chocolate curls, wafer, whipped cream",5,11/08/2022 15:08,11/08/2022 15:08
+PZ0001,SCHIACCIATINA,"Rosemary, Olive Oil and Sea salt",5,11/08/2022 15:08,11/08/2022 15:08
+PZ0002,MARGHERITA,"Tomato base, Mozzarella, cheese & oregano",8,11/08/2022 15:08,11/08/2022 15:08
+PZ0003,NAPOLETANA,"Tomato base, Mozzarella, black olives capers & anchovies",9,11/08/2022 15:08,11/08/2022 15:08
+PZ0004,4STAGIONI,"Tomato base, Mozzarella, mushrooms, artichokes, black olives & ham",10,11/08/2022 15:08,11/08/2022 15:08
+PZ0005,CAPRICCIOSA,"Tomato base, Mozzarella, ham & mushrooms",9,11/08/2022 15:08,11/08/2022 15:08
+PZ0006,MARCO'S,"Tomato base, red onions, anchovies, capers, olives & chilli",9,11/08/2022 15:08,11/08/2022 15:08
+PZ0007,MEDITERRANEA,"Mozzarella, cherry tomatoes & basil",9,11/08/2022 15:08,11/08/2022 15:08
+PZ0008,POPAY,"Tomato base, Ricotta cheese, spinach & black pepper",9,11/08/2022 15:08,11/08/2022 15:08
+PZ0009,CALZONE,"Tomato base, Folded pizza, mozzarella, mushrooms & ham",10,11/08/2022 15:08,11/08/2022 15:08
+PZ0010,HAWAII,"Tomato base, Mozzarella, ham & pineapple",9,11/08/2022 15:08,11/08/2022 15:08
+PZ0011,SALAME,"Tomato base, Mozzarella & pepperoni",9,11/08/2022 15:08,11/08/2022 15:08
+PZ0012,COLAZIONE,"Tomato base, Cheddar cheese, bacon & eggs",9,11/08/2022 15:08,11/08/2022 15:08
+PZ0013,GIARDINO,"Tomato base, Mozzarella, mushrooms, pepper, aubergine, olives & garlic",10,11/08/2022 15:08,11/08/2022 15:08
+PZ0014,TONNO CIPPOLA,"Tomato base, Mozzarella, tuna & onion",9,11/08/2022 15:08,11/08/2022 15:08
+PZ0015,TRENTINA,"Gorgonzola, walnut & apple",9,11/08/2022 15:08,11/08/2022 15:08
+PZ0016,DIAVOLA,"Tomato base, Mozzarella, chorizo & green pepper",9,11/08/2022 15:08,11/08/2022 15:08
+PZ0017,FIORENTINA,"Tomato base, Mozzarella, spinach & egg",9,11/08/2022 15:08,11/08/2022 15:08
+PZ0018,4FORMAGGI,"Tomato base, Mozzarella, Ricotta, Gorgonzola & Parmesan shavings",10,11/08/2022 15:08,11/08/2022 15:08
+PZ0019,MOO-MOO,"Tomato base, Mozzarella, chorizo & Gorgonzola",10,11/08/2022 15:08,11/08/2022 15:08
+PZ0020,SAPORITA,"Tomato base, Mozzarella, mushrooms, ham, green pepper & red onion",10,11/08/2022 15:08,11/08/2022 15:08
+PZ0021,THE DON,"(Folded pizza) Tomato base, mushrooms, red onions, black olives & pineapple",10,11/08/2022 15:08,11/08/2022 15:08
+SAL100,Salade Parisienne,"Lettuce, frisee lettuce, ham, cheese, sweetcorn, egg, cherry tomatoes",5,11/08/2022 15:08,11/08/2022 15:08
+SAL102,Salade Nicoise,"Tuna, potatoes, green beans, onions, capers, tomatoes, egg and anchovies on a bed of romaine lettuce with the vinaigrette maison",11,11/08/2022 15:08,11/08/2022 15:08
+SAL103,Salade Maison,"Romaine lettuce, parmesan, croutons & vinaigrette maison",6,11/08/2022 15:08,11/08/2022 15:08
+SD0001,French fries,"Crisp outside, fluffy inside = the best!",4,11/08/2022 15:08,11/08/2022 15:08
+SUP121,Soup a l'oignon gratinee,Traditional French onion soup with bread & melted emmenthal,8,11/08/2022 15:08,11/08/2022 15:08
