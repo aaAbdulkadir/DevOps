@@ -132,7 +132,7 @@ TO RUN ON AZURE, CHANGE "The port where the server will listen for browser conne
 TO 8081 as this can be used for azure.
 
 Another way of mapping ports is to create a docker compose file and map the ports
-8081:8051
+8081:8051 which is the better way
 
 
 DEPLOYING THE APP TO AZURE...

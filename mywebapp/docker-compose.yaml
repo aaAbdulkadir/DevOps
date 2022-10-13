@@ -1,0 +1,11 @@
+version: '3'
+services:
+  streamlit-portfolio:
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    ports:
+        - "8081:8501" 
+        # second port is the container port which is listening at 8501
+        # host port is the first port
+
