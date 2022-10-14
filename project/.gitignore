@@ -1,0 +1,7 @@
+terraform.tfstate.backup
+terraform.tfstate
+main.tfplan
+.terraform.lock.hcl
+azure_key.pem
+.terraform
+

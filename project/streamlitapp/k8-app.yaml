@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: portfolioapp-deployment
+  name: streamlit-deployment
   labels:
     app: streamlit
 spec:
@@ -9,14 +9,14 @@ spec:
   selector:
     matchLabels:
       app: streamlit
-  template: # blueprint for pods. config of pods within deployment
+  template:
     metadata:
       labels:
         app: streamlit
     spec:
-      containers: # docker container
+      containers:
       - name: portfolio-webapp
-        image: aaabdulkadir/portfolio-webapp
+        image: streamlit_container_registry.azure.io/portfolio-app:latest
         ports:
         - containerPort: 8501
 ---
@@ -25,11 +25,11 @@ kind: Service
 metadata:
   name: portfoliowebapp-service
 spec:
-  type: LoadBalancer # change from node port to load balancer
+  type: LoadBalancer
   selector:
     app: streamlit
   ports:
     - protocol: TCP
-      port: 8501
+      port: 80
       targetPort: 8501
       nodePort: 30000
