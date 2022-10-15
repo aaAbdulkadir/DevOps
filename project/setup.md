@@ -95,4 +95,5 @@ Jenkins:
 
 ### Setting up server
 
-- Log into the VM created and download 
+- Log into the VM created and download the required software:
+

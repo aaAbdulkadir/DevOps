@@ -47,6 +47,18 @@ resource "azurerm_role_assignment" "enablePulling" {
   skip_service_principal_aad_check = true
 }
 
+# create app service plan
+resource "azurerm_app_service_plan" "service_plan" {
+  name                = "${var.prefix}-service-plan"
+  location            = azurerm_resource_group.resource_group.location
+  resource_group_name = azurerm_resource_group.resource_group.name
+
+  sku {
+    tier = "Standard"
+    size = "S1"
+  }
+}
+
 # ---------------- VM CREATION ----------------
 
 # Create virtual network
