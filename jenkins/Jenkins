@@ -4,10 +4,9 @@ pipeline {
         DOCKERHUB_CREDENTIALS = credentials("aaabdulkadir-dockerhub")
     }
     stages {
-        stage('versions') {
+        stage('setup') {
             steps {
-                sh "git version"
-                sh "docker version"
+                sh 'bash jenkins/bash/setup.sh'
             }
         }
         stage('Login') {
