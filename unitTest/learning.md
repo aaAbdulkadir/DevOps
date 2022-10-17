@@ -20,7 +20,7 @@ make install
 
 # Virtual Environment
 
-- Creating a virtual environment where I download specifics dependencies so that it is isolated from my machine. Going to download selenium web driver for chrome
+- Creating a virtual environment where I download specifics dependencies so that it is isolated from my machine.
 
 - To create a virtual environment
 
