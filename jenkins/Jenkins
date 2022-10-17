@@ -6,6 +6,7 @@ pipeline {
     stages {
         stage('versions') {
             steps {
+                sh 'echo Hello'
                 sh 'git version'
                 sh 'docker version'
             }
