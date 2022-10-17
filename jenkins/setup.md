@@ -49,6 +49,8 @@ wget --no-check-certificate -qO - http://pkg.jenkins-ci.org/debian/jenkins-ci.or
 
 Note: Issues with certification when trying to download Jenkins, so will use local instead.
 
+Note 2: Running jenkins docker image, git is installed but docker is not when going into bash of the container. Download docker onto the bash.
+
 Setup:
 
 
