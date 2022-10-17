@@ -6,7 +6,8 @@ pipeline {
     stages {
         stage('versions') {
             steps {
-                git version | docker version
+                git version
+                docker version
             }
         }
     //     stage('Login') {
