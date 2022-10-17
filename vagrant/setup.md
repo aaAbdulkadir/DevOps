@@ -33,6 +33,8 @@ Go into the VM:
 vagrant ssh
 ```
 
+If vagrant asks for password, it is 'vagrant'.
+
 Now in a vm. The files in the working directory gets saved onto this vm. To find it, 
 
 ```

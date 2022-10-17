@@ -4,10 +4,7 @@
 echo "Cloning repo..."
 git clone https://github.com/aaAbdulkadir/DevOps.git
 
-# run docker-compose 
+# build image 
 echo "Building docker image..."
-cd project/streamlitapp/ 
+cd ~/DevOps/project/streamlitapp/ 
 docker-compose build
-
-echo "Running docker image..."
-docker-compose up -d

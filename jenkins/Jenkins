@@ -12,17 +12,17 @@ pipeline {
         }
         stage('Login') {
             steps {
-                sh 'jenkins/bash/login.sh'
+                sh 'bash jenkins/bash/login.sh'
             }
         }
         stage('build') {
             steps {
-                sh 'jenkins/bash/build.sh'
+                sh 'bash jenkins/bash/build.sh'
             }
         }
         stage('Push') {
             steps {
-                sh 'jenkins/bash/push.sh'
+                sh 'bash jenkins/bash/push.sh'
             }
         }
     }
