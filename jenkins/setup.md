@@ -49,6 +49,7 @@ wget --no-check-certificate -qO - http://pkg.jenkins-ci.org/debian/jenkins-ci.or
 
 Note: Issues with certification when trying to download Jenkins, so will use local instead.
 
+Setup:
 
 
 - Create a pipeline project:
@@ -62,3 +63,10 @@ Note: Issues with certification when trying to download Jenkins, so will use loc
         - add password at the end of the line to automate it and copy the password given. Use that password in jenkins as username password setup credential.
         - ID: {username}-dockerhub
 - Put dockerhub environment variable in jenkins file.
+- Make sure to isntall the docker plugins:
+    - 
+
+
+Note: turn jenkins on and off on windows:
+- Go to path where the jenkins folder is and run:
+    - jenkins.exe stop

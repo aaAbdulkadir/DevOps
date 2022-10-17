@@ -6,7 +6,8 @@ pipeline {
     stages {
         stage('versions') {
             steps {
-                sh "which docker"
+                sh "git version"
+                sh "docker version"
             }
         }
     //     stage('Login') {
