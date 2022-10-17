@@ -12,7 +12,7 @@ pipeline {
         }
         stage('Login') {
             steps {
-                sh 'bash jenkins/bash/login.sh'
+                sh 'docker login --username $DOCKERHUB_CREDENTIALS_USR --password DOCKERHUB_CREDENTIALS_PSW'
             }
         }
         stage('build') {
