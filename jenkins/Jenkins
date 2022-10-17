@@ -1,20 +1,22 @@
 pipeline {
-    agent any
-
+    agent {label 'linux'}
+    environment{
+        DOCKERHUB_CREDENTIALS = credentials("aaabdulkadir-dockerhub")
+    }
     stages {
-        stage('Build') {
+        stage('Login') {
             steps {
-                echo 'Building..'
+                sh 'jenkins/bash/login.sh'
             }
         }
-        stage('Test') {
+        stage('build') {
             steps {
-                echo 'Testing..'
+                sh 'jenkins/bash/build.sh'
             }
         }
-        stage('Deploy') {
+        stage('Push') {
             steps {
-                echo 'Deploying....'
+                sh 'jenkins/bash/push.sh'
             }
         }
     }
