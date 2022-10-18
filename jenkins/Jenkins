@@ -6,7 +6,7 @@ pipeline {
     stages {
         stage('setup') {
             steps {
-                sh 'docker build -t app:latest .'
+                sh 'cd jenkins | docker build -t app:latest .'
             }
         }
         // stage('Login') {
