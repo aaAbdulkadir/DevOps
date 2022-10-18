@@ -6,7 +6,7 @@ pipeline {
     stages {
         stage('setup') {
             steps {
-                sh 'cd jenkins | docker build -t app:latest .'
+                sh 'bash jenkins/setup.sh'
             }
         }
         // stage('Login') {
@@ -14,11 +14,11 @@ pipeline {
         //         sh 'echo $DOCKERHUB_CREDENTIALS_USR'
         //     }
         // }
-        // stage('build') {
-        //     steps {
-        //         sh 'bash jenkins/bash/build.sh'
-        //     }
-        // }
+        stage('build') {
+            steps {
+                sh 'cd jenkins | docker build -t app:latest .'
+            }
+        }
         // stage('Push') {
         //     steps {
         //         sh 'bash jenkins/bash/push.sh'
