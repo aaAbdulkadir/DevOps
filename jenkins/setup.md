@@ -65,10 +65,10 @@ Setup:
         - add password at the end of the line to automate it and copy the password given. Use that password in jenkins as username password setup credential.
         - ID: {username}-dockerhub
 - Put dockerhub environment variable in jenkins file.
-- Make sure to isntall the docker plugins:
-    - 
 
 
 Note: turn jenkins on and off on windows:
 - Go to path where the jenkins folder is and run:
     - jenkins.exe stop
+
+In this case, I ran jenkins as a docker container and the pipeline worked.
