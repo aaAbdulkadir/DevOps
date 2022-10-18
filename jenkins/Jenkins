@@ -6,7 +6,7 @@ pipeline {
     stages {
         stage('setup') {
             steps {
-                sh 'bash jenkins/setup.sh'
+                sh 'bash jenkins/bash/setup.sh'
             }
         }
         // stage('Login') {
