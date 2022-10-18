@@ -16,7 +16,9 @@ pipeline {
         // }
         stage('build') {
             steps {
-                sh 'cd jenkins | docker build -t app:latest .'
+                sh 'cd jenkins'
+                sh 'pwd'
+                sh 'docker build -t app:latest .'
             }
         }
         // stage('Push') {
