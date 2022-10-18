@@ -1,3 +1,3 @@
 #! /bin/bash
 
-docker push
+docker push streamlit-jenkins:latest
