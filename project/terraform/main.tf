@@ -6,7 +6,7 @@ resource "azurerm_resource_group" "resource_group" {
 
 # create storage account
 resource "azurerm_storage_account" "storage_account" {
-  name                     = "${var.prefix}storage"
+  name                     = "${var.prefix}storage101"
   resource_group_name      = azurerm_resource_group.resource_group.name
   location                 = azurerm_resource_group.resource_group.location
   account_tier             = "Standard"
@@ -19,10 +19,11 @@ resource "azurerm_container_registry" "acr" {
   resource_group_name = azurerm_resource_group.resource_group.name
   location            = azurerm_resource_group.resource_group.location
   sku                 = "Premium"
+  admin_enabled       = true
 }
 
 # create kubernetes cluster
-resource "azurerm_kubernetes_cluster" "k8_cluster" {
+resource "azurerm_kubernetes_cluster" "aks" {
   name                = "${var.prefix}-aks"
   location            = azurerm_resource_group.resource_group.location
   resource_group_name = azurerm_resource_group.resource_group.name
@@ -31,17 +32,21 @@ resource "azurerm_kubernetes_cluster" "k8_cluster" {
   default_node_pool {
     name       = "default"
     node_count = 1
-    vm_size    = "Standard_D2"  
+    vm_size    = "Standard_D2_v2"
   }
 
   identity {
     type = "SystemAssigned"
   }
+
+  tags = {
+    Environment = "Production"
+  }
 }
 
 # attach ACR with AKS
 resource "azurerm_role_assignment" "enablePulling" {
-  principal_id                     = azurerm_kubernetes_cluster.k8_cluster.kubelet_identity[0].object_id
+  principal_id                     = azurerm_kubernetes_cluster.aks.kubelet_identity[0].object_id
   role_definition_name             = "AcrPull"
   scope                            = azurerm_container_registry.acr.id
   skip_service_principal_aad_check = true
@@ -142,7 +147,7 @@ resource "tls_private_key" "ssh_key" {
 
 # save ssh key locally
 resource "local_file" "azure_key" {
-  filename = "keys/azure_key.pem"
+  filename = "azure_key.pem"
   content = tls_private_key.ssh_key.private_key_pem
 }
 
@@ -152,12 +157,12 @@ resource "azurerm_linux_virtual_machine" "server" {
   location              = azurerm_resource_group.resource_group.location
   resource_group_name   = azurerm_resource_group.resource_group.name
   network_interface_ids = [azurerm_network_interface.nic.id]
-  size                  = "Standard_B4ms"
+  size                  = "Standard_D11_v2" # with my subscription I can only have 4 nodes max.
 
   os_disk {
     name                 = "myOsDisk"
     caching              = "ReadWrite"
-    storage_account_type = "Premium_LRS"
+    storage_account_type = "Standard_LRS" # vm size does not support premium
   }
 
   source_image_reference {

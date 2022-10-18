@@ -18,8 +18,9 @@ sudo apt-get update
 sudo apt-get install docker-ce -y
 
 # Docker compose
-curl -L https://github.com/docker/compose/releases/download/1.1.0/docker-compose-`uname -s`-`uname -m` > /usr/local/bin/docker-compose
+wget https://github.com/docker/compose/releases/download/v2.10.2/docker-compose-linux-x86_64 -O /usr/local/bin/docker-compose
 chmod +x /usr/local/bin/docker-compose
+echo "export PATH='usr/local/bin:${PATH}'"
 
 # Azure CLI
 echo "deb [arch=amd64] https://packages.microsoft.com/repos/azure-cli/ wheezy main" | sudo tee /etc/apt/sources.list.d/azure-cli.list

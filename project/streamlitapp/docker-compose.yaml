@@ -1,7 +1,7 @@
 version: '3'
 services:
   webapp:
-    image: streamlit_container_registry.azure.io/portfolio-app:latest
+    image: streamlitcontainerregistry.azurecr.io/portfolio-app:latest
     build:
       context: .
       dockerfile: ./Dockerfile

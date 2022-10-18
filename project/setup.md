@@ -50,6 +50,8 @@ Jenkins:
 
 ### Terraform
 
+Prerequesits: azure and terraform cli.
+
 - Create a terraform file with the following:
     - Resource group
     - Container registry
@@ -74,6 +76,10 @@ Jenkins:
     terraform apply main.tfplan
     ```
 
+    After running the commands, the following should be seen on Azure:
+
+    ![image](images/terraformplan.png)
+
 ### Setting up files
 
 #### Docker
@@ -83,11 +89,13 @@ Jenkins:
     Azure map onto the container port 8501 for streamlit.
 
 - Before running the docker-compose file, it needs to be given an image name that is tagged with the necessary azure extension:
-    - Add image under webapp service with the correct name
-    - Tag the image with the container registry name + .azure.io + /{image_name}:
-        - streamlit_container_registry.azure.io/portfolio-app:latest
+    - Add image under webapp service with the correct name.
+    - Tag the image with the container registry name + .azure.io + /{image_name} (which can be found inside the container registry access keys):
+        - streamlitcontainerregistry.azurecr.io/portfolio-app:latest
 
-- Once the docker image is created with the correct tag, it needs to be pushed to the container registry, which will be set up on the jenkins server as on the server, it will build the image and then be pushed to the container registry.
+- 
+
+- Once the docker image is created with the correct tag, it needs to be pushed to the container registry, which will be set up on the jenkins server as on the server, it will build the image and then be pushed to the container registry, as shown in the following steps.
 
 #### Kubernetes
 
@@ -97,12 +105,20 @@ Jenkins:
 
 #### Logging in
 
-```
+Go to the connect blade under the jenkins server VM group and type in the private key path and copy the ssh command to log into the VM.
 
+```
+ssh -i {path_to_key} {user}@{ip}
 ```
 
 #### Downloading dependencies
 
-```
+Firstly, git clone the repo with all the files. After cloning repo, locate the config file which contains the download for jenkins, docker, docker comopse, azure cli and kubectl. Run it as follows:
 
+```
+git clone https://github.com/aaAbdulkadir/DevOps.git
+
+cd DevOps/project/bash/
+
+bash config-jenkins.sh
 ```
