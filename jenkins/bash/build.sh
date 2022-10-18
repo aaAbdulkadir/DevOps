@@ -2,4 +2,4 @@
 
 cd jenkins
 docker build -t app:latest .
-docker tag app:latest streamlit-jenkins:latest
+docker tag app:latest aaabdulkadir/streamlit-jenkins:latest
