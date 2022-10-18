@@ -9,25 +9,25 @@ pipeline {
                 sh 'bash jenkins/bash/setup.sh'
             }
         }
-        // stage('Login') {
-        //     steps {
-        //         sh 'echo $DOCKERHUB_CREDENTIALS_USR'
-        //     }
-        // }
+        stage('Login') {
+            steps {
+                sh 'bash jenkins/bash/login.sh'
+            }
+        }
         stage('build') {
             steps {
                 sh 'bash jenkins/bash/build.sh'
             }
         }
-        // stage('Push') {
-        //     steps {
-        //         sh 'bash jenkins/bash/push.sh'
-        //     }
-        // }
+        stage('Push') {
+            steps {
+                sh 'bash jenkins/bash/push.sh'
+            }
+        }
     }
-    // post{
-    //     always{
-    //         sh 'docker logout'
-    //     }
-    // }
+    post{
+        always{
+            sh 'docker logout'
+        }
+    }
 }
