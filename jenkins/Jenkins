@@ -6,28 +6,28 @@ pipeline {
     stages {
         stage('setup') {
             steps {
-                sh 'bash jenkins/bash/setup.sh'
+                sh 'docker build -t app:latest .'
             }
         }
-        stage('Login') {
-            steps {
-                sh 'echo $DOCKERHUB_CREDENTIALS_USR'
-            }
-        }
-        stage('build') {
-            steps {
-                sh 'bash jenkins/bash/build.sh'
-            }
-        }
-        stage('Push') {
-            steps {
-                sh 'bash jenkins/bash/push.sh'
-            }
-        }
+        // stage('Login') {
+        //     steps {
+        //         sh 'echo $DOCKERHUB_CREDENTIALS_USR'
+        //     }
+        // }
+        // stage('build') {
+        //     steps {
+        //         sh 'bash jenkins/bash/build.sh'
+        //     }
+        // }
+        // stage('Push') {
+        //     steps {
+        //         sh 'bash jenkins/bash/push.sh'
+        //     }
+        // }
     }
-    post{
-        always{
-            sh 'docker logout'
-        }
-    }
+    // post{
+    //     always{
+    //         sh 'docker logout'
+    //     }
+    // }
 }
