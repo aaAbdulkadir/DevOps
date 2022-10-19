@@ -1,4 +1,4 @@
 #! /bin/bash
 
 # log into acr
-az login
+docker login streamlitcontainerregistry.azurecr.io -u $AACR_USR -p $ACR_PSW

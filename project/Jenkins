@@ -1,0 +1,38 @@
+pipeline {
+    agent any
+    environment{
+        ACR = credentials("")
+    }
+    stages {
+        stage('setup') {
+            steps {
+                sh 'bash bash/setup.sh'
+            }
+        }
+        stage('Login') {
+            steps {
+                sh 'bash bash/login.sh'
+            }
+        }
+        stage('build') {
+            steps {
+                sh 'bash bash/build.sh'
+            }
+        }
+        stage('Push') {
+            steps {
+                sh 'bash bash/push.sh'
+            }
+        }
+        stage('Deploy') {
+            steps {
+                sh 'bash bash/deploy.sh'
+            }
+        }
+    }
+    post{
+        always{
+            sh 'docker logout'
+        }
+    }
+}
