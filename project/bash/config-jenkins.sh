@@ -13,6 +13,7 @@ wget https://github.com/docker/compose/releases/download/v2.10.2/docker-compose-
 chmod +x docker-compose
 echo "export PATH='${HOME}/bin:${PATH}'" >> ~/.bashrc
 source ~/.bashrc
+sudo groupadd docker-compose
 
 # Java
 sudo add-apt-repository ppa:openjdk-r/ppa
@@ -29,3 +30,8 @@ sudo apt install jenkins
 curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64
 sudo install minikube-linux-amd64 /usr/local/bin/minikube
 minikube start --driver docker
+
+# Configure access
+sudo usermod -aG docker jenkins
+sudo usermod -aG docker-compose jenkins
+sudo service jenkins restart
