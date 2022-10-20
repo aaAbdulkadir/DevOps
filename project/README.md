@@ -200,7 +200,12 @@ Take the external IP and using port 80, the website should bea ble to be accesse
 
 #### GitHub Webhook
 
-To set up a Github Webhook, go to the repository which is being pulled into Jenkins on GitHub and click on settings. From there, click on webhooks and add a webhook. Add the link which is being used to access the jenkins server i.e. ip:8080 and create webhook.
+To set up a Github Webhook:
+- Go to the repository which is being pulled into Jenkins on GitHub and click on settings
+-  From there, click on webhooks and add a webhook
+-  Add the link which is being used to access the jenkins server and add /github-webhook/ i.e. ip:8080/github-webhook/ and create webhook.
+- Change the content type to application/json
+- Create webhook.
 
 
 
