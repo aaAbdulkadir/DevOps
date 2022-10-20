@@ -4,4 +4,4 @@ main.tfplan
 .terraform.lock.hcl
 azure_key.pem
 .terraform
-
+.DS_Store
