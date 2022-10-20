@@ -2,5 +2,5 @@
 
 # push docker image to ACR
 echo "Pushing docker image..."
-pwd
+cd project/streamlitapp/
 docker-compose push
