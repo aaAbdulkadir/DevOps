@@ -93,8 +93,6 @@ Prerequesits: azure and terraform cli.
     - Tag the image with the container registry name + .azure.io + /{image_name} (which can be found inside the container registry access keys):
         - streamlitcontainerregistry.azurecr.io/portfolio-app:latest
 
-- 
-
 - Once the docker image is created with the correct tag, it needs to be pushed to the container registry, which will be set up on the Jenkins server as on the server, it will build the image and then be pushed to the container registry, as shown in the following steps.
 
 #### Kubernetes
@@ -156,13 +154,40 @@ After clicking on install jenkins with recommended plugins, it is ready to use.
 
 ### Creating a Pipeline
 
-#### Setting up credentials
+#### Setting up ACR Credentials
 
 In order to create a pipeline that pushes the docker image locally to Azure Container Registry, a credential needs to be set up to access this.
 
 To create a credential, firstly go to the container registry and click on the access keys blade. There should be a username and password which will be used to create a credential on Jenkins.
 
+On Jenkins, create a new global credential with the kind, username with password.
 
+Add the credential to the Jenkins script with the ID set.
+
+#### Setting up Kubernetes Cluster via Kubectl
+
+Connect to the kubernetes cluster using the following command:
+
+```
+az aks get-credentials --resource-group streamlit_project --name streamlit-aks
+```
+
+Check if it is connected to by typing the following command:
+
+```
+kubectl get nodes
+```
+
+#### Pipeline
+
+- Create a pipeline project.
+- Tick github web trigger for GITScm polling as the build trigger.
+- For pipeline, pick the pipeline script from SCM, where the SCM is Git. Paste the GitHub repository that contains the pipeline.
+- Change the branch from master to main.
+- Change the script path to 'project/Jenkins'.
+- Save.
+
+Now that the pipeline is set, build and see if it runs sucessfully.
 
 
 

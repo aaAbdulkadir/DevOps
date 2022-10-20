@@ -2,9 +2,10 @@ pipeline {
     agent any
     environment{
         ACR = credentials("ACR")
+        AZ = credentials('az-credentials')
     }
     stages {
-        stage('Login') {
+        stage('Login ACR') {
             steps {
                 sh 'bash project/bash/login.sh'
             }
@@ -17,6 +18,11 @@ pipeline {
         stage('Push') {
             steps {
                 sh 'bash project/bash/push.sh'
+            }
+        }
+        stage('Login AKS') {
+            steps {
+                sh 'bash project/bash/login_az.sh'
             }
         }
         stage('Deploy') {
