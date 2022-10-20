@@ -24,11 +24,11 @@ CI/CD using Jenkins on Azure Container Service (AKS)
 ## Method
 
 - Create a Terraform plan to deploy:
-    - A virtual machine for jenkins
+    - A virtual machine for Jenkins
     - AKS for the kubernetes cluster of the webapp
     - ACR to push the image of the webapp to this rather than dockerhub
     - App service plan
-- After creating plan, download jenkins on the VM and connect it to the github repository with the webapp and configure webhook.
+- After creating plan, download Jenkins on the VM and connect it to the github repository with the webapp and configure webhook.
     - Build the image of the webapp, test, deploy.
 - Deploy webapp to App service so it can be used. Maybe requires Jenkins connection to AKS, ACR.
 
@@ -95,7 +95,7 @@ Prerequesits: azure and terraform cli.
 
 - 
 
-- Once the docker image is created with the correct tag, it needs to be pushed to the container registry, which will be set up on the jenkins server as on the server, it will build the image and then be pushed to the container registry, as shown in the following steps.
+- Once the docker image is created with the correct tag, it needs to be pushed to the container registry, which will be set up on the Jenkins server as on the server, it will build the image and then be pushed to the container registry, as shown in the following steps.
 
 #### Kubernetes
 
@@ -105,7 +105,7 @@ Prerequesits: azure and terraform cli.
 
 #### Logging in
 
-Go to the connect blade under the jenkins server VM group and type in the private key path and copy the ssh command to log into the VM.
+Go to the connect blade under the Jenkins server VM group and type in the private key path and copy the ssh command to log into the VM.
 
 ```
 ssh -i {path_to_key} {user}@{ip}
@@ -122,3 +122,48 @@ cd DevOps/project/bash/
 
 bash config-jenkins.sh
 ```
+
+#### Starting up Jenkins
+
+After running the config file, the VM should be ready to start up Jenkins and start creating the pipeline. Jenkins can be started up with the following command:
+
+```
+sudo systemctl start jenkins
+```
+
+Then, to see whether Jenkins is running succesfully, the following command can be used:
+
+```
+sudo systemctl status jenkins
+```
+
+The next stage is then to open the firewall so that port 8080 can be accessed locally. This can be done by going to the network blade under the VM on Azure and adding an inbound port rule.
+
+-   Set the destination port ranges to 8080
+-   Set the protocol to TCP
+-   Set the priority to 100
+
+Once that is done, Jenkins can be accessed via the public IP address and through port 8080 i.e. IP:8080.
+
+![image](images/jenkinsstart.png)
+
+To log into Jenkins, the admin password is needed and can be accessed by typing the following command in the VM:
+
+```
+sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+```
+After clicking on install jenkins with recommended plugins, it is ready to use.
+
+### Creating a Pipeline
+
+#### Setting up credentials
+
+In order to create a pipeline that pushes the docker image locally to Azure Container Registry, a credential needs to be set up to access this.
+
+To create a credential, firstly go to the container registry and click on the access keys blade. There should be a username and password which will be used to create a credential on Jenkins.
+
+
+
+
+
+

@@ -1,32 +1,27 @@
 pipeline {
     agent any
     environment{
-        ACR = credentials("")
+        ACR = credentials("ACR")
     }
     stages {
-        stage('setup') {
-            steps {
-                sh 'bash bash/setup.sh'
-            }
-        }
         stage('Login') {
             steps {
-                sh 'bash bash/login.sh'
+                sh 'bash project/bash/login.sh'
             }
         }
-        stage('build') {
+        stage('Build') {
             steps {
-                sh 'bash bash/build.sh'
+                sh 'bash project/bash/build.sh'
             }
         }
         stage('Push') {
             steps {
-                sh 'bash bash/push.sh'
+                sh 'bash project/bash/push.sh'
             }
         }
         stage('Deploy') {
             steps {
-                sh 'bash bash/deploy.sh'
+                sh 'bash project/bash/deploy.sh'
             }
         }
     }
