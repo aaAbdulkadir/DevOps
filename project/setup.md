@@ -166,7 +166,21 @@ Add the credential to the Jenkins script with the ID set.
 
 #### Setting up Kubernetes Cluster via Kubectl
 
-Connect to the kubernetes cluster using the following command:
+Connect to the kubernetes cluster by first setting up credentials for Azure CLI. Before doing that, a service prinicipal must be created as follows:
+
+```
+az ad sp create-for-rbac
+```
+
+Make a credential on Jenkins for the rbac information. In order to this specific credential, an Azure plugin is needed and that is the 'Azure Credentials' plugin.
+
+With the plugin installed, the information from the previous command can be inputted and a connection to Azure CLI can be established.
+
+```
+az login
+```
+Once logged in, copy the id seen in the CLI
+
 
 ```
 az aks get-credentials --resource-group streamlit_project --name streamlit-aks
