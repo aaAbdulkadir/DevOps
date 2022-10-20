@@ -22,7 +22,7 @@ pipeline {
         }
         stage('Login AKS') {
             steps {
-                sh 'bash project/bash/login_az.sh'
+                sh 'bash project/bash/login_aks.sh'
             }
         }
         stage('Deploy') {
