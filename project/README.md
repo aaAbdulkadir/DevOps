@@ -169,28 +169,10 @@ Add the credential to the Jenkins script with the ID set.
 Connect to the kubernetes cluster by first setting up credentials for Azure CLI. Before doing that, a service prinicipal must be created as follows:
 
 ```
-az ad sp create-for-rbac
+az ad sp create-for-rbac --scopes /subscriptions/{subscription_id} --role contributor
 ```
 
-Make a credential on Jenkins for the rbac information. In order to this specific credential, an Azure plugin is needed and that is the 'Azure Credentials' plugin.
-
-With the plugin installed, the information from the previous command can be inputted and a connection to Azure CLI can be established.
-
-```
-az login
-```
-Once logged in, copy the id seen in the CLI
-
-
-```
-az aks get-credentials --resource-group streamlit_project --name streamlit-aks
-```
-
-Check if it is connected to by typing the following command:
-
-```
-kubectl get nodes
-```
+After, running this command, a list is printed on the CLI. Create a Jenkins credential with the appId, password and tenant id from this list of information seen on the CLI.
 
 #### Pipeline
 
@@ -202,6 +184,23 @@ kubectl get nodes
 - Save.
 
 Now that the pipeline is set, build and see if it runs sucessfully.
+
+
+##### Verificaiton
+
+To view if the AKS is running succesfully, go to VM and type the following whilst logged into az cli:
+
+```
+az aks get-credentials --resource-group streamlit_project --name streamlit-aks
+
+kubectl get svc
+```
+
+Take the external IP and using port 80, the website should bea ble to be accessed.
+
+#### GitHub Webhook
+
+To set up a Github Webhook, go to the repository which is being pulled into Jenkins on GitHub and click on settings. From there, click on webhooks and add a webhook. Add the link which is being used to access the jenkins server i.e. ip:8080 and create webhook.
 
 
 
