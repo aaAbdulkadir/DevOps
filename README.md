@@ -1,3 +1,3 @@
 # Overview
 
-Learning Git, Kubernetes and CI/CD with Jenkins.
+Learning Git, Bash, Unit Testing, Vagrant, Kubernetes, CI/CD with Jenkins.
