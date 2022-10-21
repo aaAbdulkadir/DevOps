@@ -1,13 +1,12 @@
-# Plan of the project
+# Portfolio Web App CI/CD Pipeline
 
+A cloud based CI/CD pipeline of my portfolio webapp created using Streamlit. Consisted of using Azure, Jenkins, ACR and AKS.
 
-## Diagram 
+## Overview
 
-Something among these lines
+This project consisted of creating a CI/CD pipeline using Jenkins for a portfolio web application created on Streamlit. Jenkins was provisioned on an Azure virtual machine. The Jenkins pipeline consists of a webhook to the GitHub repo which contains the files and pulls it into Jenkins The pipeline builds a docker image of the portfolio webapp and pushes it into Azure Container Registry, where the image uploaded is pulled to Azure Kubernetes Service to create a cluster of the application and deploy it.
 
 ![image](images/plan2.png)
-
-CI/CD using Jenkins on Azure Container Service (AKS)
 
 ## Diagram Explained
 
@@ -17,31 +16,6 @@ CI/CD using Jenkins on Azure Container Service (AKS)
 - Jenkins triggers a build job using Azure Container Service (AKS) for a dynamic build agent.
 - Jenkins builds and pushes Docker container Azure Container Registry.
 - Jenkins deploys new containerized app to Kubernetes on Azure Container Service (AKS).
-- Grafana displays visualization of infrastructure and application metrics via Azure Monitor.
-- Monitor application and make improvements.
-
-
-## Method
-
-- Create a Terraform plan to deploy:
-    - A virtual machine for Jenkins
-    - AKS for the kubernetes cluster of the webapp
-    - ACR to push the image of the webapp to this rather than dockerhub
-- After creating plan, download Jenkins on the VM and connect it to the github repository with the webapp and configure webhook.
-    - Build the image of the webapp, test, deploy.
-
-
-Jenkins:
-- Clones the GitHub repository
-- Builds a new container image
-- Pushes the container image to the ACR registry
-- Updates the image used by the AKS deployment
-
-## References: 
-- https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/container-cicd-using-jenkins-and-kubernetes-on-azure-container-service
-- https://learn.microsoft.com/en-us/azure/developer/jenkins/configure-on-linux-vm
-- https://github.com/Azure-Samples/azure-voting-app-redis
-- https://learn.microsoft.com/en-us/azure/developer/jenkins/deploy-from-github-to-aks
 
 ## Walkthrough
 
@@ -189,7 +163,9 @@ After, running this command, a list is printed on the CLI. Create a Jenkins cred
 
 Now that the pipeline is set, build and see if it runs sucessfully.
 
-##### Verificaiton
+![image](images/jenkinspipeline.png)
+
+#### Verificaiton
 
 To view if the AKS is running succesfully, go to VM and type the following whilst logged into az cli:
 
@@ -212,9 +188,13 @@ To set up a Github Webhook:
 - Change the content type to application/json
 - Create webhook.
 
+Once new code is pushed to the GitHub repository, the Jenkins pipeline should automatically run and can be viewed under 'GitHub Hook Log' inside the pipeline settings.
+
+![image](images/webhook.png)
+
 ## Final Result
 
-![images](images/fina.png)
+![images](images/final.png)
 
 The website runs on the load balancer set with an external ip address and on the port 80.
 
@@ -228,6 +208,13 @@ An Ingress may be configured to give services externally-reachable URLs and henc
 - The service runs the containers on an IP address and allows you to connect to the containers via the web
 - The ingress redirects this IP to a domain.
 
+### Unit Testing
+
+Adding testing to a web application should be done as it ensures everything is running smoothly and find any issues with the code. However, I decided not to do any testing as looking into Streamlit, I do not think it was required, especially for the functionality of the website. Additionally, it is not a website I plan to make regular changes to.
 
 
-
+## References: 
+- https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/container-cicd-using-jenkins-and-kubernetes-on-azure-container-service
+- https://learn.microsoft.com/en-us/azure/developer/jenkins/configure-on-linux-vm
+- https://github.com/Azure-Samples/azure-voting-app-redis
+- https://learn.microsoft.com/en-us/azure/developer/jenkins/deploy-from-github-to-aks

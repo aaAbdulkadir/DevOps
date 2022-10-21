@@ -34,8 +34,17 @@ make install
     source venv/bin/activate
 ```
 
+You can check file path of python by typing 'which python' and it should show the path of the virutal environment as it is added to the path the latest and will find it first.
+
 - To get out of the virtual environment
 
 ```bash
     deactivate
+```
+
+To find out which packages are installed on the python environment after production of the application and also to save it to a requirementes file,
+run:
+
+```
+pip freeze > requirements.txt
 ```

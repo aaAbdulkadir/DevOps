@@ -5,3 +5,4 @@ main.tfplan
 azure_key.pem
 .terraform
 .DS_Store
+venv
