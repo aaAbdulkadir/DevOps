@@ -27,18 +27,15 @@ CI/CD using Jenkins on Azure Container Service (AKS)
     - A virtual machine for Jenkins
     - AKS for the kubernetes cluster of the webapp
     - ACR to push the image of the webapp to this rather than dockerhub
-    - App service plan
 - After creating plan, download Jenkins on the VM and connect it to the github repository with the webapp and configure webhook.
     - Build the image of the webapp, test, deploy.
-- Deploy webapp to App service so it can be used. Maybe requires Jenkins connection to AKS, ACR.
+
 
 Jenkins:
 - Clones the GitHub repository
 - Builds a new container image
 - Pushes the container image to the ACR registry
 - Updates the image used by the AKS deployment
-
-
 
 ## References: 
 - https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/container-cicd-using-jenkins-and-kubernetes-on-azure-container-service
@@ -56,29 +53,32 @@ Prerequesits: azure and terraform cli.
     - Resource group
     - Container registry
     - Kubernetes cluster
-    - App service plan (change size)
     - Virtual machine
 
-    where the container registry is attached to the kubernetes cluster in the tfplan.
+where the container registry is attached to the kubernetes cluster in the tfplan.
 
-    Once the file is ready, run the following:
+Once the file is ready, run the following:
 
-    ```
-    az login
-    ```
-    Log into Azure CLI so that terraform can push plan to Azure to account.
+```
+az login
+```
+Log into Azure CLI so that terraform can push plan to Azure to account.
 
-    ```
-    terraform init
+```
+terraform init
+```
 
-    terraform plan -out main.tfplan
+```
+terraform plan -out main.tfplan
+```
 
-    terraform apply main.tfplan
-    ```
+```
+terraform apply main.tfplan
+```
 
-    After running the commands, the following should be seen on Azure:
+After running the commands, the following should be seen on Azure:
 
-    ![image](images/terraformplan.png)
+![image](images/terraformplan.png)
 
 ### Setting up files
 
@@ -115,9 +115,13 @@ Firstly, git clone the repo with all the files. After cloning repo, locate the c
 
 ```
 git clone https://github.com/aaAbdulkadir/DevOps.git
+```
 
+```
 cd DevOps/project/bash/
+```
 
+```
 bash config-jenkins.sh
 ```
 
@@ -158,11 +162,11 @@ After clicking on install jenkins with recommended plugins, it is ready to use.
 
 In order to create a pipeline that pushes the docker image locally to Azure Container Registry, a credential needs to be set up to access this.
 
-To create a credential, firstly go to the container registry and click on the access keys blade. There should be a username and password which will be used to create a credential on Jenkins.
+- To create a credential, firstly go to the container registry and click on the access keys blade. There should be a username and password which will be used to create a credential on Jenkins.
 
-On Jenkins, create a new global credential with the kind, username with password.
+- On Jenkins, create a new global credential with the kind, username with password.
 
-Add the credential to the Jenkins script with the ID set.
+- Add the credential to the Jenkins script with the ID set.
 
 #### Setting up Kubernetes Cluster via Kubectl
 
@@ -185,14 +189,15 @@ After, running this command, a list is printed on the CLI. Create a Jenkins cred
 
 Now that the pipeline is set, build and see if it runs sucessfully.
 
-
 ##### Verificaiton
 
 To view if the AKS is running succesfully, go to VM and type the following whilst logged into az cli:
 
 ```
 az aks get-credentials --resource-group streamlit_project --name streamlit-aks
+```
 
+```
 kubectl get svc
 ```
 
@@ -206,6 +211,22 @@ To set up a Github Webhook:
 -  Add the link which is being used to access the jenkins server and add /github-webhook/ i.e. ip:8080/github-webhook/ and create webhook.
 - Change the content type to application/json
 - Create webhook.
+
+## Final Result
+
+![images](images/fina.png)
+
+The website runs on the load balancer set with an external ip address and on the port 80.
+
+## Improvements
+
+### Ingress 
+
+An Ingress may be configured to give services externally-reachable URLs and hence would be implemented in a real production environment. To improve this project and make it more realistic, getting a domain and deploying an ingress controller would be ideal.
+
+- The deployment runs the pods of the containers
+- The service runs the containers on an IP address and allows you to connect to the containers via the web
+- The ingress redirects this IP to a domain.
 
 
 
