@@ -6,7 +6,7 @@ A cloud based CI/CD pipeline of my portfolio webapp created using Streamlit. Con
 
 This project consisted of creating a CI/CD pipeline using Jenkins for a portfolio web application created on Streamlit. Jenkins was provisioned on an Azure virtual machine. The Jenkins pipeline consists of a webhook to the GitHub repo which contains the files and pulls it into Jenkins The pipeline builds a docker image of the portfolio webapp and pushes it into Azure Container Registry, where the image uploaded is pulled to Azure Kubernetes Service to create a cluster of the application and deploy it.
 
-![image](images/plan2.png)
+![image](images/plan.png)
 
 ## Diagram Explained
 
