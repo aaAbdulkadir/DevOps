@@ -33,20 +33,20 @@ where the container registry is attached to the kubernetes cluster in the tfplan
 
 Once the file is ready, run the following:
 
-```
+```bash
 az login
 ```
 Log into Azure CLI so that terraform can push plan to Azure to account.
 
-```
+```bash
 terraform init
 ```
 
-```
+```bash
 terraform plan -out main.tfplan
 ```
 
-```
+```bash
 terraform apply main.tfplan
 ```
 
@@ -79,7 +79,7 @@ After running the commands, the following should be seen on Azure:
 
 Go to the connect blade under the Jenkins server VM group and type in the private key path and copy the ssh command to log into the VM.
 
-```
+```bash
 ssh -i {path_to_key} {user}@{ip}
 ```
 
@@ -87,15 +87,15 @@ ssh -i {path_to_key} {user}@{ip}
 
 Firstly, git clone the repo with all the files. After cloning repo, locate the config file which contains the download for jenkins, docker, docker comopse, azure cli and kubectl. Run it as follows:
 
-```
+```bash
 git clone https://github.com/aaAbdulkadir/DevOps.git
 ```
 
-```
+```bash
 cd DevOps/project/bash/
 ```
 
-```
+```bash
 bash config-jenkins.sh
 ```
 
@@ -103,13 +103,13 @@ bash config-jenkins.sh
 
 After running the config file, the VM should be ready to start up Jenkins and start creating the pipeline. Jenkins can be started up with the following command:
 
-```
+```bash
 sudo systemctl start jenkins
 ```
 
 Then, to see whether Jenkins is running succesfully, the following command can be used:
 
-```
+```bash
 sudo systemctl status jenkins
 ```
 
@@ -125,7 +125,7 @@ Once that is done, Jenkins can be accessed via the public IP address and through
 
 To log into Jenkins, the admin password is needed and can be accessed by typing the following command in the VM:
 
-```
+```bash
 sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 ```
 After clicking on install jenkins with recommended plugins, it is ready to use.
@@ -146,7 +146,7 @@ In order to create a pipeline that pushes the docker image locally to Azure Cont
 
 Connect to the kubernetes cluster by first setting up credentials for Azure CLI. Before doing that, a service prinicipal must be created as follows:
 
-```
+```bash
 az ad sp create-for-rbac --scopes /subscriptions/{subscription_id} --role contributor
 ```
 
@@ -169,11 +169,11 @@ Now that the pipeline is set, build and see if it runs sucessfully.
 
 To view if the AKS is running succesfully, go to VM and type the following whilst logged into az cli:
 
-```
+```bash
 az aks get-credentials --resource-group streamlit_project --name streamlit-aks
 ```
 
-```
+```bash
 kubectl get svc
 ```
 
